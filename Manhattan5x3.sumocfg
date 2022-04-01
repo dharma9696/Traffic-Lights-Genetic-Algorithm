@@ -1,0 +1,1 @@
+<configuration><input><net-file value="Manhattan5x3.net.xml" /><route-files value="Manhattan5x3.rou.xml" /></input><time><begin value="0" /><end value="1000" /></time><time-to-teleport value="-1" /></configuration>

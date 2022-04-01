@@ -1,0 +1,21 @@
+{
+    "os": "Windows-10-10.0.22000-SP0",
+    "python": "3.9.5",
+    "heartbeatAt": "2022-03-27T06:35:00.107247",
+    "startedAt": "2022-03-27T06:34:58.775572",
+    "docker": null,
+    "gpu": "GeForce GTX 1650",
+    "gpu_count": 1,
+    "cpu_count": 12,
+    "cuda": null,
+    "args": [
+        "-f",
+        "C:\\Users\\rohit\\AppData\\Roaming\\jupyter\\runtime\\kernel-1dcdfdff-cc47-45cb-ae59-84d312efbd82.json"
+    ],
+    "state": "running",
+    "program": "main-Copy1.ipynb",
+    "root": "C:\\Users\\rohit\\Personal Projects\\Traffic Lights Genetic Algorithm",
+    "host": "LAPTOP-APIA30B2",
+    "username": "rohit",
+    "executable": "c:\\users\\rohit\\appdata\\local\\programs\\python\\python39\\python.exe"
+}

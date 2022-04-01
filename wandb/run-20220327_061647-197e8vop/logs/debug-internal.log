@@ -1,0 +1,883 @@
+2022-03-27 06:16:53,703 INFO    MainThread:6780 [internal.py:wandb_internal():92] W&B internal server running at pid: 6780, started at: 2022-03-27 06:16:53.687873
+2022-03-27 06:16:53,703 INFO    WriterThread:6780 [datastore.py:open_for_write():77] open: C:\Users\rohit\Personal Projects\Traffic Lights Genetic Algorithm\wandb\run-20220327_061647-197e8vop\run-197e8vop.wandb
+2022-03-27 06:16:53,703 DEBUG   SenderThread:6780 [sender.py:send():235] send: header
+2022-03-27 06:16:53,703 DEBUG   SenderThread:6780 [sender.py:send():235] send: run
+2022-03-27 06:16:53,922 DEBUG   HandlerThread:6780 [handler.py:handle_request():141] handle_request: check_version
+2022-03-27 06:16:53,929 INFO    SenderThread:6780 [dir_watcher.py:__init__():169] watching files in: C:\Users\rohit\Personal Projects\Traffic Lights Genetic Algorithm\wandb\run-20220327_061647-197e8vop\files
+2022-03-27 06:16:53,937 INFO    SenderThread:6780 [sender.py:_start_run_threads():812] run started: 197e8vop with start time 1648354612
+2022-03-27 06:16:53,937 DEBUG   SenderThread:6780 [sender.py:send():235] send: summary
+2022-03-27 06:16:53,938 INFO    SenderThread:6780 [sender.py:_save_file():947] saving file wandb-summary.json with policy end
+2022-03-27 06:16:53,938 DEBUG   SenderThread:6780 [sender.py:send_request():249] send_request: check_version
+2022-03-27 06:16:54,000 DEBUG   HandlerThread:6780 [handler.py:handle_request():141] handle_request: run_start
+2022-03-27 06:16:54,016 DEBUG   HandlerThread:6780 [meta.py:__init__():37] meta init
+2022-03-27 06:16:54,016 DEBUG   HandlerThread:6780 [meta.py:__init__():51] meta init done
+2022-03-27 06:16:54,016 DEBUG   HandlerThread:6780 [meta.py:probe():211] probe
+2022-03-27 06:16:54,032 DEBUG   HandlerThread:6780 [meta.py:_save_pip():55] save pip
+2022-03-27 06:16:54,032 DEBUG   HandlerThread:6780 [meta.py:_save_pip():69] save pip done
+2022-03-27 06:16:54,032 DEBUG   HandlerThread:6780 [meta.py:probe():249] probe done
+2022-03-27 06:16:54,047 DEBUG   SenderThread:6780 [sender.py:send():235] send: files
+2022-03-27 06:16:54,047 INFO    SenderThread:6780 [sender.py:_save_file():947] saving file wandb-metadata.json with policy now
+2022-03-27 06:16:54,072 DEBUG   HandlerThread:6780 [handler.py:handle_request():141] handle_request: stop_status
+2022-03-27 06:16:54,072 DEBUG   SenderThread:6780 [sender.py:send_request():249] send_request: stop_status
+2022-03-27 06:16:54,222 DEBUG   SenderThread:6780 [sender.py:send():235] send: telemetry
+2022-03-27 06:16:54,582 INFO    Thread-11 :6780 [upload_job.py:push():137] Uploaded file C:\Users\rohit\AppData\Local\Temp\tmpe7m8jtfywandb\3ozshh2l-wandb-metadata.json
+2022-03-27 06:16:54,941 INFO    Thread-7  :6780 [dir_watcher.py:_on_file_created():217] file/dir created: C:\Users\rohit\Personal Projects\Traffic Lights Genetic Algorithm\wandb\run-20220327_061647-197e8vop\files\output.log
+2022-03-27 06:16:54,941 INFO    Thread-7  :6780 [dir_watcher.py:_on_file_created():217] file/dir created: C:\Users\rohit\Personal Projects\Traffic Lights Genetic Algorithm\wandb\run-20220327_061647-197e8vop\files\wandb-metadata.json
+2022-03-27 06:16:54,941 INFO    Thread-7  :6780 [dir_watcher.py:_on_file_created():217] file/dir created: C:\Users\rohit\Personal Projects\Traffic Lights Genetic Algorithm\wandb\run-20220327_061647-197e8vop\files\requirements.txt
+2022-03-27 06:16:54,941 INFO    Thread-7  :6780 [dir_watcher.py:_on_file_created():217] file/dir created: C:\Users\rohit\Personal Projects\Traffic Lights Genetic Algorithm\wandb\run-20220327_061647-197e8vop\files\wandb-summary.json
+2022-03-27 06:16:56,942 INFO    Thread-7  :6780 [dir_watcher.py:_on_file_modified():230] file/dir modified: C:\Users\rohit\Personal Projects\Traffic Lights Genetic Algorithm\wandb\run-20220327_061647-197e8vop\files\output.log
+2022-03-27 06:17:09,233 DEBUG   HandlerThread:6780 [handler.py:handle_request():141] handle_request: stop_status
+2022-03-27 06:17:09,233 DEBUG   SenderThread:6780 [sender.py:send_request():249] send_request: stop_status
+2022-03-27 06:17:24,411 DEBUG   HandlerThread:6780 [handler.py:handle_request():141] handle_request: stop_status
+2022-03-27 06:17:24,458 DEBUG   SenderThread:6780 [sender.py:send_request():249] send_request: stop_status
+2022-03-27 06:17:25,130 DEBUG   SenderThread:6780 [sender.py:send():235] send: stats
+2022-03-27 06:17:25,161 INFO    Thread-7  :6780 [dir_watcher.py:_on_file_modified():230] file/dir modified: C:\Users\rohit\Personal Projects\Traffic Lights Genetic Algorithm\wandb\run-20220327_061647-197e8vop\files\config.yaml
+2022-03-27 06:17:39,642 DEBUG   HandlerThread:6780 [handler.py:handle_request():141] handle_request: stop_status
+2022-03-27 06:17:39,642 DEBUG   SenderThread:6780 [sender.py:send_request():249] send_request: stop_status
+2022-03-27 06:17:48,338 INFO    Thread-7  :6780 [dir_watcher.py:_on_file_modified():230] file/dir modified: C:\Users\rohit\Personal Projects\Traffic Lights Genetic Algorithm\wandb\run-20220327_061647-197e8vop\files\output.log
+2022-03-27 06:17:54,820 DEBUG   HandlerThread:6780 [handler.py:handle_request():141] handle_request: stop_status
+2022-03-27 06:17:54,820 DEBUG   SenderThread:6780 [sender.py:send_request():249] send_request: stop_status
+2022-03-27 06:17:58,420 DEBUG   SenderThread:6780 [sender.py:send():235] send: stats
+2022-03-27 06:18:09,990 DEBUG   HandlerThread:6780 [handler.py:handle_request():141] handle_request: stop_status
+2022-03-27 06:18:09,990 DEBUG   SenderThread:6780 [sender.py:send_request():249] send_request: stop_status
+2022-03-27 06:18:25,151 DEBUG   HandlerThread:6780 [handler.py:handle_request():141] handle_request: stop_status
+2022-03-27 06:18:25,151 DEBUG   SenderThread:6780 [sender.py:send_request():249] send_request: stop_status
+2022-03-27 06:18:31,599 DEBUG   SenderThread:6780 [sender.py:send():235] send: stats
+2022-03-27 06:18:32,817 INFO    Thread-7  :6780 [dir_watcher.py:_on_file_modified():230] file/dir modified: C:\Users\rohit\Personal Projects\Traffic Lights Genetic Algorithm\wandb\run-20220327_061647-197e8vop\files\output.log
+2022-03-27 06:18:40,301 DEBUG   HandlerThread:6780 [handler.py:handle_request():141] handle_request: stop_status
+2022-03-27 06:18:40,301 DEBUG   SenderThread:6780 [sender.py:send_request():249] send_request: stop_status
+2022-03-27 06:18:55,442 DEBUG   HandlerThread:6780 [handler.py:handle_request():141] handle_request: stop_status
+2022-03-27 06:18:55,442 DEBUG   SenderThread:6780 [sender.py:send_request():249] send_request: stop_status
+2022-03-27 06:19:04,667 DEBUG   SenderThread:6780 [sender.py:send():235] send: stats
+2022-03-27 06:19:05,064 INFO    Thread-7  :6780 [dir_watcher.py:_on_file_modified():230] file/dir modified: C:\Users\rohit\Personal Projects\Traffic Lights Genetic Algorithm\wandb\run-20220327_061647-197e8vop\files\output.log
+2022-03-27 06:19:07,079 INFO    Thread-7  :6780 [dir_watcher.py:_on_file_modified():230] file/dir modified: C:\Users\rohit\Personal Projects\Traffic Lights Genetic Algorithm\wandb\run-20220327_061647-197e8vop\files\output.log
+2022-03-27 06:19:10,593 DEBUG   HandlerThread:6780 [handler.py:handle_request():141] handle_request: stop_status
+2022-03-27 06:19:10,593 DEBUG   SenderThread:6780 [sender.py:send_request():249] send_request: stop_status
+2022-03-27 06:19:25,737 DEBUG   HandlerThread:6780 [handler.py:handle_request():141] handle_request: stop_status
+2022-03-27 06:19:25,737 DEBUG   SenderThread:6780 [sender.py:send_request():249] send_request: stop_status
+2022-03-27 06:19:37,779 DEBUG   SenderThread:6780 [sender.py:send():235] send: stats
+2022-03-27 06:19:39,354 INFO    Thread-7  :6780 [dir_watcher.py:_on_file_modified():230] file/dir modified: C:\Users\rohit\Personal Projects\Traffic Lights Genetic Algorithm\wandb\run-20220327_061647-197e8vop\files\output.log
+2022-03-27 06:19:40,901 DEBUG   HandlerThread:6780 [handler.py:handle_request():141] handle_request: stop_status
+2022-03-27 06:19:40,901 DEBUG   SenderThread:6780 [sender.py:send_request():249] send_request: stop_status
+2022-03-27 06:19:56,045 DEBUG   HandlerThread:6780 [handler.py:handle_request():141] handle_request: stop_status
+2022-03-27 06:19:56,045 DEBUG   SenderThread:6780 [sender.py:send_request():249] send_request: stop_status
+2022-03-27 06:20:10,848 DEBUG   SenderThread:6780 [sender.py:send():235] send: stats
+2022-03-27 06:20:11,197 DEBUG   HandlerThread:6780 [handler.py:handle_request():141] handle_request: stop_status
+2022-03-27 06:20:11,197 DEBUG   SenderThread:6780 [sender.py:send_request():249] send_request: stop_status
+2022-03-27 06:20:13,645 INFO    Thread-7  :6780 [dir_watcher.py:_on_file_modified():230] file/dir modified: C:\Users\rohit\Personal Projects\Traffic Lights Genetic Algorithm\wandb\run-20220327_061647-197e8vop\files\output.log
+2022-03-27 06:20:26,366 DEBUG   HandlerThread:6780 [handler.py:handle_request():141] handle_request: stop_status
+2022-03-27 06:20:26,366 DEBUG   SenderThread:6780 [sender.py:send_request():249] send_request: stop_status
+2022-03-27 06:20:41,532 DEBUG   HandlerThread:6780 [handler.py:handle_request():141] handle_request: stop_status
+2022-03-27 06:20:41,532 DEBUG   SenderThread:6780 [sender.py:send_request():249] send_request: stop_status
+2022-03-27 06:20:43,878 DEBUG   SenderThread:6780 [sender.py:send():235] send: stats
+2022-03-27 06:20:47,884 INFO    Thread-7  :6780 [dir_watcher.py:_on_file_modified():230] file/dir modified: C:\Users\rohit\Personal Projects\Traffic Lights Genetic Algorithm\wandb\run-20220327_061647-197e8vop\files\output.log
+2022-03-27 06:20:49,901 INFO    Thread-7  :6780 [dir_watcher.py:_on_file_modified():230] file/dir modified: C:\Users\rohit\Personal Projects\Traffic Lights Genetic Algorithm\wandb\run-20220327_061647-197e8vop\files\output.log
+2022-03-27 06:20:56,691 DEBUG   HandlerThread:6780 [handler.py:handle_request():141] handle_request: stop_status
+2022-03-27 06:20:56,691 DEBUG   SenderThread:6780 [sender.py:send_request():249] send_request: stop_status
+2022-03-27 06:21:11,858 DEBUG   HandlerThread:6780 [handler.py:handle_request():141] handle_request: stop_status
+2022-03-27 06:21:11,858 DEBUG   SenderThread:6780 [sender.py:send_request():249] send_request: stop_status
+2022-03-27 06:21:16,931 DEBUG   SenderThread:6780 [sender.py:send():235] send: stats
+2022-03-27 06:21:22,200 INFO    Thread-7  :6780 [dir_watcher.py:_on_file_modified():230] file/dir modified: C:\Users\rohit\Personal Projects\Traffic Lights Genetic Algorithm\wandb\run-20220327_061647-197e8vop\files\output.log
+2022-03-27 06:21:27,023 DEBUG   HandlerThread:6780 [handler.py:handle_request():141] handle_request: stop_status
+2022-03-27 06:21:27,023 DEBUG   SenderThread:6780 [sender.py:send_request():249] send_request: stop_status
+2022-03-27 06:21:42,178 DEBUG   HandlerThread:6780 [handler.py:handle_request():141] handle_request: stop_status
+2022-03-27 06:21:42,178 DEBUG   SenderThread:6780 [sender.py:send_request():249] send_request: stop_status
+2022-03-27 06:21:49,992 DEBUG   SenderThread:6780 [sender.py:send():235] send: stats
+2022-03-27 06:21:55,543 INFO    Thread-7  :6780 [dir_watcher.py:_on_file_modified():230] file/dir modified: C:\Users\rohit\Personal Projects\Traffic Lights Genetic Algorithm\wandb\run-20220327_061647-197e8vop\files\output.log
+2022-03-27 06:21:57,324 DEBUG   HandlerThread:6780 [handler.py:handle_request():141] handle_request: stop_status
+2022-03-27 06:21:57,324 DEBUG   SenderThread:6780 [sender.py:send_request():249] send_request: stop_status
+2022-03-27 06:22:12,483 DEBUG   HandlerThread:6780 [handler.py:handle_request():141] handle_request: stop_status
+2022-03-27 06:22:12,483 DEBUG   SenderThread:6780 [sender.py:send_request():249] send_request: stop_status
+2022-03-27 06:22:23,089 DEBUG   SenderThread:6780 [sender.py:send():235] send: stats
+2022-03-27 06:22:27,635 DEBUG   HandlerThread:6780 [handler.py:handle_request():141] handle_request: stop_status
+2022-03-27 06:22:27,635 DEBUG   SenderThread:6780 [sender.py:send_request():249] send_request: stop_status
+2022-03-27 06:22:29,867 INFO    Thread-7  :6780 [dir_watcher.py:_on_file_modified():230] file/dir modified: C:\Users\rohit\Personal Projects\Traffic Lights Genetic Algorithm\wandb\run-20220327_061647-197e8vop\files\output.log
+2022-03-27 06:22:42,798 DEBUG   HandlerThread:6780 [handler.py:handle_request():141] handle_request: stop_status
+2022-03-27 06:22:42,798 DEBUG   SenderThread:6780 [sender.py:send_request():249] send_request: stop_status
+2022-03-27 06:22:56,185 DEBUG   SenderThread:6780 [sender.py:send():235] send: stats
+2022-03-27 06:22:57,956 DEBUG   HandlerThread:6780 [handler.py:handle_request():141] handle_request: stop_status
+2022-03-27 06:22:57,956 DEBUG   SenderThread:6780 [sender.py:send_request():249] send_request: stop_status
+2022-03-27 06:23:04,083 INFO    Thread-7  :6780 [dir_watcher.py:_on_file_modified():230] file/dir modified: C:\Users\rohit\Personal Projects\Traffic Lights Genetic Algorithm\wandb\run-20220327_061647-197e8vop\files\output.log
+2022-03-27 06:23:13,127 DEBUG   HandlerThread:6780 [handler.py:handle_request():141] handle_request: stop_status
+2022-03-27 06:23:13,127 DEBUG   SenderThread:6780 [sender.py:send_request():249] send_request: stop_status
+2022-03-27 06:23:28,290 DEBUG   HandlerThread:6780 [handler.py:handle_request():141] handle_request: stop_status
+2022-03-27 06:23:28,290 DEBUG   SenderThread:6780 [sender.py:send_request():249] send_request: stop_status
+2022-03-27 06:23:29,258 DEBUG   SenderThread:6780 [sender.py:send():235] send: stats
+2022-03-27 06:23:38,373 INFO    Thread-7  :6780 [dir_watcher.py:_on_file_modified():230] file/dir modified: C:\Users\rohit\Personal Projects\Traffic Lights Genetic Algorithm\wandb\run-20220327_061647-197e8vop\files\output.log
+2022-03-27 06:23:43,436 DEBUG   HandlerThread:6780 [handler.py:handle_request():141] handle_request: stop_status
+2022-03-27 06:23:43,436 DEBUG   SenderThread:6780 [sender.py:send_request():249] send_request: stop_status
+2022-03-27 06:23:58,586 DEBUG   HandlerThread:6780 [handler.py:handle_request():141] handle_request: stop_status
+2022-03-27 06:23:58,586 DEBUG   SenderThread:6780 [sender.py:send_request():249] send_request: stop_status
+2022-03-27 06:24:02,339 DEBUG   SenderThread:6780 [sender.py:send():235] send: stats
+2022-03-27 06:24:12,648 INFO    Thread-7  :6780 [dir_watcher.py:_on_file_modified():230] file/dir modified: C:\Users\rohit\Personal Projects\Traffic Lights Genetic Algorithm\wandb\run-20220327_061647-197e8vop\files\output.log
+2022-03-27 06:24:13,731 DEBUG   HandlerThread:6780 [handler.py:handle_request():141] handle_request: stop_status
+2022-03-27 06:24:13,731 DEBUG   SenderThread:6780 [sender.py:send_request():249] send_request: stop_status
+2022-03-27 06:24:28,963 DEBUG   HandlerThread:6780 [handler.py:handle_request():141] handle_request: stop_status
+2022-03-27 06:24:28,963 DEBUG   SenderThread:6780 [sender.py:send_request():249] send_request: stop_status
+2022-03-27 06:24:35,401 DEBUG   SenderThread:6780 [sender.py:send():235] send: stats
+2022-03-27 06:24:44,134 DEBUG   HandlerThread:6780 [handler.py:handle_request():141] handle_request: stop_status
+2022-03-27 06:24:44,134 DEBUG   SenderThread:6780 [sender.py:send_request():249] send_request: stop_status
+2022-03-27 06:24:48,971 INFO    Thread-7  :6780 [dir_watcher.py:_on_file_modified():230] file/dir modified: C:\Users\rohit\Personal Projects\Traffic Lights Genetic Algorithm\wandb\run-20220327_061647-197e8vop\files\output.log
+2022-03-27 06:24:59,294 DEBUG   HandlerThread:6780 [handler.py:handle_request():141] handle_request: stop_status
+2022-03-27 06:24:59,294 DEBUG   SenderThread:6780 [sender.py:send_request():249] send_request: stop_status
+2022-03-27 06:25:08,458 DEBUG   SenderThread:6780 [sender.py:send():235] send: stats
+2022-03-27 06:25:14,439 DEBUG   HandlerThread:6780 [handler.py:handle_request():141] handle_request: stop_status
+2022-03-27 06:25:14,439 DEBUG   SenderThread:6780 [sender.py:send_request():249] send_request: stop_status
+2022-03-27 06:25:23,296 INFO    Thread-7  :6780 [dir_watcher.py:_on_file_modified():230] file/dir modified: C:\Users\rohit\Personal Projects\Traffic Lights Genetic Algorithm\wandb\run-20220327_061647-197e8vop\files\output.log
+2022-03-27 06:25:29,604 DEBUG   HandlerThread:6780 [handler.py:handle_request():141] handle_request: stop_status
+2022-03-27 06:25:29,604 DEBUG   SenderThread:6780 [sender.py:send_request():249] send_request: stop_status
+2022-03-27 06:25:41,486 DEBUG   SenderThread:6780 [sender.py:send():235] send: stats
+2022-03-27 06:25:44,772 DEBUG   HandlerThread:6780 [handler.py:handle_request():141] handle_request: stop_status
+2022-03-27 06:25:44,772 DEBUG   SenderThread:6780 [sender.py:send_request():249] send_request: stop_status
+2022-03-27 06:25:54,763 DEBUG   HandlerThread:6780 [handler.py:handle_request():141] handle_request: partial_history
+2022-03-27 06:25:54,763 DEBUG   SenderThread:6780 [sender.py:send():235] send: history
+2022-03-27 06:25:54,763 DEBUG   SenderThread:6780 [sender.py:send():235] send: summary
+2022-03-27 06:25:54,763 INFO    SenderThread:6780 [sender.py:_save_file():947] saving file wandb-summary.json with policy end
+2022-03-27 06:25:55,537 INFO    Thread-7  :6780 [dir_watcher.py:_on_file_modified():230] file/dir modified: C:\Users\rohit\Personal Projects\Traffic Lights Genetic Algorithm\wandb\run-20220327_061647-197e8vop\files\wandb-summary.json
+2022-03-27 06:25:57,544 INFO    Thread-7  :6780 [dir_watcher.py:_on_file_modified():230] file/dir modified: C:\Users\rohit\Personal Projects\Traffic Lights Genetic Algorithm\wandb\run-20220327_061647-197e8vop\files\output.log
+2022-03-27 06:25:59,937 DEBUG   HandlerThread:6780 [handler.py:handle_request():141] handle_request: stop_status
+2022-03-27 06:25:59,937 DEBUG   SenderThread:6780 [sender.py:send_request():249] send_request: stop_status
+2022-03-27 06:26:14,632 DEBUG   SenderThread:6780 [sender.py:send():235] send: stats
+2022-03-27 06:26:15,101 DEBUG   HandlerThread:6780 [handler.py:handle_request():141] handle_request: stop_status
+2022-03-27 06:26:15,101 DEBUG   SenderThread:6780 [sender.py:send_request():249] send_request: stop_status
+2022-03-27 06:26:30,281 DEBUG   HandlerThread:6780 [handler.py:handle_request():141] handle_request: stop_status
+2022-03-27 06:26:30,281 DEBUG   SenderThread:6780 [sender.py:send_request():249] send_request: stop_status
+2022-03-27 06:26:45,449 DEBUG   HandlerThread:6780 [handler.py:handle_request():141] handle_request: stop_status
+2022-03-27 06:26:45,449 DEBUG   SenderThread:6780 [sender.py:send_request():249] send_request: stop_status
+2022-03-27 06:26:47,824 DEBUG   SenderThread:6780 [sender.py:send():235] send: stats
+2022-03-27 06:27:00,613 DEBUG   HandlerThread:6780 [handler.py:handle_request():141] handle_request: stop_status
+2022-03-27 06:27:00,613 DEBUG   SenderThread:6780 [sender.py:send_request():249] send_request: stop_status
+2022-03-27 06:27:15,794 DEBUG   HandlerThread:6780 [handler.py:handle_request():141] handle_request: stop_status
+2022-03-27 06:27:15,794 DEBUG   SenderThread:6780 [sender.py:send_request():249] send_request: stop_status
+2022-03-27 06:27:21,076 DEBUG   SenderThread:6780 [sender.py:send():235] send: stats
+2022-03-27 06:27:30,973 DEBUG   HandlerThread:6780 [handler.py:handle_request():141] handle_request: stop_status
+2022-03-27 06:27:30,973 DEBUG   SenderThread:6780 [sender.py:send_request():249] send_request: stop_status
+2022-03-27 06:27:46,137 DEBUG   HandlerThread:6780 [handler.py:handle_request():141] handle_request: stop_status
+2022-03-27 06:27:46,137 DEBUG   SenderThread:6780 [sender.py:send_request():249] send_request: stop_status
+2022-03-27 06:27:47,279 INFO    Thread-7  :6780 [dir_watcher.py:_on_file_modified():230] file/dir modified: C:\Users\rohit\Personal Projects\Traffic Lights Genetic Algorithm\wandb\run-20220327_061647-197e8vop\files\output.log
+2022-03-27 06:27:54,392 DEBUG   SenderThread:6780 [sender.py:send():235] send: stats
+2022-03-27 06:28:01,301 DEBUG   HandlerThread:6780 [handler.py:handle_request():141] handle_request: stop_status
+2022-03-27 06:28:01,301 DEBUG   SenderThread:6780 [sender.py:send_request():249] send_request: stop_status
+2022-03-27 06:28:16,465 DEBUG   HandlerThread:6780 [handler.py:handle_request():141] handle_request: stop_status
+2022-03-27 06:28:16,465 DEBUG   SenderThread:6780 [sender.py:send_request():249] send_request: stop_status
+2022-03-27 06:28:27,630 DEBUG   SenderThread:6780 [sender.py:send():235] send: stats
+2022-03-27 06:28:31,635 DEBUG   HandlerThread:6780 [handler.py:handle_request():141] handle_request: stop_status
+2022-03-27 06:28:31,635 DEBUG   SenderThread:6780 [sender.py:send_request():249] send_request: stop_status
+2022-03-27 06:28:39,775 INFO    Thread-7  :6780 [dir_watcher.py:_on_file_modified():230] file/dir modified: C:\Users\rohit\Personal Projects\Traffic Lights Genetic Algorithm\wandb\run-20220327_061647-197e8vop\files\output.log
+2022-03-27 06:28:46,791 DEBUG   HandlerThread:6780 [handler.py:handle_request():141] handle_request: stop_status
+2022-03-27 06:28:46,791 DEBUG   SenderThread:6780 [sender.py:send_request():249] send_request: stop_status
+2022-03-27 06:29:00,901 DEBUG   SenderThread:6780 [sender.py:send():235] send: stats
+2022-03-27 06:29:01,948 DEBUG   HandlerThread:6780 [handler.py:handle_request():141] handle_request: stop_status
+2022-03-27 06:29:01,948 DEBUG   SenderThread:6780 [sender.py:send_request():249] send_request: stop_status
+2022-03-27 06:29:17,114 DEBUG   HandlerThread:6780 [handler.py:handle_request():141] handle_request: stop_status
+2022-03-27 06:29:17,114 DEBUG   SenderThread:6780 [sender.py:send_request():249] send_request: stop_status
+2022-03-27 06:29:30,242 INFO    Thread-7  :6780 [dir_watcher.py:_on_file_modified():230] file/dir modified: C:\Users\rohit\Personal Projects\Traffic Lights Genetic Algorithm\wandb\run-20220327_061647-197e8vop\files\output.log
+2022-03-27 06:29:32,243 INFO    Thread-7  :6780 [dir_watcher.py:_on_file_modified():230] file/dir modified: C:\Users\rohit\Personal Projects\Traffic Lights Genetic Algorithm\wandb\run-20220327_061647-197e8vop\files\output.log
+2022-03-27 06:29:32,274 DEBUG   HandlerThread:6780 [handler.py:handle_request():141] handle_request: stop_status
+2022-03-27 06:29:32,274 DEBUG   SenderThread:6780 [sender.py:send_request():249] send_request: stop_status
+2022-03-27 06:29:34,180 DEBUG   SenderThread:6780 [sender.py:send():235] send: stats
+2022-03-27 06:29:47,445 DEBUG   HandlerThread:6780 [handler.py:handle_request():141] handle_request: stop_status
+2022-03-27 06:29:47,445 DEBUG   SenderThread:6780 [sender.py:send_request():249] send_request: stop_status
+2022-03-27 06:30:02,849 DEBUG   HandlerThread:6780 [handler.py:handle_request():141] handle_request: stop_status
+2022-03-27 06:30:02,849 DEBUG   SenderThread:6780 [sender.py:send_request():249] send_request: stop_status
+2022-03-27 06:30:07,473 DEBUG   SenderThread:6780 [sender.py:send():235] send: stats
+2022-03-27 06:30:18,020 DEBUG   HandlerThread:6780 [handler.py:handle_request():141] handle_request: stop_status
+2022-03-27 06:30:18,020 DEBUG   SenderThread:6780 [sender.py:send_request():249] send_request: stop_status
+2022-03-27 06:30:22,549 INFO    Thread-7  :6780 [dir_watcher.py:_on_file_modified():230] file/dir modified: C:\Users\rohit\Personal Projects\Traffic Lights Genetic Algorithm\wandb\run-20220327_061647-197e8vop\files\output.log
+2022-03-27 06:30:24,550 INFO    Thread-7  :6780 [dir_watcher.py:_on_file_modified():230] file/dir modified: C:\Users\rohit\Personal Projects\Traffic Lights Genetic Algorithm\wandb\run-20220327_061647-197e8vop\files\output.log
+2022-03-27 06:30:33,177 DEBUG   HandlerThread:6780 [handler.py:handle_request():141] handle_request: stop_status
+2022-03-27 06:30:33,177 DEBUG   SenderThread:6780 [sender.py:send_request():249] send_request: stop_status
+2022-03-27 06:30:40,603 DEBUG   SenderThread:6780 [sender.py:send():235] send: stats
+2022-03-27 06:30:48,322 DEBUG   HandlerThread:6780 [handler.py:handle_request():141] handle_request: stop_status
+2022-03-27 06:30:48,322 DEBUG   SenderThread:6780 [sender.py:send_request():249] send_request: stop_status
+2022-03-27 06:30:55,829 INFO    Thread-7  :6780 [dir_watcher.py:_on_file_modified():230] file/dir modified: C:\Users\rohit\Personal Projects\Traffic Lights Genetic Algorithm\wandb\run-20220327_061647-197e8vop\files\output.log
+2022-03-27 06:31:03,486 DEBUG   HandlerThread:6780 [handler.py:handle_request():141] handle_request: stop_status
+2022-03-27 06:31:03,486 DEBUG   SenderThread:6780 [sender.py:send_request():249] send_request: stop_status
+2022-03-27 06:31:13,682 DEBUG   SenderThread:6780 [sender.py:send():235] send: stats
+2022-03-27 06:31:18,646 DEBUG   HandlerThread:6780 [handler.py:handle_request():141] handle_request: stop_status
+2022-03-27 06:31:18,646 DEBUG   SenderThread:6780 [sender.py:send_request():249] send_request: stop_status
+2022-03-27 06:31:30,126 INFO    Thread-7  :6780 [dir_watcher.py:_on_file_modified():230] file/dir modified: C:\Users\rohit\Personal Projects\Traffic Lights Genetic Algorithm\wandb\run-20220327_061647-197e8vop\files\output.log
+2022-03-27 06:31:33,805 DEBUG   HandlerThread:6780 [handler.py:handle_request():141] handle_request: stop_status
+2022-03-27 06:31:33,805 DEBUG   SenderThread:6780 [sender.py:send_request():249] send_request: stop_status
+2022-03-27 06:31:46,726 DEBUG   SenderThread:6780 [sender.py:send():235] send: stats
+2022-03-27 06:31:49,230 DEBUG   HandlerThread:6780 [handler.py:handle_request():141] handle_request: stop_status
+2022-03-27 06:31:49,230 DEBUG   SenderThread:6780 [sender.py:send_request():249] send_request: stop_status
+2022-03-27 06:32:04,379 INFO    Thread-7  :6780 [dir_watcher.py:_on_file_modified():230] file/dir modified: C:\Users\rohit\Personal Projects\Traffic Lights Genetic Algorithm\wandb\run-20220327_061647-197e8vop\files\output.log
+2022-03-27 06:32:04,395 DEBUG   HandlerThread:6780 [handler.py:handle_request():141] handle_request: stop_status
+2022-03-27 06:32:04,395 DEBUG   SenderThread:6780 [sender.py:send_request():249] send_request: stop_status
+2022-03-27 06:32:19,581 DEBUG   HandlerThread:6780 [handler.py:handle_request():141] handle_request: stop_status
+2022-03-27 06:32:19,581 DEBUG   SenderThread:6780 [sender.py:send_request():249] send_request: stop_status
+2022-03-27 06:32:19,785 DEBUG   SenderThread:6780 [sender.py:send():235] send: stats
+2022-03-27 06:32:34,740 DEBUG   HandlerThread:6780 [handler.py:handle_request():141] handle_request: stop_status
+2022-03-27 06:32:34,740 DEBUG   SenderThread:6780 [sender.py:send_request():249] send_request: stop_status
+2022-03-27 06:32:38,627 INFO    Thread-7  :6780 [dir_watcher.py:_on_file_modified():230] file/dir modified: C:\Users\rohit\Personal Projects\Traffic Lights Genetic Algorithm\wandb\run-20220327_061647-197e8vop\files\output.log
+2022-03-27 06:32:49,889 DEBUG   HandlerThread:6780 [handler.py:handle_request():141] handle_request: stop_status
+2022-03-27 06:32:49,889 DEBUG   SenderThread:6780 [sender.py:send_request():249] send_request: stop_status
+2022-03-27 06:32:52,857 DEBUG   SenderThread:6780 [sender.py:send():235] send: stats
+2022-03-27 06:33:05,279 DEBUG   HandlerThread:6780 [handler.py:handle_request():141] handle_request: stop_status
+2022-03-27 06:33:05,279 DEBUG   SenderThread:6780 [sender.py:send_request():249] send_request: stop_status
+2022-03-27 06:33:10,915 INFO    Thread-7  :6780 [dir_watcher.py:_on_file_modified():230] file/dir modified: C:\Users\rohit\Personal Projects\Traffic Lights Genetic Algorithm\wandb\run-20220327_061647-197e8vop\files\output.log
+2022-03-27 06:33:12,917 INFO    Thread-7  :6780 [dir_watcher.py:_on_file_modified():230] file/dir modified: C:\Users\rohit\Personal Projects\Traffic Lights Genetic Algorithm\wandb\run-20220327_061647-197e8vop\files\output.log
+2022-03-27 06:33:20,450 DEBUG   HandlerThread:6780 [handler.py:handle_request():141] handle_request: stop_status
+2022-03-27 06:33:20,450 DEBUG   SenderThread:6780 [sender.py:send_request():249] send_request: stop_status
+2022-03-27 06:33:25,961 DEBUG   SenderThread:6780 [sender.py:send():235] send: stats
+2022-03-27 06:33:35,601 DEBUG   HandlerThread:6780 [handler.py:handle_request():141] handle_request: stop_status
+2022-03-27 06:33:35,601 DEBUG   SenderThread:6780 [sender.py:send_request():249] send_request: stop_status
+2022-03-27 06:33:43,216 INFO    Thread-7  :6780 [dir_watcher.py:_on_file_modified():230] file/dir modified: C:\Users\rohit\Personal Projects\Traffic Lights Genetic Algorithm\wandb\run-20220327_061647-197e8vop\files\output.log
+2022-03-27 06:33:45,236 INFO    Thread-7  :6780 [dir_watcher.py:_on_file_modified():230] file/dir modified: C:\Users\rohit\Personal Projects\Traffic Lights Genetic Algorithm\wandb\run-20220327_061647-197e8vop\files\output.log
+2022-03-27 06:33:50,759 DEBUG   HandlerThread:6780 [handler.py:handle_request():141] handle_request: stop_status
+2022-03-27 06:33:50,759 DEBUG   SenderThread:6780 [sender.py:send_request():249] send_request: stop_status
+2022-03-27 06:33:58,968 DEBUG   SenderThread:6780 [sender.py:send():235] send: stats
+2022-03-27 06:34:05,918 DEBUG   HandlerThread:6780 [handler.py:handle_request():141] handle_request: stop_status
+2022-03-27 06:34:05,918 DEBUG   SenderThread:6780 [sender.py:send_request():249] send_request: stop_status
+2022-03-27 06:34:17,552 INFO    Thread-7  :6780 [dir_watcher.py:_on_file_modified():230] file/dir modified: C:\Users\rohit\Personal Projects\Traffic Lights Genetic Algorithm\wandb\run-20220327_061647-197e8vop\files\output.log
+2022-03-27 06:34:21,067 DEBUG   HandlerThread:6780 [handler.py:handle_request():141] handle_request: stop_status
+2022-03-27 06:34:21,067 DEBUG   SenderThread:6780 [sender.py:send_request():249] send_request: stop_status
+2022-03-27 06:34:32,031 DEBUG   SenderThread:6780 [sender.py:send():235] send: stats
+2022-03-27 06:34:36,216 DEBUG   HandlerThread:6780 [handler.py:handle_request():141] handle_request: stop_status
+2022-03-27 06:34:36,216 DEBUG   SenderThread:6780 [sender.py:send_request():249] send_request: stop_status
+2022-03-27 06:34:49,842 INFO    Thread-7  :6780 [dir_watcher.py:_on_file_modified():230] file/dir modified: C:\Users\rohit\Personal Projects\Traffic Lights Genetic Algorithm\wandb\run-20220327_061647-197e8vop\files\output.log
+2022-03-27 06:34:51,452 DEBUG   HandlerThread:6780 [handler.py:handle_request():141] handle_request: stop_status
+2022-03-27 06:34:51,452 DEBUG   SenderThread:6780 [sender.py:send_request():249] send_request: stop_status
+2022-03-27 06:35:05,057 DEBUG   SenderThread:6780 [sender.py:send():235] send: stats
+2022-03-27 06:35:06,604 DEBUG   HandlerThread:6780 [handler.py:handle_request():141] handle_request: stop_status
+2022-03-27 06:35:06,604 DEBUG   SenderThread:6780 [sender.py:send_request():249] send_request: stop_status
+2022-03-27 06:35:21,775 DEBUG   HandlerThread:6780 [handler.py:handle_request():141] handle_request: stop_status
+2022-03-27 06:35:21,775 DEBUG   SenderThread:6780 [sender.py:send_request():249] send_request: stop_status
+2022-03-27 06:35:23,206 INFO    Thread-7  :6780 [dir_watcher.py:_on_file_modified():230] file/dir modified: C:\Users\rohit\Personal Projects\Traffic Lights Genetic Algorithm\wandb\run-20220327_061647-197e8vop\files\output.log
+2022-03-27 06:35:36,920 DEBUG   HandlerThread:6780 [handler.py:handle_request():141] handle_request: stop_status
+2022-03-27 06:35:36,920 DEBUG   SenderThread:6780 [sender.py:send_request():249] send_request: stop_status
+2022-03-27 06:35:38,125 DEBUG   SenderThread:6780 [sender.py:send():235] send: stats
+2022-03-27 06:35:52,090 DEBUG   HandlerThread:6780 [handler.py:handle_request():141] handle_request: stop_status
+2022-03-27 06:35:52,090 DEBUG   SenderThread:6780 [sender.py:send_request():249] send_request: stop_status
+2022-03-27 06:35:57,476 INFO    Thread-7  :6780 [dir_watcher.py:_on_file_modified():230] file/dir modified: C:\Users\rohit\Personal Projects\Traffic Lights Genetic Algorithm\wandb\run-20220327_061647-197e8vop\files\output.log
+2022-03-27 06:36:07,240 DEBUG   HandlerThread:6780 [handler.py:handle_request():141] handle_request: stop_status
+2022-03-27 06:36:07,240 DEBUG   SenderThread:6780 [sender.py:send_request():249] send_request: stop_status
+2022-03-27 06:36:11,209 DEBUG   SenderThread:6780 [sender.py:send():235] send: stats
+2022-03-27 06:36:22,436 DEBUG   HandlerThread:6780 [handler.py:handle_request():141] handle_request: stop_status
+2022-03-27 06:36:22,436 DEBUG   SenderThread:6780 [sender.py:send_request():249] send_request: stop_status
+2022-03-27 06:36:31,781 INFO    Thread-7  :6780 [dir_watcher.py:_on_file_modified():230] file/dir modified: C:\Users\rohit\Personal Projects\Traffic Lights Genetic Algorithm\wandb\run-20220327_061647-197e8vop\files\output.log
+2022-03-27 06:36:37,593 DEBUG   HandlerThread:6780 [handler.py:handle_request():141] handle_request: stop_status
+2022-03-27 06:36:37,593 DEBUG   SenderThread:6780 [sender.py:send_request():249] send_request: stop_status
+2022-03-27 06:36:44,316 DEBUG   SenderThread:6780 [sender.py:send():235] send: stats
+2022-03-27 06:36:52,755 DEBUG   HandlerThread:6780 [handler.py:handle_request():141] handle_request: stop_status
+2022-03-27 06:36:52,755 DEBUG   SenderThread:6780 [sender.py:send_request():249] send_request: stop_status
+2022-03-27 06:37:04,021 INFO    Thread-7  :6780 [dir_watcher.py:_on_file_modified():230] file/dir modified: C:\Users\rohit\Personal Projects\Traffic Lights Genetic Algorithm\wandb\run-20220327_061647-197e8vop\files\output.log
+2022-03-27 06:37:06,022 INFO    Thread-7  :6780 [dir_watcher.py:_on_file_modified():230] file/dir modified: C:\Users\rohit\Personal Projects\Traffic Lights Genetic Algorithm\wandb\run-20220327_061647-197e8vop\files\output.log
+2022-03-27 06:37:07,900 DEBUG   HandlerThread:6780 [handler.py:handle_request():141] handle_request: stop_status
+2022-03-27 06:37:07,900 DEBUG   SenderThread:6780 [sender.py:send_request():249] send_request: stop_status
+2022-03-27 06:37:17,388 DEBUG   SenderThread:6780 [sender.py:send():235] send: stats
+2022-03-27 06:37:23,063 DEBUG   HandlerThread:6780 [handler.py:handle_request():141] handle_request: stop_status
+2022-03-27 06:37:23,063 DEBUG   SenderThread:6780 [sender.py:send_request():249] send_request: stop_status
+2022-03-27 06:37:38,223 DEBUG   HandlerThread:6780 [handler.py:handle_request():141] handle_request: stop_status
+2022-03-27 06:37:38,223 DEBUG   SenderThread:6780 [sender.py:send_request():249] send_request: stop_status
+2022-03-27 06:37:38,271 INFO    Thread-7  :6780 [dir_watcher.py:_on_file_modified():230] file/dir modified: C:\Users\rohit\Personal Projects\Traffic Lights Genetic Algorithm\wandb\run-20220327_061647-197e8vop\files\output.log
+2022-03-27 06:37:40,276 INFO    Thread-7  :6780 [dir_watcher.py:_on_file_modified():230] file/dir modified: C:\Users\rohit\Personal Projects\Traffic Lights Genetic Algorithm\wandb\run-20220327_061647-197e8vop\files\output.log
+2022-03-27 06:37:50,494 DEBUG   SenderThread:6780 [sender.py:send():235] send: stats
+2022-03-27 06:37:53,385 DEBUG   HandlerThread:6780 [handler.py:handle_request():141] handle_request: stop_status
+2022-03-27 06:37:53,385 DEBUG   SenderThread:6780 [sender.py:send_request():249] send_request: stop_status
+2022-03-27 06:38:08,543 DEBUG   HandlerThread:6780 [handler.py:handle_request():141] handle_request: stop_status
+2022-03-27 06:38:08,543 DEBUG   SenderThread:6780 [sender.py:send_request():249] send_request: stop_status
+2022-03-27 06:38:10,543 INFO    Thread-7  :6780 [dir_watcher.py:_on_file_modified():230] file/dir modified: C:\Users\rohit\Personal Projects\Traffic Lights Genetic Algorithm\wandb\run-20220327_061647-197e8vop\files\output.log
+2022-03-27 06:38:12,575 INFO    Thread-7  :6780 [dir_watcher.py:_on_file_modified():230] file/dir modified: C:\Users\rohit\Personal Projects\Traffic Lights Genetic Algorithm\wandb\run-20220327_061647-197e8vop\files\output.log
+2022-03-27 06:38:23,567 DEBUG   SenderThread:6780 [sender.py:send():235] send: stats
+2022-03-27 06:38:23,707 DEBUG   HandlerThread:6780 [handler.py:handle_request():141] handle_request: stop_status
+2022-03-27 06:38:23,707 DEBUG   SenderThread:6780 [sender.py:send_request():249] send_request: stop_status
+2022-03-27 06:38:38,853 DEBUG   HandlerThread:6780 [handler.py:handle_request():141] handle_request: stop_status
+2022-03-27 06:38:38,853 DEBUG   SenderThread:6780 [sender.py:send_request():249] send_request: stop_status
+2022-03-27 06:38:44,880 INFO    Thread-7  :6780 [dir_watcher.py:_on_file_modified():230] file/dir modified: C:\Users\rohit\Personal Projects\Traffic Lights Genetic Algorithm\wandb\run-20220327_061647-197e8vop\files\output.log
+2022-03-27 06:38:54,021 DEBUG   HandlerThread:6780 [handler.py:handle_request():141] handle_request: stop_status
+2022-03-27 06:38:54,021 DEBUG   SenderThread:6780 [sender.py:send_request():249] send_request: stop_status
+2022-03-27 06:38:56,618 DEBUG   SenderThread:6780 [sender.py:send():235] send: stats
+2022-03-27 06:39:09,190 DEBUG   HandlerThread:6780 [handler.py:handle_request():141] handle_request: stop_status
+2022-03-27 06:39:09,190 DEBUG   SenderThread:6780 [sender.py:send_request():249] send_request: stop_status
+2022-03-27 06:39:16,193 INFO    Thread-7  :6780 [dir_watcher.py:_on_file_modified():230] file/dir modified: C:\Users\rohit\Personal Projects\Traffic Lights Genetic Algorithm\wandb\run-20220327_061647-197e8vop\files\output.log
+2022-03-27 06:39:24,362 DEBUG   HandlerThread:6780 [handler.py:handle_request():141] handle_request: stop_status
+2022-03-27 06:39:24,362 DEBUG   SenderThread:6780 [sender.py:send_request():249] send_request: stop_status
+2022-03-27 06:39:29,684 DEBUG   SenderThread:6780 [sender.py:send():235] send: stats
+2022-03-27 06:39:39,523 DEBUG   HandlerThread:6780 [handler.py:handle_request():141] handle_request: stop_status
+2022-03-27 06:39:39,523 DEBUG   SenderThread:6780 [sender.py:send_request():249] send_request: stop_status
+2022-03-27 06:39:48,411 INFO    Thread-7  :6780 [dir_watcher.py:_on_file_modified():230] file/dir modified: C:\Users\rohit\Personal Projects\Traffic Lights Genetic Algorithm\wandb\run-20220327_061647-197e8vop\files\output.log
+2022-03-27 06:39:54,694 DEBUG   HandlerThread:6780 [handler.py:handle_request():141] handle_request: stop_status
+2022-03-27 06:39:54,694 DEBUG   SenderThread:6780 [sender.py:send_request():249] send_request: stop_status
+2022-03-27 06:40:02,758 DEBUG   SenderThread:6780 [sender.py:send():235] send: stats
+2022-03-27 06:40:09,849 DEBUG   HandlerThread:6780 [handler.py:handle_request():141] handle_request: stop_status
+2022-03-27 06:40:09,849 DEBUG   SenderThread:6780 [sender.py:send_request():249] send_request: stop_status
+2022-03-27 06:40:20,684 INFO    Thread-7  :6780 [dir_watcher.py:_on_file_modified():230] file/dir modified: C:\Users\rohit\Personal Projects\Traffic Lights Genetic Algorithm\wandb\run-20220327_061647-197e8vop\files\output.log
+2022-03-27 06:40:22,705 INFO    Thread-7  :6780 [dir_watcher.py:_on_file_modified():230] file/dir modified: C:\Users\rohit\Personal Projects\Traffic Lights Genetic Algorithm\wandb\run-20220327_061647-197e8vop\files\output.log
+2022-03-27 06:40:25,017 DEBUG   HandlerThread:6780 [handler.py:handle_request():141] handle_request: stop_status
+2022-03-27 06:40:25,017 DEBUG   SenderThread:6780 [sender.py:send_request():249] send_request: stop_status
+2022-03-27 06:40:35,866 DEBUG   SenderThread:6780 [sender.py:send():235] send: stats
+2022-03-27 06:40:40,186 DEBUG   HandlerThread:6780 [handler.py:handle_request():141] handle_request: stop_status
+2022-03-27 06:40:40,186 DEBUG   SenderThread:6780 [sender.py:send_request():249] send_request: stop_status
+2022-03-27 06:40:55,025 INFO    Thread-7  :6780 [dir_watcher.py:_on_file_modified():230] file/dir modified: C:\Users\rohit\Personal Projects\Traffic Lights Genetic Algorithm\wandb\run-20220327_061647-197e8vop\files\output.log
+2022-03-27 06:40:55,353 DEBUG   HandlerThread:6780 [handler.py:handle_request():141] handle_request: stop_status
+2022-03-27 06:40:55,353 DEBUG   SenderThread:6780 [sender.py:send_request():249] send_request: stop_status
+2022-03-27 06:41:08,936 DEBUG   SenderThread:6780 [sender.py:send():235] send: stats
+2022-03-27 06:41:10,514 DEBUG   HandlerThread:6780 [handler.py:handle_request():141] handle_request: stop_status
+2022-03-27 06:41:10,514 DEBUG   SenderThread:6780 [sender.py:send_request():249] send_request: stop_status
+2022-03-27 06:41:25,684 DEBUG   HandlerThread:6780 [handler.py:handle_request():141] handle_request: stop_status
+2022-03-27 06:41:25,684 DEBUG   SenderThread:6780 [sender.py:send_request():249] send_request: stop_status
+2022-03-27 06:41:27,309 INFO    Thread-7  :6780 [dir_watcher.py:_on_file_modified():230] file/dir modified: C:\Users\rohit\Personal Projects\Traffic Lights Genetic Algorithm\wandb\run-20220327_061647-197e8vop\files\output.log
+2022-03-27 06:41:40,888 DEBUG   HandlerThread:6780 [handler.py:handle_request():141] handle_request: stop_status
+2022-03-27 06:41:40,888 DEBUG   SenderThread:6780 [sender.py:send_request():249] send_request: stop_status
+2022-03-27 06:41:42,028 DEBUG   SenderThread:6780 [sender.py:send():235] send: stats
+2022-03-27 06:41:56,043 DEBUG   HandlerThread:6780 [handler.py:handle_request():141] handle_request: stop_status
+2022-03-27 06:41:56,043 DEBUG   SenderThread:6780 [sender.py:send_request():249] send_request: stop_status
+2022-03-27 06:41:59,612 INFO    Thread-7  :6780 [dir_watcher.py:_on_file_modified():230] file/dir modified: C:\Users\rohit\Personal Projects\Traffic Lights Genetic Algorithm\wandb\run-20220327_061647-197e8vop\files\output.log
+2022-03-27 06:42:11,188 DEBUG   HandlerThread:6780 [handler.py:handle_request():141] handle_request: stop_status
+2022-03-27 06:42:11,188 DEBUG   SenderThread:6780 [sender.py:send_request():249] send_request: stop_status
+2022-03-27 06:42:15,095 DEBUG   SenderThread:6780 [sender.py:send():235] send: stats
+2022-03-27 06:42:26,346 DEBUG   HandlerThread:6780 [handler.py:handle_request():141] handle_request: stop_status
+2022-03-27 06:42:26,346 DEBUG   SenderThread:6780 [sender.py:send_request():249] send_request: stop_status
+2022-03-27 06:42:31,847 INFO    Thread-7  :6780 [dir_watcher.py:_on_file_modified():230] file/dir modified: C:\Users\rohit\Personal Projects\Traffic Lights Genetic Algorithm\wandb\run-20220327_061647-197e8vop\files\output.log
+2022-03-27 06:42:41,503 DEBUG   HandlerThread:6780 [handler.py:handle_request():141] handle_request: stop_status
+2022-03-27 06:42:41,503 DEBUG   SenderThread:6780 [sender.py:send_request():249] send_request: stop_status
+2022-03-27 06:42:48,185 DEBUG   SenderThread:6780 [sender.py:send():235] send: stats
+2022-03-27 06:42:56,660 DEBUG   HandlerThread:6780 [handler.py:handle_request():141] handle_request: stop_status
+2022-03-27 06:42:56,660 DEBUG   SenderThread:6780 [sender.py:send_request():249] send_request: stop_status
+2022-03-27 06:43:04,110 INFO    Thread-7  :6780 [dir_watcher.py:_on_file_modified():230] file/dir modified: C:\Users\rohit\Personal Projects\Traffic Lights Genetic Algorithm\wandb\run-20220327_061647-197e8vop\files\output.log
+2022-03-27 06:43:06,125 INFO    Thread-7  :6780 [dir_watcher.py:_on_file_modified():230] file/dir modified: C:\Users\rohit\Personal Projects\Traffic Lights Genetic Algorithm\wandb\run-20220327_061647-197e8vop\files\output.log
+2022-03-27 06:43:11,828 DEBUG   HandlerThread:6780 [handler.py:handle_request():141] handle_request: stop_status
+2022-03-27 06:43:11,828 DEBUG   SenderThread:6780 [sender.py:send_request():249] send_request: stop_status
+2022-03-27 06:43:21,234 DEBUG   SenderThread:6780 [sender.py:send():235] send: stats
+2022-03-27 06:43:26,985 DEBUG   HandlerThread:6780 [handler.py:handle_request():141] handle_request: stop_status
+2022-03-27 06:43:26,985 DEBUG   SenderThread:6780 [sender.py:send_request():249] send_request: stop_status
+2022-03-27 06:43:36,402 INFO    Thread-7  :6780 [dir_watcher.py:_on_file_modified():230] file/dir modified: C:\Users\rohit\Personal Projects\Traffic Lights Genetic Algorithm\wandb\run-20220327_061647-197e8vop\files\output.log
+2022-03-27 06:43:38,417 INFO    Thread-7  :6780 [dir_watcher.py:_on_file_modified():230] file/dir modified: C:\Users\rohit\Personal Projects\Traffic Lights Genetic Algorithm\wandb\run-20220327_061647-197e8vop\files\output.log
+2022-03-27 06:43:42,155 DEBUG   HandlerThread:6780 [handler.py:handle_request():141] handle_request: stop_status
+2022-03-27 06:43:42,155 DEBUG   SenderThread:6780 [sender.py:send_request():249] send_request: stop_status
+2022-03-27 06:43:54,295 DEBUG   SenderThread:6780 [sender.py:send():235] send: stats
+2022-03-27 06:43:57,310 DEBUG   HandlerThread:6780 [handler.py:handle_request():141] handle_request: stop_status
+2022-03-27 06:43:57,310 DEBUG   SenderThread:6780 [sender.py:send_request():249] send_request: stop_status
+2022-03-27 06:44:10,654 INFO    Thread-7  :6780 [dir_watcher.py:_on_file_modified():230] file/dir modified: C:\Users\rohit\Personal Projects\Traffic Lights Genetic Algorithm\wandb\run-20220327_061647-197e8vop\files\output.log
+2022-03-27 06:44:12,450 DEBUG   HandlerThread:6780 [handler.py:handle_request():141] handle_request: stop_status
+2022-03-27 06:44:12,450 DEBUG   SenderThread:6780 [sender.py:send_request():249] send_request: stop_status
+2022-03-27 06:44:27,356 DEBUG   SenderThread:6780 [sender.py:send():235] send: stats
+2022-03-27 06:44:27,606 DEBUG   HandlerThread:6780 [handler.py:handle_request():141] handle_request: stop_status
+2022-03-27 06:44:27,606 DEBUG   SenderThread:6780 [sender.py:send_request():249] send_request: stop_status
+2022-03-27 06:44:42,769 DEBUG   HandlerThread:6780 [handler.py:handle_request():141] handle_request: stop_status
+2022-03-27 06:44:42,769 DEBUG   SenderThread:6780 [sender.py:send_request():249] send_request: stop_status
+2022-03-27 06:44:43,957 INFO    Thread-7  :6780 [dir_watcher.py:_on_file_modified():230] file/dir modified: C:\Users\rohit\Personal Projects\Traffic Lights Genetic Algorithm\wandb\run-20220327_061647-197e8vop\files\output.log
+2022-03-27 06:44:57,968 DEBUG   HandlerThread:6780 [handler.py:handle_request():141] handle_request: stop_status
+2022-03-27 06:44:57,968 DEBUG   SenderThread:6780 [sender.py:send_request():249] send_request: stop_status
+2022-03-27 06:45:00,421 DEBUG   SenderThread:6780 [sender.py:send():235] send: stats
+2022-03-27 06:45:13,131 DEBUG   HandlerThread:6780 [handler.py:handle_request():141] handle_request: stop_status
+2022-03-27 06:45:13,131 DEBUG   SenderThread:6780 [sender.py:send_request():249] send_request: stop_status
+2022-03-27 06:45:14,262 INFO    Thread-7  :6780 [dir_watcher.py:_on_file_modified():230] file/dir modified: C:\Users\rohit\Personal Projects\Traffic Lights Genetic Algorithm\wandb\run-20220327_061647-197e8vop\files\output.log
+2022-03-27 06:45:28,299 DEBUG   HandlerThread:6780 [handler.py:handle_request():141] handle_request: stop_status
+2022-03-27 06:45:28,299 DEBUG   SenderThread:6780 [sender.py:send_request():249] send_request: stop_status
+2022-03-27 06:45:33,503 DEBUG   SenderThread:6780 [sender.py:send():235] send: stats
+2022-03-27 06:45:43,468 DEBUG   HandlerThread:6780 [handler.py:handle_request():141] handle_request: stop_status
+2022-03-27 06:45:43,468 DEBUG   SenderThread:6780 [sender.py:send_request():249] send_request: stop_status
+2022-03-27 06:45:46,497 INFO    Thread-7  :6780 [dir_watcher.py:_on_file_modified():230] file/dir modified: C:\Users\rohit\Personal Projects\Traffic Lights Genetic Algorithm\wandb\run-20220327_061647-197e8vop\files\output.log
+2022-03-27 06:45:48,526 INFO    Thread-7  :6780 [dir_watcher.py:_on_file_modified():230] file/dir modified: C:\Users\rohit\Personal Projects\Traffic Lights Genetic Algorithm\wandb\run-20220327_061647-197e8vop\files\output.log
+2022-03-27 06:45:58,621 DEBUG   HandlerThread:6780 [handler.py:handle_request():141] handle_request: stop_status
+2022-03-27 06:45:58,621 DEBUG   SenderThread:6780 [sender.py:send_request():249] send_request: stop_status
+2022-03-27 06:46:06,558 DEBUG   SenderThread:6780 [sender.py:send():235] send: stats
+2022-03-27 06:46:13,785 DEBUG   HandlerThread:6780 [handler.py:handle_request():141] handle_request: stop_status
+2022-03-27 06:46:13,785 DEBUG   SenderThread:6780 [sender.py:send_request():249] send_request: stop_status
+2022-03-27 06:46:18,800 INFO    Thread-7  :6780 [dir_watcher.py:_on_file_modified():230] file/dir modified: C:\Users\rohit\Personal Projects\Traffic Lights Genetic Algorithm\wandb\run-20220327_061647-197e8vop\files\output.log
+2022-03-27 06:46:29,175 DEBUG   HandlerThread:6780 [handler.py:handle_request():141] handle_request: stop_status
+2022-03-27 06:46:29,175 DEBUG   SenderThread:6780 [sender.py:send_request():249] send_request: stop_status
+2022-03-27 06:46:39,667 DEBUG   SenderThread:6780 [sender.py:send():235] send: stats
+2022-03-27 06:46:44,355 DEBUG   HandlerThread:6780 [handler.py:handle_request():141] handle_request: stop_status
+2022-03-27 06:46:44,355 DEBUG   SenderThread:6780 [sender.py:send_request():249] send_request: stop_status
+2022-03-27 06:46:53,121 INFO    Thread-7  :6780 [dir_watcher.py:_on_file_modified():230] file/dir modified: C:\Users\rohit\Personal Projects\Traffic Lights Genetic Algorithm\wandb\run-20220327_061647-197e8vop\files\output.log
+2022-03-27 06:46:59,497 DEBUG   HandlerThread:6780 [handler.py:handle_request():141] handle_request: stop_status
+2022-03-27 06:46:59,497 DEBUG   SenderThread:6780 [sender.py:send_request():249] send_request: stop_status
+2022-03-27 06:47:13,229 DEBUG   SenderThread:6780 [sender.py:send():235] send: stats
+2022-03-27 06:47:14,674 DEBUG   HandlerThread:6780 [handler.py:handle_request():141] handle_request: stop_status
+2022-03-27 06:47:14,674 DEBUG   SenderThread:6780 [sender.py:send_request():249] send_request: stop_status
+2022-03-27 06:47:27,350 INFO    Thread-7  :6780 [dir_watcher.py:_on_file_modified():230] file/dir modified: C:\Users\rohit\Personal Projects\Traffic Lights Genetic Algorithm\wandb\run-20220327_061647-197e8vop\files\output.log
+2022-03-27 06:47:29,819 DEBUG   HandlerThread:6780 [handler.py:handle_request():141] handle_request: stop_status
+2022-03-27 06:47:29,819 DEBUG   SenderThread:6780 [sender.py:send_request():249] send_request: stop_status
+2022-03-27 06:47:44,960 DEBUG   HandlerThread:6780 [handler.py:handle_request():141] handle_request: stop_status
+2022-03-27 06:47:44,960 DEBUG   SenderThread:6780 [sender.py:send_request():249] send_request: stop_status
+2022-03-27 06:47:46,340 DEBUG   SenderThread:6780 [sender.py:send():235] send: stats
+2022-03-27 06:47:59,651 INFO    Thread-7  :6780 [dir_watcher.py:_on_file_modified():230] file/dir modified: C:\Users\rohit\Personal Projects\Traffic Lights Genetic Algorithm\wandb\run-20220327_061647-197e8vop\files\output.log
+2022-03-27 06:48:00,120 DEBUG   HandlerThread:6780 [handler.py:handle_request():141] handle_request: stop_status
+2022-03-27 06:48:00,120 DEBUG   SenderThread:6780 [sender.py:send_request():249] send_request: stop_status
+2022-03-27 06:48:15,272 DEBUG   HandlerThread:6780 [handler.py:handle_request():141] handle_request: stop_status
+2022-03-27 06:48:15,272 DEBUG   SenderThread:6780 [sender.py:send_request():249] send_request: stop_status
+2022-03-27 06:48:19,396 DEBUG   SenderThread:6780 [sender.py:send():235] send: stats
+2022-03-27 06:48:30,442 DEBUG   HandlerThread:6780 [handler.py:handle_request():141] handle_request: stop_status
+2022-03-27 06:48:30,442 DEBUG   SenderThread:6780 [sender.py:send_request():249] send_request: stop_status
+2022-03-27 06:48:34,034 INFO    Thread-7  :6780 [dir_watcher.py:_on_file_modified():230] file/dir modified: C:\Users\rohit\Personal Projects\Traffic Lights Genetic Algorithm\wandb\run-20220327_061647-197e8vop\files\output.log
+2022-03-27 06:48:45,607 DEBUG   HandlerThread:6780 [handler.py:handle_request():141] handle_request: stop_status
+2022-03-27 06:48:45,607 DEBUG   SenderThread:6780 [sender.py:send_request():249] send_request: stop_status
+2022-03-27 06:48:52,450 DEBUG   SenderThread:6780 [sender.py:send():235] send: stats
+2022-03-27 06:49:00,753 DEBUG   HandlerThread:6780 [handler.py:handle_request():141] handle_request: stop_status
+2022-03-27 06:49:00,753 DEBUG   SenderThread:6780 [sender.py:send_request():249] send_request: stop_status
+2022-03-27 06:49:05,391 INFO    Thread-7  :6780 [dir_watcher.py:_on_file_modified():230] file/dir modified: C:\Users\rohit\Personal Projects\Traffic Lights Genetic Algorithm\wandb\run-20220327_061647-197e8vop\files\output.log
+2022-03-27 06:49:15,912 DEBUG   HandlerThread:6780 [handler.py:handle_request():141] handle_request: stop_status
+2022-03-27 06:49:15,912 DEBUG   SenderThread:6780 [sender.py:send_request():249] send_request: stop_status
+2022-03-27 06:49:25,538 DEBUG   SenderThread:6780 [sender.py:send():235] send: stats
+2022-03-27 06:49:31,070 DEBUG   HandlerThread:6780 [handler.py:handle_request():141] handle_request: stop_status
+2022-03-27 06:49:31,070 DEBUG   SenderThread:6780 [sender.py:send_request():249] send_request: stop_status
+2022-03-27 06:49:37,606 INFO    Thread-7  :6780 [dir_watcher.py:_on_file_modified():230] file/dir modified: C:\Users\rohit\Personal Projects\Traffic Lights Genetic Algorithm\wandb\run-20220327_061647-197e8vop\files\output.log
+2022-03-27 06:49:46,219 DEBUG   HandlerThread:6780 [handler.py:handle_request():141] handle_request: stop_status
+2022-03-27 06:49:46,219 DEBUG   SenderThread:6780 [sender.py:send_request():249] send_request: stop_status
+2022-03-27 06:49:58,625 DEBUG   SenderThread:6780 [sender.py:send():235] send: stats
+2022-03-27 06:50:01,521 DEBUG   HandlerThread:6780 [handler.py:handle_request():141] handle_request: stop_status
+2022-03-27 06:50:01,521 DEBUG   SenderThread:6780 [sender.py:send_request():249] send_request: stop_status
+2022-03-27 06:50:09,875 INFO    Thread-7  :6780 [dir_watcher.py:_on_file_modified():230] file/dir modified: C:\Users\rohit\Personal Projects\Traffic Lights Genetic Algorithm\wandb\run-20220327_061647-197e8vop\files\output.log
+2022-03-27 06:50:16,674 DEBUG   HandlerThread:6780 [handler.py:handle_request():141] handle_request: stop_status
+2022-03-27 06:50:16,674 DEBUG   SenderThread:6780 [sender.py:send_request():249] send_request: stop_status
+2022-03-27 06:50:31,710 DEBUG   SenderThread:6780 [sender.py:send():235] send: stats
+2022-03-27 06:50:31,820 DEBUG   HandlerThread:6780 [handler.py:handle_request():141] handle_request: stop_status
+2022-03-27 06:50:31,820 DEBUG   SenderThread:6780 [sender.py:send_request():249] send_request: stop_status
+2022-03-27 06:50:41,944 DEBUG   HandlerThread:6780 [handler.py:handle_request():141] handle_request: partial_history
+2022-03-27 06:50:41,945 DEBUG   SenderThread:6780 [sender.py:send():235] send: history
+2022-03-27 06:50:41,945 DEBUG   SenderThread:6780 [sender.py:send():235] send: summary
+2022-03-27 06:50:41,945 INFO    SenderThread:6780 [sender.py:_save_file():947] saving file wandb-summary.json with policy end
+2022-03-27 06:50:42,175 INFO    Thread-7  :6780 [dir_watcher.py:_on_file_modified():230] file/dir modified: C:\Users\rohit\Personal Projects\Traffic Lights Genetic Algorithm\wandb\run-20220327_061647-197e8vop\files\wandb-summary.json
+2022-03-27 06:50:44,193 INFO    Thread-7  :6780 [dir_watcher.py:_on_file_modified():230] file/dir modified: C:\Users\rohit\Personal Projects\Traffic Lights Genetic Algorithm\wandb\run-20220327_061647-197e8vop\files\output.log
+2022-03-27 06:50:46,962 DEBUG   HandlerThread:6780 [handler.py:handle_request():141] handle_request: stop_status
+2022-03-27 06:50:46,962 DEBUG   SenderThread:6780 [sender.py:send_request():249] send_request: stop_status
+2022-03-27 06:51:02,129 DEBUG   HandlerThread:6780 [handler.py:handle_request():141] handle_request: stop_status
+2022-03-27 06:51:02,129 DEBUG   SenderThread:6780 [sender.py:send_request():249] send_request: stop_status
+2022-03-27 06:51:04,832 DEBUG   SenderThread:6780 [sender.py:send():235] send: stats
+2022-03-27 06:51:17,296 DEBUG   HandlerThread:6780 [handler.py:handle_request():141] handle_request: stop_status
+2022-03-27 06:51:17,296 DEBUG   SenderThread:6780 [sender.py:send_request():249] send_request: stop_status
+2022-03-27 06:51:32,479 DEBUG   HandlerThread:6780 [handler.py:handle_request():141] handle_request: stop_status
+2022-03-27 06:51:32,479 DEBUG   SenderThread:6780 [sender.py:send_request():249] send_request: stop_status
+2022-03-27 06:51:37,997 DEBUG   SenderThread:6780 [sender.py:send():235] send: stats
+2022-03-27 06:51:47,644 DEBUG   HandlerThread:6780 [handler.py:handle_request():141] handle_request: stop_status
+2022-03-27 06:51:47,644 DEBUG   SenderThread:6780 [sender.py:send_request():249] send_request: stop_status
+2022-03-27 06:52:02,804 DEBUG   HandlerThread:6780 [handler.py:handle_request():141] handle_request: stop_status
+2022-03-27 06:52:02,804 DEBUG   SenderThread:6780 [sender.py:send_request():249] send_request: stop_status
+2022-03-27 06:52:11,306 DEBUG   SenderThread:6780 [sender.py:send():235] send: stats
+2022-03-27 06:52:17,982 DEBUG   HandlerThread:6780 [handler.py:handle_request():141] handle_request: stop_status
+2022-03-27 06:52:17,982 DEBUG   SenderThread:6780 [sender.py:send_request():249] send_request: stop_status
+2022-03-27 06:52:33,146 DEBUG   HandlerThread:6780 [handler.py:handle_request():141] handle_request: stop_status
+2022-03-27 06:52:33,146 DEBUG   SenderThread:6780 [sender.py:send_request():249] send_request: stop_status
+2022-03-27 06:52:34,896 INFO    Thread-7  :6780 [dir_watcher.py:_on_file_modified():230] file/dir modified: C:\Users\rohit\Personal Projects\Traffic Lights Genetic Algorithm\wandb\run-20220327_061647-197e8vop\files\output.log
+2022-03-27 06:52:44,584 DEBUG   SenderThread:6780 [sender.py:send():235] send: stats
+2022-03-27 06:52:48,302 DEBUG   HandlerThread:6780 [handler.py:handle_request():141] handle_request: stop_status
+2022-03-27 06:52:48,302 DEBUG   SenderThread:6780 [sender.py:send_request():249] send_request: stop_status
+2022-03-27 06:53:03,464 DEBUG   HandlerThread:6780 [handler.py:handle_request():141] handle_request: stop_status
+2022-03-27 06:53:03,464 DEBUG   SenderThread:6780 [sender.py:send_request():249] send_request: stop_status
+2022-03-27 06:53:17,843 DEBUG   SenderThread:6780 [sender.py:send():235] send: stats
+2022-03-27 06:53:18,624 DEBUG   HandlerThread:6780 [handler.py:handle_request():141] handle_request: stop_status
+2022-03-27 06:53:18,624 DEBUG   SenderThread:6780 [sender.py:send_request():249] send_request: stop_status
+2022-03-27 06:53:25,328 INFO    Thread-7  :6780 [dir_watcher.py:_on_file_modified():230] file/dir modified: C:\Users\rohit\Personal Projects\Traffic Lights Genetic Algorithm\wandb\run-20220327_061647-197e8vop\files\output.log
+2022-03-27 06:53:27,344 INFO    Thread-7  :6780 [dir_watcher.py:_on_file_modified():230] file/dir modified: C:\Users\rohit\Personal Projects\Traffic Lights Genetic Algorithm\wandb\run-20220327_061647-197e8vop\files\output.log
+2022-03-27 06:53:33,781 DEBUG   HandlerThread:6780 [handler.py:handle_request():141] handle_request: stop_status
+2022-03-27 06:53:33,781 DEBUG   SenderThread:6780 [sender.py:send_request():249] send_request: stop_status
+2022-03-27 06:53:48,932 DEBUG   HandlerThread:6780 [handler.py:handle_request():141] handle_request: stop_status
+2022-03-27 06:53:48,932 DEBUG   SenderThread:6780 [sender.py:send_request():249] send_request: stop_status
+2022-03-27 06:53:51,119 DEBUG   SenderThread:6780 [sender.py:send():235] send: stats
+2022-03-27 06:54:04,118 DEBUG   HandlerThread:6780 [handler.py:handle_request():141] handle_request: stop_status
+2022-03-27 06:54:04,118 DEBUG   SenderThread:6780 [sender.py:send_request():249] send_request: stop_status
+2022-03-27 06:54:14,725 INFO    Thread-7  :6780 [dir_watcher.py:_on_file_modified():230] file/dir modified: C:\Users\rohit\Personal Projects\Traffic Lights Genetic Algorithm\wandb\run-20220327_061647-197e8vop\files\output.log
+2022-03-27 06:54:19,279 DEBUG   HandlerThread:6780 [handler.py:handle_request():141] handle_request: stop_status
+2022-03-27 06:54:19,279 DEBUG   SenderThread:6780 [sender.py:send_request():249] send_request: stop_status
+2022-03-27 06:54:24,419 DEBUG   SenderThread:6780 [sender.py:send():235] send: stats
+2022-03-27 06:54:34,436 DEBUG   HandlerThread:6780 [handler.py:handle_request():141] handle_request: stop_status
+2022-03-27 06:54:34,436 DEBUG   SenderThread:6780 [sender.py:send_request():249] send_request: stop_status
+2022-03-27 06:54:49,608 DEBUG   HandlerThread:6780 [handler.py:handle_request():141] handle_request: stop_status
+2022-03-27 06:54:49,608 DEBUG   SenderThread:6780 [sender.py:send_request():249] send_request: stop_status
+2022-03-27 06:54:57,716 DEBUG   SenderThread:6780 [sender.py:send():235] send: stats
+2022-03-27 06:55:04,839 DEBUG   HandlerThread:6780 [handler.py:handle_request():141] handle_request: stop_status
+2022-03-27 06:55:04,839 DEBUG   SenderThread:6780 [sender.py:send_request():249] send_request: stop_status
+2022-03-27 06:55:05,183 INFO    Thread-7  :6780 [dir_watcher.py:_on_file_modified():230] file/dir modified: C:\Users\rohit\Personal Projects\Traffic Lights Genetic Algorithm\wandb\run-20220327_061647-197e8vop\files\output.log
+2022-03-27 06:55:20,009 DEBUG   HandlerThread:6780 [handler.py:handle_request():141] handle_request: stop_status
+2022-03-27 06:55:20,009 DEBUG   SenderThread:6780 [sender.py:send_request():249] send_request: stop_status
+2022-03-27 06:55:31,012 DEBUG   SenderThread:6780 [sender.py:send():235] send: stats
+2022-03-27 06:55:35,169 DEBUG   HandlerThread:6780 [handler.py:handle_request():141] handle_request: stop_status
+2022-03-27 06:55:35,169 DEBUG   SenderThread:6780 [sender.py:send_request():249] send_request: stop_status
+2022-03-27 06:55:50,338 DEBUG   HandlerThread:6780 [handler.py:handle_request():141] handle_request: stop_status
+2022-03-27 06:55:50,338 DEBUG   SenderThread:6780 [sender.py:send_request():249] send_request: stop_status
+2022-03-27 06:55:53,587 INFO    Thread-7  :6780 [dir_watcher.py:_on_file_modified():230] file/dir modified: C:\Users\rohit\Personal Projects\Traffic Lights Genetic Algorithm\wandb\run-20220327_061647-197e8vop\files\output.log
+2022-03-27 06:56:04,195 DEBUG   SenderThread:6780 [sender.py:send():235] send: stats
+2022-03-27 06:56:05,492 DEBUG   HandlerThread:6780 [handler.py:handle_request():141] handle_request: stop_status
+2022-03-27 06:56:05,492 DEBUG   SenderThread:6780 [sender.py:send_request():249] send_request: stop_status
+2022-03-27 06:56:20,870 DEBUG   HandlerThread:6780 [handler.py:handle_request():141] handle_request: stop_status
+2022-03-27 06:56:20,870 DEBUG   SenderThread:6780 [sender.py:send_request():249] send_request: stop_status
+2022-03-27 06:56:25,898 INFO    Thread-7  :6780 [dir_watcher.py:_on_file_modified():230] file/dir modified: C:\Users\rohit\Personal Projects\Traffic Lights Genetic Algorithm\wandb\run-20220327_061647-197e8vop\files\output.log
+2022-03-27 06:56:36,014 DEBUG   HandlerThread:6780 [handler.py:handle_request():141] handle_request: stop_status
+2022-03-27 06:56:36,014 DEBUG   SenderThread:6780 [sender.py:send_request():249] send_request: stop_status
+2022-03-27 06:56:37,264 DEBUG   SenderThread:6780 [sender.py:send():235] send: stats
+2022-03-27 06:56:51,186 DEBUG   HandlerThread:6780 [handler.py:handle_request():141] handle_request: stop_status
+2022-03-27 06:56:51,186 DEBUG   SenderThread:6780 [sender.py:send_request():249] send_request: stop_status
+2022-03-27 06:56:58,182 INFO    Thread-7  :6780 [dir_watcher.py:_on_file_modified():230] file/dir modified: C:\Users\rohit\Personal Projects\Traffic Lights Genetic Algorithm\wandb\run-20220327_061647-197e8vop\files\output.log
+2022-03-27 06:57:06,385 DEBUG   HandlerThread:6780 [handler.py:handle_request():141] handle_request: stop_status
+2022-03-27 06:57:06,385 DEBUG   SenderThread:6780 [sender.py:send_request():249] send_request: stop_status
+2022-03-27 06:57:10,336 DEBUG   SenderThread:6780 [sender.py:send():235] send: stats
+2022-03-27 06:57:21,546 DEBUG   HandlerThread:6780 [handler.py:handle_request():141] handle_request: stop_status
+2022-03-27 06:57:21,546 DEBUG   SenderThread:6780 [sender.py:send_request():249] send_request: stop_status
+2022-03-27 06:57:30,435 INFO    Thread-7  :6780 [dir_watcher.py:_on_file_modified():230] file/dir modified: C:\Users\rohit\Personal Projects\Traffic Lights Genetic Algorithm\wandb\run-20220327_061647-197e8vop\files\output.log
+2022-03-27 06:57:36,704 DEBUG   HandlerThread:6780 [handler.py:handle_request():141] handle_request: stop_status
+2022-03-27 06:57:36,704 DEBUG   SenderThread:6780 [sender.py:send_request():249] send_request: stop_status
+2022-03-27 06:57:43,397 DEBUG   SenderThread:6780 [sender.py:send():235] send: stats
+2022-03-27 06:57:51,849 DEBUG   HandlerThread:6780 [handler.py:handle_request():141] handle_request: stop_status
+2022-03-27 06:57:51,849 DEBUG   SenderThread:6780 [sender.py:send_request():249] send_request: stop_status
+2022-03-27 06:58:02,721 INFO    Thread-7  :6780 [dir_watcher.py:_on_file_modified():230] file/dir modified: C:\Users\rohit\Personal Projects\Traffic Lights Genetic Algorithm\wandb\run-20220327_061647-197e8vop\files\output.log
+2022-03-27 06:58:04,738 INFO    Thread-7  :6780 [dir_watcher.py:_on_file_modified():230] file/dir modified: C:\Users\rohit\Personal Projects\Traffic Lights Genetic Algorithm\wandb\run-20220327_061647-197e8vop\files\output.log
+2022-03-27 06:58:07,021 DEBUG   HandlerThread:6780 [handler.py:handle_request():141] handle_request: stop_status
+2022-03-27 06:58:07,021 DEBUG   SenderThread:6780 [sender.py:send_request():249] send_request: stop_status
+2022-03-27 06:58:16,481 DEBUG   SenderThread:6780 [sender.py:send():235] send: stats
+2022-03-27 06:58:22,184 DEBUG   HandlerThread:6780 [handler.py:handle_request():141] handle_request: stop_status
+2022-03-27 06:58:22,184 DEBUG   SenderThread:6780 [sender.py:send_request():249] send_request: stop_status
+2022-03-27 06:58:35,026 INFO    Thread-7  :6780 [dir_watcher.py:_on_file_modified():230] file/dir modified: C:\Users\rohit\Personal Projects\Traffic Lights Genetic Algorithm\wandb\run-20220327_061647-197e8vop\files\output.log
+2022-03-27 06:58:37,026 INFO    Thread-7  :6780 [dir_watcher.py:_on_file_modified():230] file/dir modified: C:\Users\rohit\Personal Projects\Traffic Lights Genetic Algorithm\wandb\run-20220327_061647-197e8vop\files\output.log
+2022-03-27 06:58:37,354 DEBUG   HandlerThread:6780 [handler.py:handle_request():141] handle_request: stop_status
+2022-03-27 06:58:37,354 DEBUG   SenderThread:6780 [sender.py:send_request():249] send_request: stop_status
+2022-03-27 06:58:49,545 DEBUG   SenderThread:6780 [sender.py:send():235] send: stats
+2022-03-27 06:58:52,526 DEBUG   HandlerThread:6780 [handler.py:handle_request():141] handle_request: stop_status
+2022-03-27 06:58:52,526 DEBUG   SenderThread:6780 [sender.py:send_request():249] send_request: stop_status
+2022-03-27 06:59:07,683 DEBUG   HandlerThread:6780 [handler.py:handle_request():141] handle_request: stop_status
+2022-03-27 06:59:07,683 DEBUG   SenderThread:6780 [sender.py:send_request():249] send_request: stop_status
+2022-03-27 06:59:09,293 INFO    Thread-7  :6780 [dir_watcher.py:_on_file_modified():230] file/dir modified: C:\Users\rohit\Personal Projects\Traffic Lights Genetic Algorithm\wandb\run-20220327_061647-197e8vop\files\output.log
+2022-03-27 06:59:22,660 DEBUG   SenderThread:6780 [sender.py:send():235] send: stats
+2022-03-27 06:59:22,824 DEBUG   HandlerThread:6780 [handler.py:handle_request():141] handle_request: stop_status
+2022-03-27 06:59:22,824 DEBUG   SenderThread:6780 [sender.py:send_request():249] send_request: stop_status
+2022-03-27 06:59:37,985 DEBUG   HandlerThread:6780 [handler.py:handle_request():141] handle_request: stop_status
+2022-03-27 06:59:37,985 DEBUG   SenderThread:6780 [sender.py:send_request():249] send_request: stop_status
+2022-03-27 06:59:40,561 INFO    Thread-7  :6780 [dir_watcher.py:_on_file_modified():230] file/dir modified: C:\Users\rohit\Personal Projects\Traffic Lights Genetic Algorithm\wandb\run-20220327_061647-197e8vop\files\output.log
+2022-03-27 06:59:42,566 INFO    Thread-7  :6780 [dir_watcher.py:_on_file_modified():230] file/dir modified: C:\Users\rohit\Personal Projects\Traffic Lights Genetic Algorithm\wandb\run-20220327_061647-197e8vop\files\output.log
+2022-03-27 06:59:53,136 DEBUG   HandlerThread:6780 [handler.py:handle_request():141] handle_request: stop_status
+2022-03-27 06:59:53,136 DEBUG   SenderThread:6780 [sender.py:send_request():249] send_request: stop_status
+2022-03-27 06:59:55,714 DEBUG   SenderThread:6780 [sender.py:send():235] send: stats
+2022-03-27 07:00:08,277 DEBUG   HandlerThread:6780 [handler.py:handle_request():141] handle_request: stop_status
+2022-03-27 07:00:08,277 DEBUG   SenderThread:6780 [sender.py:send_request():249] send_request: stop_status
+2022-03-27 07:00:14,883 INFO    Thread-7  :6780 [dir_watcher.py:_on_file_modified():230] file/dir modified: C:\Users\rohit\Personal Projects\Traffic Lights Genetic Algorithm\wandb\run-20220327_061647-197e8vop\files\output.log
+2022-03-27 07:00:23,441 DEBUG   HandlerThread:6780 [handler.py:handle_request():141] handle_request: stop_status
+2022-03-27 07:00:23,441 DEBUG   SenderThread:6780 [sender.py:send_request():249] send_request: stop_status
+2022-03-27 07:00:28,784 DEBUG   SenderThread:6780 [sender.py:send():235] send: stats
+2022-03-27 07:00:38,610 DEBUG   HandlerThread:6780 [handler.py:handle_request():141] handle_request: stop_status
+2022-03-27 07:00:38,610 DEBUG   SenderThread:6780 [sender.py:send_request():249] send_request: stop_status
+2022-03-27 07:00:47,204 INFO    Thread-7  :6780 [dir_watcher.py:_on_file_modified():230] file/dir modified: C:\Users\rohit\Personal Projects\Traffic Lights Genetic Algorithm\wandb\run-20220327_061647-197e8vop\files\output.log
+2022-03-27 07:00:53,779 DEBUG   HandlerThread:6780 [handler.py:handle_request():141] handle_request: stop_status
+2022-03-27 07:00:53,779 DEBUG   SenderThread:6780 [sender.py:send_request():249] send_request: stop_status
+2022-03-27 07:01:01,861 DEBUG   SenderThread:6780 [sender.py:send():235] send: stats
+2022-03-27 07:01:08,928 DEBUG   HandlerThread:6780 [handler.py:handle_request():141] handle_request: stop_status
+2022-03-27 07:01:08,928 DEBUG   SenderThread:6780 [sender.py:send_request():249] send_request: stop_status
+2022-03-27 07:01:19,476 INFO    Thread-7  :6780 [dir_watcher.py:_on_file_modified():230] file/dir modified: C:\Users\rohit\Personal Projects\Traffic Lights Genetic Algorithm\wandb\run-20220327_061647-197e8vop\files\output.log
+2022-03-27 07:01:21,493 INFO    Thread-7  :6780 [dir_watcher.py:_on_file_modified():230] file/dir modified: C:\Users\rohit\Personal Projects\Traffic Lights Genetic Algorithm\wandb\run-20220327_061647-197e8vop\files\output.log
+2022-03-27 07:01:24,098 DEBUG   HandlerThread:6780 [handler.py:handle_request():141] handle_request: stop_status
+2022-03-27 07:01:24,098 DEBUG   SenderThread:6780 [sender.py:send_request():249] send_request: stop_status
+2022-03-27 07:01:34,945 DEBUG   SenderThread:6780 [sender.py:send():235] send: stats
+2022-03-27 07:01:39,240 DEBUG   HandlerThread:6780 [handler.py:handle_request():141] handle_request: stop_status
+2022-03-27 07:01:39,240 DEBUG   SenderThread:6780 [sender.py:send_request():249] send_request: stop_status
+2022-03-27 07:01:53,773 INFO    Thread-7  :6780 [dir_watcher.py:_on_file_modified():230] file/dir modified: C:\Users\rohit\Personal Projects\Traffic Lights Genetic Algorithm\wandb\run-20220327_061647-197e8vop\files\output.log
+2022-03-27 07:01:54,398 DEBUG   HandlerThread:6780 [handler.py:handle_request():141] handle_request: stop_status
+2022-03-27 07:01:54,398 DEBUG   SenderThread:6780 [sender.py:send_request():249] send_request: stop_status
+2022-03-27 07:02:08,037 DEBUG   SenderThread:6780 [sender.py:send():235] send: stats
+2022-03-27 07:02:09,555 DEBUG   HandlerThread:6780 [handler.py:handle_request():141] handle_request: stop_status
+2022-03-27 07:02:09,555 DEBUG   SenderThread:6780 [sender.py:send_request():249] send_request: stop_status
+2022-03-27 07:02:24,700 DEBUG   HandlerThread:6780 [handler.py:handle_request():141] handle_request: stop_status
+2022-03-27 07:02:24,700 DEBUG   SenderThread:6780 [sender.py:send_request():249] send_request: stop_status
+2022-03-27 07:02:28,062 INFO    Thread-7  :6780 [dir_watcher.py:_on_file_modified():230] file/dir modified: C:\Users\rohit\Personal Projects\Traffic Lights Genetic Algorithm\wandb\run-20220327_061647-197e8vop\files\output.log
+2022-03-27 07:02:39,865 DEBUG   HandlerThread:6780 [handler.py:handle_request():141] handle_request: stop_status
+2022-03-27 07:02:39,865 DEBUG   SenderThread:6780 [sender.py:send_request():249] send_request: stop_status
+2022-03-27 07:02:41,100 DEBUG   SenderThread:6780 [sender.py:send():235] send: stats
+2022-03-27 07:02:55,007 DEBUG   HandlerThread:6780 [handler.py:handle_request():141] handle_request: stop_status
+2022-03-27 07:02:55,007 DEBUG   SenderThread:6780 [sender.py:send_request():249] send_request: stop_status
+2022-03-27 07:03:00,269 INFO    Thread-7  :6780 [dir_watcher.py:_on_file_modified():230] file/dir modified: C:\Users\rohit\Personal Projects\Traffic Lights Genetic Algorithm\wandb\run-20220327_061647-197e8vop\files\output.log
+2022-03-27 07:03:10,159 DEBUG   HandlerThread:6780 [handler.py:handle_request():141] handle_request: stop_status
+2022-03-27 07:03:10,159 DEBUG   SenderThread:6780 [sender.py:send_request():249] send_request: stop_status
+2022-03-27 07:03:14,175 DEBUG   SenderThread:6780 [sender.py:send():235] send: stats
+2022-03-27 07:03:25,321 DEBUG   HandlerThread:6780 [handler.py:handle_request():141] handle_request: stop_status
+2022-03-27 07:03:25,321 DEBUG   SenderThread:6780 [sender.py:send_request():249] send_request: stop_status
+2022-03-27 07:03:30,584 INFO    Thread-7  :6780 [dir_watcher.py:_on_file_modified():230] file/dir modified: C:\Users\rohit\Personal Projects\Traffic Lights Genetic Algorithm\wandb\run-20220327_061647-197e8vop\files\output.log
+2022-03-27 07:03:40,466 DEBUG   HandlerThread:6780 [handler.py:handle_request():141] handle_request: stop_status
+2022-03-27 07:03:40,466 DEBUG   SenderThread:6780 [sender.py:send_request():249] send_request: stop_status
+2022-03-27 07:03:47,247 DEBUG   SenderThread:6780 [sender.py:send():235] send: stats
+2022-03-27 07:03:55,637 DEBUG   HandlerThread:6780 [handler.py:handle_request():141] handle_request: stop_status
+2022-03-27 07:03:55,637 DEBUG   SenderThread:6780 [sender.py:send_request():249] send_request: stop_status
+2022-03-27 07:04:02,884 INFO    Thread-7  :6780 [dir_watcher.py:_on_file_modified():230] file/dir modified: C:\Users\rohit\Personal Projects\Traffic Lights Genetic Algorithm\wandb\run-20220327_061647-197e8vop\files\output.log
+2022-03-27 07:04:10,806 DEBUG   HandlerThread:6780 [handler.py:handle_request():141] handle_request: stop_status
+2022-03-27 07:04:10,806 DEBUG   SenderThread:6780 [sender.py:send_request():249] send_request: stop_status
+2022-03-27 07:04:20,304 DEBUG   SenderThread:6780 [sender.py:send():235] send: stats
+2022-03-27 07:04:25,960 DEBUG   HandlerThread:6780 [handler.py:handle_request():141] handle_request: stop_status
+2022-03-27 07:04:25,960 DEBUG   SenderThread:6780 [sender.py:send_request():249] send_request: stop_status
+2022-03-27 07:04:34,127 INFO    Thread-7  :6780 [dir_watcher.py:_on_file_modified():230] file/dir modified: C:\Users\rohit\Personal Projects\Traffic Lights Genetic Algorithm\wandb\run-20220327_061647-197e8vop\files\output.log
+2022-03-27 07:04:41,189 DEBUG   HandlerThread:6780 [handler.py:handle_request():141] handle_request: stop_status
+2022-03-27 07:04:41,189 DEBUG   SenderThread:6780 [sender.py:send_request():249] send_request: stop_status
+2022-03-27 07:04:53,375 DEBUG   SenderThread:6780 [sender.py:send():235] send: stats
+2022-03-27 07:04:56,342 DEBUG   HandlerThread:6780 [handler.py:handle_request():141] handle_request: stop_status
+2022-03-27 07:04:56,342 DEBUG   SenderThread:6780 [sender.py:send_request():249] send_request: stop_status
+2022-03-27 07:05:06,416 INFO    Thread-7  :6780 [dir_watcher.py:_on_file_modified():230] file/dir modified: C:\Users\rohit\Personal Projects\Traffic Lights Genetic Algorithm\wandb\run-20220327_061647-197e8vop\files\output.log
+2022-03-27 07:05:11,493 DEBUG   HandlerThread:6780 [handler.py:handle_request():141] handle_request: stop_status
+2022-03-27 07:05:11,493 DEBUG   SenderThread:6780 [sender.py:send_request():249] send_request: stop_status
+2022-03-27 07:05:26,441 DEBUG   SenderThread:6780 [sender.py:send():235] send: stats
+2022-03-27 07:05:26,645 DEBUG   HandlerThread:6780 [handler.py:handle_request():141] handle_request: stop_status
+2022-03-27 07:05:26,645 DEBUG   SenderThread:6780 [sender.py:send_request():249] send_request: stop_status
+2022-03-27 07:05:38,763 INFO    Thread-7  :6780 [dir_watcher.py:_on_file_modified():230] file/dir modified: C:\Users\rohit\Personal Projects\Traffic Lights Genetic Algorithm\wandb\run-20220327_061647-197e8vop\files\output.log
+2022-03-27 07:05:40,766 INFO    Thread-7  :6780 [dir_watcher.py:_on_file_modified():230] file/dir modified: C:\Users\rohit\Personal Projects\Traffic Lights Genetic Algorithm\wandb\run-20220327_061647-197e8vop\files\output.log
+2022-03-27 07:05:41,814 DEBUG   HandlerThread:6780 [handler.py:handle_request():141] handle_request: stop_status
+2022-03-27 07:05:41,814 DEBUG   SenderThread:6780 [sender.py:send_request():249] send_request: stop_status
+2022-03-27 07:05:56,985 DEBUG   HandlerThread:6780 [handler.py:handle_request():141] handle_request: stop_status
+2022-03-27 07:05:56,985 DEBUG   SenderThread:6780 [sender.py:send_request():249] send_request: stop_status
+2022-03-27 07:05:59,507 DEBUG   SenderThread:6780 [sender.py:send():235] send: stats
+2022-03-27 07:06:11,040 INFO    Thread-7  :6780 [dir_watcher.py:_on_file_modified():230] file/dir modified: C:\Users\rohit\Personal Projects\Traffic Lights Genetic Algorithm\wandb\run-20220327_061647-197e8vop\files\output.log
+2022-03-27 07:06:12,243 DEBUG   HandlerThread:6780 [handler.py:handle_request():141] handle_request: stop_status
+2022-03-27 07:06:12,243 DEBUG   SenderThread:6780 [sender.py:send_request():249] send_request: stop_status
+2022-03-27 07:06:27,406 DEBUG   HandlerThread:6780 [handler.py:handle_request():141] handle_request: stop_status
+2022-03-27 07:06:27,406 DEBUG   SenderThread:6780 [sender.py:send_request():249] send_request: stop_status
+2022-03-27 07:06:32,596 DEBUG   SenderThread:6780 [sender.py:send():235] send: stats
+2022-03-27 07:06:42,561 DEBUG   HandlerThread:6780 [handler.py:handle_request():141] handle_request: stop_status
+2022-03-27 07:06:42,561 DEBUG   SenderThread:6780 [sender.py:send_request():249] send_request: stop_status
+2022-03-27 07:06:43,358 INFO    Thread-7  :6780 [dir_watcher.py:_on_file_modified():230] file/dir modified: C:\Users\rohit\Personal Projects\Traffic Lights Genetic Algorithm\wandb\run-20220327_061647-197e8vop\files\output.log
+2022-03-27 07:06:57,793 DEBUG   HandlerThread:6780 [handler.py:handle_request():141] handle_request: stop_status
+2022-03-27 07:06:57,793 DEBUG   SenderThread:6780 [sender.py:send_request():249] send_request: stop_status
+2022-03-27 07:07:05,685 DEBUG   SenderThread:6780 [sender.py:send():235] send: stats
+2022-03-27 07:07:12,935 DEBUG   HandlerThread:6780 [handler.py:handle_request():141] handle_request: stop_status
+2022-03-27 07:07:12,935 DEBUG   SenderThread:6780 [sender.py:send_request():249] send_request: stop_status
+2022-03-27 07:07:15,618 INFO    Thread-7  :6780 [dir_watcher.py:_on_file_modified():230] file/dir modified: C:\Users\rohit\Personal Projects\Traffic Lights Genetic Algorithm\wandb\run-20220327_061647-197e8vop\files\output.log
+2022-03-27 07:07:17,648 INFO    Thread-7  :6780 [dir_watcher.py:_on_file_modified():230] file/dir modified: C:\Users\rohit\Personal Projects\Traffic Lights Genetic Algorithm\wandb\run-20220327_061647-197e8vop\files\output.log
+2022-03-27 07:07:28,089 DEBUG   HandlerThread:6780 [handler.py:handle_request():141] handle_request: stop_status
+2022-03-27 07:07:28,089 DEBUG   SenderThread:6780 [sender.py:send_request():249] send_request: stop_status
+2022-03-27 07:07:38,739 DEBUG   SenderThread:6780 [sender.py:send():235] send: stats
+2022-03-27 07:07:43,242 DEBUG   HandlerThread:6780 [handler.py:handle_request():141] handle_request: stop_status
+2022-03-27 07:07:43,242 DEBUG   SenderThread:6780 [sender.py:send_request():249] send_request: stop_status
+2022-03-27 07:07:49,877 INFO    Thread-7  :6780 [dir_watcher.py:_on_file_modified():230] file/dir modified: C:\Users\rohit\Personal Projects\Traffic Lights Genetic Algorithm\wandb\run-20220327_061647-197e8vop\files\output.log
+2022-03-27 07:07:58,407 DEBUG   HandlerThread:6780 [handler.py:handle_request():141] handle_request: stop_status
+2022-03-27 07:07:58,407 DEBUG   SenderThread:6780 [sender.py:send_request():249] send_request: stop_status
+2022-03-27 07:08:11,831 DEBUG   SenderThread:6780 [sender.py:send():235] send: stats
+2022-03-27 07:08:13,550 DEBUG   HandlerThread:6780 [handler.py:handle_request():141] handle_request: stop_status
+2022-03-27 07:08:13,550 DEBUG   SenderThread:6780 [sender.py:send_request():249] send_request: stop_status
+2022-03-27 07:08:20,156 INFO    Thread-7  :6780 [dir_watcher.py:_on_file_modified():230] file/dir modified: C:\Users\rohit\Personal Projects\Traffic Lights Genetic Algorithm\wandb\run-20220327_061647-197e8vop\files\output.log
+2022-03-27 07:08:22,170 INFO    Thread-7  :6780 [dir_watcher.py:_on_file_modified():230] file/dir modified: C:\Users\rohit\Personal Projects\Traffic Lights Genetic Algorithm\wandb\run-20220327_061647-197e8vop\files\output.log
+2022-03-27 07:08:28,717 DEBUG   HandlerThread:6780 [handler.py:handle_request():141] handle_request: stop_status
+2022-03-27 07:08:28,717 DEBUG   SenderThread:6780 [sender.py:send_request():249] send_request: stop_status
+2022-03-27 07:08:43,878 DEBUG   HandlerThread:6780 [handler.py:handle_request():141] handle_request: stop_status
+2022-03-27 07:08:43,878 DEBUG   SenderThread:6780 [sender.py:send_request():249] send_request: stop_status
+2022-03-27 07:08:44,909 DEBUG   SenderThread:6780 [sender.py:send():235] send: stats
+2022-03-27 07:08:52,468 INFO    Thread-7  :6780 [dir_watcher.py:_on_file_modified():230] file/dir modified: C:\Users\rohit\Personal Projects\Traffic Lights Genetic Algorithm\wandb\run-20220327_061647-197e8vop\files\output.log
+2022-03-27 07:08:59,046 DEBUG   HandlerThread:6780 [handler.py:handle_request():141] handle_request: stop_status
+2022-03-27 07:08:59,046 DEBUG   SenderThread:6780 [sender.py:send_request():249] send_request: stop_status
+2022-03-27 07:09:14,195 DEBUG   HandlerThread:6780 [handler.py:handle_request():141] handle_request: stop_status
+2022-03-27 07:09:14,195 DEBUG   SenderThread:6780 [sender.py:send_request():249] send_request: stop_status
+2022-03-27 07:09:17,977 DEBUG   SenderThread:6780 [sender.py:send():235] send: stats
+2022-03-27 07:09:23,799 INFO    Thread-7  :6780 [dir_watcher.py:_on_file_modified():230] file/dir modified: C:\Users\rohit\Personal Projects\Traffic Lights Genetic Algorithm\wandb\run-20220327_061647-197e8vop\files\output.log
+2022-03-27 07:09:25,820 INFO    Thread-7  :6780 [dir_watcher.py:_on_file_modified():230] file/dir modified: C:\Users\rohit\Personal Projects\Traffic Lights Genetic Algorithm\wandb\run-20220327_061647-197e8vop\files\output.log
+2022-03-27 07:09:29,366 DEBUG   HandlerThread:6780 [handler.py:handle_request():141] handle_request: stop_status
+2022-03-27 07:09:29,366 DEBUG   SenderThread:6780 [sender.py:send_request():249] send_request: stop_status
+2022-03-27 07:09:44,521 DEBUG   HandlerThread:6780 [handler.py:handle_request():141] handle_request: stop_status
+2022-03-27 07:09:44,521 DEBUG   SenderThread:6780 [sender.py:send_request():249] send_request: stop_status
+2022-03-27 07:09:51,051 DEBUG   SenderThread:6780 [sender.py:send():235] send: stats
+2022-03-27 07:09:58,110 INFO    Thread-7  :6780 [dir_watcher.py:_on_file_modified():230] file/dir modified: C:\Users\rohit\Personal Projects\Traffic Lights Genetic Algorithm\wandb\run-20220327_061647-197e8vop\files\output.log
+2022-03-27 07:09:59,673 DEBUG   HandlerThread:6780 [handler.py:handle_request():141] handle_request: stop_status
+2022-03-27 07:09:59,673 DEBUG   SenderThread:6780 [sender.py:send_request():249] send_request: stop_status
+2022-03-27 07:10:14,844 DEBUG   HandlerThread:6780 [handler.py:handle_request():141] handle_request: stop_status
+2022-03-27 07:10:14,844 DEBUG   SenderThread:6780 [sender.py:send_request():249] send_request: stop_status
+2022-03-27 07:10:24,109 DEBUG   SenderThread:6780 [sender.py:send():235] send: stats
+2022-03-27 07:10:30,009 DEBUG   HandlerThread:6780 [handler.py:handle_request():141] handle_request: stop_status
+2022-03-27 07:10:30,009 DEBUG   SenderThread:6780 [sender.py:send_request():249] send_request: stop_status
+2022-03-27 07:10:30,447 INFO    Thread-7  :6780 [dir_watcher.py:_on_file_modified():230] file/dir modified: C:\Users\rohit\Personal Projects\Traffic Lights Genetic Algorithm\wandb\run-20220327_061647-197e8vop\files\output.log
+2022-03-27 07:10:45,154 DEBUG   HandlerThread:6780 [handler.py:handle_request():141] handle_request: stop_status
+2022-03-27 07:10:45,154 DEBUG   SenderThread:6780 [sender.py:send_request():249] send_request: stop_status
+2022-03-27 07:10:57,183 DEBUG   SenderThread:6780 [sender.py:send():235] send: stats
+2022-03-27 07:11:00,307 DEBUG   HandlerThread:6780 [handler.py:handle_request():141] handle_request: stop_status
+2022-03-27 07:11:00,307 DEBUG   SenderThread:6780 [sender.py:send_request():249] send_request: stop_status
+2022-03-27 07:11:02,785 INFO    Thread-7  :6780 [dir_watcher.py:_on_file_modified():230] file/dir modified: C:\Users\rohit\Personal Projects\Traffic Lights Genetic Algorithm\wandb\run-20220327_061647-197e8vop\files\output.log
+2022-03-27 07:11:15,456 DEBUG   HandlerThread:6780 [handler.py:handle_request():141] handle_request: stop_status
+2022-03-27 07:11:15,456 DEBUG   SenderThread:6780 [sender.py:send_request():249] send_request: stop_status
+2022-03-27 07:11:30,271 DEBUG   SenderThread:6780 [sender.py:send():235] send: stats
+2022-03-27 07:11:30,599 DEBUG   HandlerThread:6780 [handler.py:handle_request():141] handle_request: stop_status
+2022-03-27 07:11:30,599 DEBUG   SenderThread:6780 [sender.py:send_request():249] send_request: stop_status
+2022-03-27 07:11:35,034 INFO    Thread-7  :6780 [dir_watcher.py:_on_file_modified():230] file/dir modified: C:\Users\rohit\Personal Projects\Traffic Lights Genetic Algorithm\wandb\run-20220327_061647-197e8vop\files\output.log
+2022-03-27 07:11:45,770 DEBUG   HandlerThread:6780 [handler.py:handle_request():141] handle_request: stop_status
+2022-03-27 07:11:45,770 DEBUG   SenderThread:6780 [sender.py:send_request():249] send_request: stop_status
+2022-03-27 07:12:00,927 DEBUG   HandlerThread:6780 [handler.py:handle_request():141] handle_request: stop_status
+2022-03-27 07:12:00,927 DEBUG   SenderThread:6780 [sender.py:send_request():249] send_request: stop_status
+2022-03-27 07:12:03,333 DEBUG   SenderThread:6780 [sender.py:send():235] send: stats
+2022-03-27 07:12:07,343 INFO    Thread-7  :6780 [dir_watcher.py:_on_file_modified():230] file/dir modified: C:\Users\rohit\Personal Projects\Traffic Lights Genetic Algorithm\wandb\run-20220327_061647-197e8vop\files\output.log
+2022-03-27 07:12:16,079 DEBUG   HandlerThread:6780 [handler.py:handle_request():141] handle_request: stop_status
+2022-03-27 07:12:16,079 DEBUG   SenderThread:6780 [sender.py:send_request():249] send_request: stop_status
+2022-03-27 07:12:31,234 DEBUG   HandlerThread:6780 [handler.py:handle_request():141] handle_request: stop_status
+2022-03-27 07:12:31,234 DEBUG   SenderThread:6780 [sender.py:send_request():249] send_request: stop_status
+2022-03-27 07:12:36,405 DEBUG   SenderThread:6780 [sender.py:send():235] send: stats
+2022-03-27 07:12:39,648 INFO    Thread-7  :6780 [dir_watcher.py:_on_file_modified():230] file/dir modified: C:\Users\rohit\Personal Projects\Traffic Lights Genetic Algorithm\wandb\run-20220327_061647-197e8vop\files\output.log
+2022-03-27 07:12:46,399 DEBUG   HandlerThread:6780 [handler.py:handle_request():141] handle_request: stop_status
+2022-03-27 07:12:46,399 DEBUG   SenderThread:6780 [sender.py:send_request():249] send_request: stop_status
+2022-03-27 07:13:01,568 DEBUG   HandlerThread:6780 [handler.py:handle_request():141] handle_request: stop_status
+2022-03-27 07:13:01,568 DEBUG   SenderThread:6780 [sender.py:send_request():249] send_request: stop_status
+2022-03-27 07:13:09,490 DEBUG   SenderThread:6780 [sender.py:send():235] send: stats
+2022-03-27 07:13:12,014 INFO    Thread-7  :6780 [dir_watcher.py:_on_file_modified():230] file/dir modified: C:\Users\rohit\Personal Projects\Traffic Lights Genetic Algorithm\wandb\run-20220327_061647-197e8vop\files\output.log
+2022-03-27 07:13:16,733 DEBUG   HandlerThread:6780 [handler.py:handle_request():141] handle_request: stop_status
+2022-03-27 07:13:16,733 DEBUG   SenderThread:6780 [sender.py:send_request():249] send_request: stop_status
+2022-03-27 07:13:31,889 DEBUG   HandlerThread:6780 [handler.py:handle_request():141] handle_request: stop_status
+2022-03-27 07:13:31,889 DEBUG   SenderThread:6780 [sender.py:send_request():249] send_request: stop_status
+2022-03-27 07:13:42,566 DEBUG   SenderThread:6780 [sender.py:send():235] send: stats
+2022-03-27 07:13:44,279 INFO    Thread-7  :6780 [dir_watcher.py:_on_file_modified():230] file/dir modified: C:\Users\rohit\Personal Projects\Traffic Lights Genetic Algorithm\wandb\run-20220327_061647-197e8vop\files\output.log
+2022-03-27 07:13:46,310 INFO    Thread-7  :6780 [dir_watcher.py:_on_file_modified():230] file/dir modified: C:\Users\rohit\Personal Projects\Traffic Lights Genetic Algorithm\wandb\run-20220327_061647-197e8vop\files\output.log
+2022-03-27 07:13:47,059 DEBUG   HandlerThread:6780 [handler.py:handle_request():141] handle_request: stop_status
+2022-03-27 07:13:47,059 DEBUG   SenderThread:6780 [sender.py:send_request():249] send_request: stop_status
+2022-03-27 07:14:02,215 DEBUG   HandlerThread:6780 [handler.py:handle_request():141] handle_request: stop_status
+2022-03-27 07:14:02,215 DEBUG   SenderThread:6780 [sender.py:send_request():249] send_request: stop_status
+2022-03-27 07:14:15,601 INFO    Thread-7  :6780 [dir_watcher.py:_on_file_modified():230] file/dir modified: C:\Users\rohit\Personal Projects\Traffic Lights Genetic Algorithm\wandb\run-20220327_061647-197e8vop\files\output.log
+2022-03-27 07:14:15,632 DEBUG   SenderThread:6780 [sender.py:send():235] send: stats
+2022-03-27 07:14:17,367 DEBUG   HandlerThread:6780 [handler.py:handle_request():141] handle_request: stop_status
+2022-03-27 07:14:17,367 DEBUG   SenderThread:6780 [sender.py:send_request():249] send_request: stop_status
+2022-03-27 07:14:32,539 DEBUG   HandlerThread:6780 [handler.py:handle_request():141] handle_request: stop_status
+2022-03-27 07:14:32,539 DEBUG   SenderThread:6780 [sender.py:send_request():249] send_request: stop_status
+2022-03-27 07:14:47,698 DEBUG   HandlerThread:6780 [handler.py:handle_request():141] handle_request: stop_status
+2022-03-27 07:14:47,698 DEBUG   SenderThread:6780 [sender.py:send_request():249] send_request: stop_status
+2022-03-27 07:14:47,948 INFO    Thread-7  :6780 [dir_watcher.py:_on_file_modified():230] file/dir modified: C:\Users\rohit\Personal Projects\Traffic Lights Genetic Algorithm\wandb\run-20220327_061647-197e8vop\files\output.log
+2022-03-27 07:14:48,698 DEBUG   SenderThread:6780 [sender.py:send():235] send: stats
+2022-03-27 07:15:02,840 DEBUG   HandlerThread:6780 [handler.py:handle_request():141] handle_request: stop_status
+2022-03-27 07:15:02,840 DEBUG   SenderThread:6780 [sender.py:send_request():249] send_request: stop_status
+2022-03-27 07:15:18,006 DEBUG   HandlerThread:6780 [handler.py:handle_request():141] handle_request: stop_status
+2022-03-27 07:15:18,006 DEBUG   SenderThread:6780 [sender.py:send_request():249] send_request: stop_status
+2022-03-27 07:15:18,866 DEBUG   HandlerThread:6780 [handler.py:handle_request():141] handle_request: partial_history
+2022-03-27 07:15:18,866 DEBUG   SenderThread:6780 [sender.py:send():235] send: history
+2022-03-27 07:15:18,866 DEBUG   SenderThread:6780 [sender.py:send():235] send: summary
+2022-03-27 07:15:18,866 INFO    SenderThread:6780 [sender.py:_save_file():947] saving file wandb-summary.json with policy end
+2022-03-27 07:15:19,209 INFO    Thread-7  :6780 [dir_watcher.py:_on_file_modified():230] file/dir modified: C:\Users\rohit\Personal Projects\Traffic Lights Genetic Algorithm\wandb\run-20220327_061647-197e8vop\files\wandb-summary.json
+2022-03-27 07:15:20,222 INFO    Thread-7  :6780 [dir_watcher.py:_on_file_modified():230] file/dir modified: C:\Users\rohit\Personal Projects\Traffic Lights Genetic Algorithm\wandb\run-20220327_061647-197e8vop\files\output.log
+2022-03-27 07:15:21,749 DEBUG   SenderThread:6780 [sender.py:send():235] send: stats
+2022-03-27 07:15:33,150 DEBUG   HandlerThread:6780 [handler.py:handle_request():141] handle_request: stop_status
+2022-03-27 07:15:33,150 DEBUG   SenderThread:6780 [sender.py:send_request():249] send_request: stop_status
+2022-03-27 07:15:48,302 DEBUG   HandlerThread:6780 [handler.py:handle_request():141] handle_request: stop_status
+2022-03-27 07:15:48,302 DEBUG   SenderThread:6780 [sender.py:send_request():249] send_request: stop_status
+2022-03-27 07:15:54,884 DEBUG   SenderThread:6780 [sender.py:send():235] send: stats
+2022-03-27 07:16:03,482 DEBUG   HandlerThread:6780 [handler.py:handle_request():141] handle_request: stop_status
+2022-03-27 07:16:03,482 DEBUG   SenderThread:6780 [sender.py:send_request():249] send_request: stop_status
+2022-03-27 07:16:18,659 DEBUG   HandlerThread:6780 [handler.py:handle_request():141] handle_request: stop_status
+2022-03-27 07:16:18,659 DEBUG   SenderThread:6780 [sender.py:send_request():249] send_request: stop_status
+2022-03-27 07:16:28,178 DEBUG   SenderThread:6780 [sender.py:send():235] send: stats
+2022-03-27 07:16:33,835 DEBUG   HandlerThread:6780 [handler.py:handle_request():141] handle_request: stop_status
+2022-03-27 07:16:33,835 DEBUG   SenderThread:6780 [sender.py:send_request():249] send_request: stop_status
+2022-03-27 07:16:49,000 DEBUG   HandlerThread:6780 [handler.py:handle_request():141] handle_request: stop_status
+2022-03-27 07:16:49,000 DEBUG   SenderThread:6780 [sender.py:send_request():249] send_request: stop_status
+2022-03-27 07:17:01,489 DEBUG   SenderThread:6780 [sender.py:send():235] send: stats
+2022-03-27 07:17:04,198 DEBUG   HandlerThread:6780 [handler.py:handle_request():141] handle_request: stop_status
+2022-03-27 07:17:04,198 DEBUG   SenderThread:6780 [sender.py:send_request():249] send_request: stop_status
+2022-03-27 08:33:08,258 INFO    Thread-7  :6780 [dir_watcher.py:_on_file_modified():230] file/dir modified: C:\Users\rohit\Personal Projects\Traffic Lights Genetic Algorithm\wandb\run-20220327_061647-197e8vop\files\output.log
+2022-03-27 08:33:14,636 DEBUG   HandlerThread:6780 [handler.py:handle_request():141] handle_request: stop_status
+2022-03-27 08:33:14,636 DEBUG   SenderThread:6780 [sender.py:send_request():249] send_request: stop_status
+2022-03-27 08:33:29,790 DEBUG   HandlerThread:6780 [handler.py:handle_request():141] handle_request: stop_status
+2022-03-27 08:33:29,790 DEBUG   SenderThread:6780 [sender.py:send_request():249] send_request: stop_status
+2022-03-27 08:33:31,743 DEBUG   SenderThread:6780 [sender.py:send():235] send: stats
+2022-03-27 08:33:44,524 INFO    Thread-7  :6780 [dir_watcher.py:_on_file_modified():230] file/dir modified: C:\Users\rohit\Personal Projects\Traffic Lights Genetic Algorithm\wandb\run-20220327_061647-197e8vop\files\output.log
+2022-03-27 08:33:44,993 DEBUG   HandlerThread:6780 [handler.py:handle_request():141] handle_request: stop_status
+2022-03-27 08:33:44,993 DEBUG   SenderThread:6780 [sender.py:send_request():249] send_request: stop_status
+2022-03-27 08:33:46,539 INFO    Thread-7  :6780 [dir_watcher.py:_on_file_modified():230] file/dir modified: C:\Users\rohit\Personal Projects\Traffic Lights Genetic Algorithm\wandb\run-20220327_061647-197e8vop\files\output.log
+2022-03-27 08:34:00,134 DEBUG   HandlerThread:6780 [handler.py:handle_request():141] handle_request: stop_status
+2022-03-27 08:34:00,134 DEBUG   SenderThread:6780 [sender.py:send_request():249] send_request: stop_status
+2022-03-27 08:34:04,979 DEBUG   SenderThread:6780 [sender.py:send():235] send: stats
+2022-03-27 08:34:15,297 DEBUG   HandlerThread:6780 [handler.py:handle_request():141] handle_request: stop_status
+2022-03-27 08:34:15,297 DEBUG   SenderThread:6780 [sender.py:send_request():249] send_request: stop_status
+2022-03-27 08:34:16,721 INFO    Thread-7  :6780 [dir_watcher.py:_on_file_modified():230] file/dir modified: C:\Users\rohit\Personal Projects\Traffic Lights Genetic Algorithm\wandb\run-20220327_061647-197e8vop\files\output.log
+2022-03-27 08:34:30,473 DEBUG   HandlerThread:6780 [handler.py:handle_request():141] handle_request: stop_status
+2022-03-27 08:34:30,473 DEBUG   SenderThread:6780 [sender.py:send_request():249] send_request: stop_status
+2022-03-27 08:34:38,067 DEBUG   SenderThread:6780 [sender.py:send():235] send: stats
+2022-03-27 08:34:40,921 INFO    Thread-7  :6780 [dir_watcher.py:_on_file_modified():230] file/dir modified: C:\Users\rohit\Personal Projects\Traffic Lights Genetic Algorithm\wandb\run-20220327_061647-197e8vop\files\output.log
+2022-03-27 08:34:45,616 DEBUG   HandlerThread:6780 [handler.py:handle_request():141] handle_request: stop_status
+2022-03-27 08:34:45,618 DEBUG   SenderThread:6780 [sender.py:send_request():249] send_request: stop_status
+2022-03-27 08:34:51,101 DEBUG   HandlerThread:6780 [handler.py:handle_request():141] handle_request: partial_history
+2022-03-27 08:34:51,460 DEBUG   SenderThread:6780 [sender.py:send():235] send: exit
+2022-03-27 08:34:51,460 INFO    SenderThread:6780 [sender.py:send_exit():371] handling exit code: 0
+2022-03-27 08:34:51,461 INFO    SenderThread:6780 [sender.py:send_exit():373] handling runtime: 8277
+2022-03-27 08:34:51,462 DEBUG   HandlerThread:6780 [handler.py:handle_request():141] handle_request: poll_exit
+2022-03-27 08:34:51,463 INFO    SenderThread:6780 [sender.py:_save_file():947] saving file wandb-summary.json with policy end
+2022-03-27 08:34:51,463 INFO    SenderThread:6780 [sender.py:send_exit():379] send defer
+2022-03-27 08:34:51,463 DEBUG   SenderThread:6780 [sender.py:send_request():249] send_request: poll_exit
+2022-03-27 08:34:51,464 DEBUG   HandlerThread:6780 [handler.py:handle_request():141] handle_request: defer
+2022-03-27 08:34:51,464 INFO    HandlerThread:6780 [handler.py:handle_request_defer():164] handle defer: 0
+2022-03-27 08:34:51,464 DEBUG   SenderThread:6780 [sender.py:send_request():249] send_request: defer
+2022-03-27 08:34:51,464 INFO    SenderThread:6780 [sender.py:send_request_defer():388] handle sender defer: 0
+2022-03-27 08:34:51,464 INFO    SenderThread:6780 [sender.py:transition_state():392] send defer: 1
+2022-03-27 08:34:51,464 DEBUG   HandlerThread:6780 [handler.py:handle_request():141] handle_request: defer
+2022-03-27 08:34:51,464 INFO    HandlerThread:6780 [handler.py:handle_request_defer():164] handle defer: 1
+2022-03-27 08:34:51,547 DEBUG   SenderThread:6780 [sender.py:send_request():249] send_request: defer
+2022-03-27 08:34:51,547 INFO    SenderThread:6780 [sender.py:send_request_defer():388] handle sender defer: 1
+2022-03-27 08:34:51,547 INFO    SenderThread:6780 [sender.py:transition_state():392] send defer: 2
+2022-03-27 08:34:51,547 DEBUG   SenderThread:6780 [sender.py:send():235] send: stats
+2022-03-27 08:34:51,547 DEBUG   HandlerThread:6780 [handler.py:handle_request():141] handle_request: defer
+2022-03-27 08:34:51,547 INFO    HandlerThread:6780 [handler.py:handle_request_defer():164] handle defer: 2
+2022-03-27 08:34:51,547 DEBUG   SenderThread:6780 [sender.py:send_request():249] send_request: defer
+2022-03-27 08:34:51,547 INFO    SenderThread:6780 [sender.py:send_request_defer():388] handle sender defer: 2
+2022-03-27 08:34:51,547 INFO    SenderThread:6780 [sender.py:transition_state():392] send defer: 3
+2022-03-27 08:34:51,547 DEBUG   HandlerThread:6780 [handler.py:handle_request():141] handle_request: defer
+2022-03-27 08:34:51,547 INFO    HandlerThread:6780 [handler.py:handle_request_defer():164] handle defer: 3
+2022-03-27 08:34:51,547 DEBUG   SenderThread:6780 [sender.py:send_request():249] send_request: defer
+2022-03-27 08:34:51,547 INFO    SenderThread:6780 [sender.py:send_request_defer():388] handle sender defer: 3
+2022-03-27 08:34:51,547 INFO    SenderThread:6780 [sender.py:transition_state():392] send defer: 4
+2022-03-27 08:34:51,548 DEBUG   HandlerThread:6780 [handler.py:handle_request():141] handle_request: defer
+2022-03-27 08:34:51,548 INFO    HandlerThread:6780 [handler.py:handle_request_defer():164] handle defer: 4
+2022-03-27 08:34:51,548 DEBUG   SenderThread:6780 [sender.py:send():235] send: summary
+2022-03-27 08:34:51,548 INFO    SenderThread:6780 [sender.py:_save_file():947] saving file wandb-summary.json with policy end
+2022-03-27 08:34:51,548 DEBUG   SenderThread:6780 [sender.py:send_request():249] send_request: defer
+2022-03-27 08:34:51,548 INFO    SenderThread:6780 [sender.py:send_request_defer():388] handle sender defer: 4
+2022-03-27 08:34:51,548 INFO    SenderThread:6780 [sender.py:transition_state():392] send defer: 5
+2022-03-27 08:34:51,549 DEBUG   HandlerThread:6780 [handler.py:handle_request():141] handle_request: defer
+2022-03-27 08:34:51,549 INFO    HandlerThread:6780 [handler.py:handle_request_defer():164] handle defer: 5
+2022-03-27 08:34:51,549 DEBUG   SenderThread:6780 [sender.py:send_request():249] send_request: defer
+2022-03-27 08:34:51,549 INFO    SenderThread:6780 [sender.py:send_request_defer():388] handle sender defer: 5
+2022-03-27 08:34:51,549 INFO    SenderThread:6780 [sender.py:transition_state():392] send defer: 6
+2022-03-27 08:34:51,549 DEBUG   HandlerThread:6780 [handler.py:handle_request():141] handle_request: defer
+2022-03-27 08:34:51,550 INFO    HandlerThread:6780 [handler.py:handle_request_defer():164] handle defer: 6
+2022-03-27 08:34:51,550 DEBUG   SenderThread:6780 [sender.py:send_request():249] send_request: defer
+2022-03-27 08:34:51,550 INFO    SenderThread:6780 [sender.py:send_request_defer():388] handle sender defer: 6
+2022-03-27 08:34:51,550 INFO    SenderThread:6780 [dir_watcher.py:finish():283] shutting down directory watcher
+2022-03-27 08:34:51,570 DEBUG   HandlerThread:6780 [handler.py:handle_request():141] handle_request: poll_exit
+2022-03-27 08:34:52,019 INFO    SenderThread:6780 [dir_watcher.py:_on_file_modified():230] file/dir modified: C:\Users\rohit\Personal Projects\Traffic Lights Genetic Algorithm\wandb\run-20220327_061647-197e8vop\files\output.log
+2022-03-27 08:34:52,019 INFO    SenderThread:6780 [dir_watcher.py:_on_file_modified():230] file/dir modified: C:\Users\rohit\Personal Projects\Traffic Lights Genetic Algorithm\wandb\run-20220327_061647-197e8vop\files\wandb-summary.json
+2022-03-27 08:34:52,019 INFO    SenderThread:6780 [dir_watcher.py:finish():313] scan: C:\Users\rohit\Personal Projects\Traffic Lights Genetic Algorithm\wandb\run-20220327_061647-197e8vop\files
+2022-03-27 08:34:52,019 INFO    SenderThread:6780 [dir_watcher.py:finish():327] scan save: C:\Users\rohit\Personal Projects\Traffic Lights Genetic Algorithm\wandb\run-20220327_061647-197e8vop\files\config.yaml config.yaml
+2022-03-27 08:34:52,019 INFO    SenderThread:6780 [dir_watcher.py:finish():327] scan save: C:\Users\rohit\Personal Projects\Traffic Lights Genetic Algorithm\wandb\run-20220327_061647-197e8vop\files\output.log output.log
+2022-03-27 08:34:52,019 INFO    SenderThread:6780 [dir_watcher.py:finish():327] scan save: C:\Users\rohit\Personal Projects\Traffic Lights Genetic Algorithm\wandb\run-20220327_061647-197e8vop\files\requirements.txt requirements.txt
+2022-03-27 08:34:52,035 INFO    SenderThread:6780 [dir_watcher.py:finish():327] scan save: C:\Users\rohit\Personal Projects\Traffic Lights Genetic Algorithm\wandb\run-20220327_061647-197e8vop\files\wandb-metadata.json wandb-metadata.json
+2022-03-27 08:34:52,035 INFO    SenderThread:6780 [dir_watcher.py:finish():327] scan save: C:\Users\rohit\Personal Projects\Traffic Lights Genetic Algorithm\wandb\run-20220327_061647-197e8vop\files\wandb-summary.json wandb-summary.json
+2022-03-27 08:34:52,035 INFO    SenderThread:6780 [sender.py:transition_state():392] send defer: 7
+2022-03-27 08:34:52,035 DEBUG   SenderThread:6780 [sender.py:send_request():249] send_request: poll_exit
+2022-03-27 08:34:52,035 DEBUG   HandlerThread:6780 [handler.py:handle_request():141] handle_request: defer
+2022-03-27 08:34:52,035 INFO    HandlerThread:6780 [handler.py:handle_request_defer():164] handle defer: 7
+2022-03-27 08:34:52,035 DEBUG   SenderThread:6780 [sender.py:send_request():249] send_request: defer
+2022-03-27 08:34:52,035 INFO    SenderThread:6780 [sender.py:send_request_defer():388] handle sender defer: 7
+2022-03-27 08:34:52,035 INFO    SenderThread:6780 [file_pusher.py:finish():145] shutting down file pusher
+2022-03-27 08:34:52,144 DEBUG   HandlerThread:6780 [handler.py:handle_request():141] handle_request: poll_exit
+2022-03-27 08:34:52,144 DEBUG   SenderThread:6780 [sender.py:send_request():249] send_request: poll_exit
+2022-03-27 08:34:52,254 DEBUG   HandlerThread:6780 [handler.py:handle_request():141] handle_request: poll_exit
+2022-03-27 08:34:52,254 DEBUG   SenderThread:6780 [sender.py:send_request():249] send_request: poll_exit
+2022-03-27 08:34:52,364 DEBUG   HandlerThread:6780 [handler.py:handle_request():141] handle_request: poll_exit
+2022-03-27 08:34:52,364 DEBUG   SenderThread:6780 [sender.py:send_request():249] send_request: poll_exit
+2022-03-27 08:34:52,474 DEBUG   HandlerThread:6780 [handler.py:handle_request():141] handle_request: poll_exit
+2022-03-27 08:34:52,474 DEBUG   SenderThread:6780 [sender.py:send_request():249] send_request: poll_exit
+2022-03-27 08:34:52,567 INFO    Thread-12 :6780 [upload_job.py:push():137] Uploaded file C:\Users\rohit\Personal Projects\Traffic Lights Genetic Algorithm\wandb\run-20220327_061647-197e8vop\files\config.yaml
+2022-03-27 08:34:52,583 DEBUG   HandlerThread:6780 [handler.py:handle_request():141] handle_request: poll_exit
+2022-03-27 08:34:52,583 DEBUG   SenderThread:6780 [sender.py:send_request():249] send_request: poll_exit
+2022-03-27 08:34:52,588 INFO    Thread-14 :6780 [upload_job.py:push():137] Uploaded file C:\Users\rohit\Personal Projects\Traffic Lights Genetic Algorithm\wandb\run-20220327_061647-197e8vop\files\requirements.txt
+2022-03-27 08:34:52,593 INFO    Thread-15 :6780 [upload_job.py:push():137] Uploaded file C:\Users\rohit\Personal Projects\Traffic Lights Genetic Algorithm\wandb\run-20220327_061647-197e8vop\files\wandb-summary.json
+2022-03-27 08:34:52,694 DEBUG   HandlerThread:6780 [handler.py:handle_request():141] handle_request: poll_exit
+2022-03-27 08:34:52,694 DEBUG   SenderThread:6780 [sender.py:send_request():249] send_request: poll_exit
+2022-03-27 08:34:52,777 INFO    Thread-13 :6780 [upload_job.py:push():137] Uploaded file C:\Users\rohit\Personal Projects\Traffic Lights Genetic Algorithm\wandb\run-20220327_061647-197e8vop\files\output.log
+2022-03-27 08:34:52,810 DEBUG   HandlerThread:6780 [handler.py:handle_request():141] handle_request: poll_exit
+2022-03-27 08:34:52,810 DEBUG   SenderThread:6780 [sender.py:send_request():249] send_request: poll_exit
+2022-03-27 08:34:52,921 DEBUG   HandlerThread:6780 [handler.py:handle_request():141] handle_request: poll_exit
+2022-03-27 08:34:52,921 DEBUG   SenderThread:6780 [sender.py:send_request():249] send_request: poll_exit
+2022-03-27 08:34:52,982 INFO    Thread-6  :6780 [sender.py:transition_state():392] send defer: 8
+2022-03-27 08:34:52,983 DEBUG   HandlerThread:6780 [handler.py:handle_request():141] handle_request: defer
+2022-03-27 08:34:52,983 INFO    HandlerThread:6780 [handler.py:handle_request_defer():164] handle defer: 8
+2022-03-27 08:34:52,984 DEBUG   SenderThread:6780 [sender.py:send_request():249] send_request: defer
+2022-03-27 08:34:52,984 INFO    SenderThread:6780 [sender.py:send_request_defer():388] handle sender defer: 8
+2022-03-27 08:34:53,030 DEBUG   HandlerThread:6780 [handler.py:handle_request():141] handle_request: poll_exit
+2022-03-27 08:34:53,395 INFO    SenderThread:6780 [sender.py:transition_state():392] send defer: 9
+2022-03-27 08:34:53,395 DEBUG   SenderThread:6780 [sender.py:send_request():249] send_request: poll_exit
+2022-03-27 08:34:53,395 DEBUG   HandlerThread:6780 [handler.py:handle_request():141] handle_request: defer
+2022-03-27 08:34:53,395 INFO    HandlerThread:6780 [handler.py:handle_request_defer():164] handle defer: 9
+2022-03-27 08:34:53,395 DEBUG   SenderThread:6780 [sender.py:send_request():249] send_request: defer
+2022-03-27 08:34:53,411 INFO    SenderThread:6780 [sender.py:send_request_defer():388] handle sender defer: 9
+2022-03-27 08:34:53,411 INFO    SenderThread:6780 [sender.py:transition_state():392] send defer: 10
+2022-03-27 08:34:53,411 DEBUG   SenderThread:6780 [sender.py:send():235] send: final
+2022-03-27 08:34:53,411 DEBUG   SenderThread:6780 [sender.py:send():235] send: footer
+2022-03-27 08:34:53,411 DEBUG   HandlerThread:6780 [handler.py:handle_request():141] handle_request: defer
+2022-03-27 08:34:53,411 INFO    HandlerThread:6780 [handler.py:handle_request_defer():164] handle defer: 10
+2022-03-27 08:34:53,411 DEBUG   SenderThread:6780 [sender.py:send_request():249] send_request: defer
+2022-03-27 08:34:53,411 INFO    SenderThread:6780 [sender.py:send_request_defer():388] handle sender defer: 10
+2022-03-27 08:34:53,505 DEBUG   HandlerThread:6780 [handler.py:handle_request():141] handle_request: poll_exit
+2022-03-27 08:34:53,505 DEBUG   SenderThread:6780 [sender.py:send_request():249] send_request: poll_exit
+2022-03-27 08:34:53,505 INFO    SenderThread:6780 [file_pusher.py:join():150] waiting for file pusher
+2022-03-27 08:34:56,408 WARNING MainThread:6780 [internal.py:is_dead():387] Internal process exiting, parent pid 2400 disappeared
+2022-03-27 08:34:56,408 ERROR   MainThread:6780 [internal.py:wandb_internal():151] Internal process shutdown.
+2022-03-27 08:34:56,440 INFO    WriterThread:6780 [datastore.py:close():281] close: C:\Users\rohit\Personal Projects\Traffic Lights Genetic Algorithm\wandb\run-20220327_061647-197e8vop\run-197e8vop.wandb
+2022-03-27 08:34:56,532 INFO    HandlerThread:6780 [handler.py:finish():778] shutting down handler
+2022-03-27 08:34:56,831 INFO    SenderThread:6780 [sender.py:finish():1078] shutting down sender
+2022-03-27 08:34:56,831 INFO    SenderThread:6780 [file_pusher.py:finish():145] shutting down file pusher
+2022-03-27 08:34:56,831 INFO    SenderThread:6780 [file_pusher.py:join():150] waiting for file pusher
+2022-03-27 08:34:56,833 INFO    MainThread:6780 [internal.py:handle_exit():82] Internal process exited

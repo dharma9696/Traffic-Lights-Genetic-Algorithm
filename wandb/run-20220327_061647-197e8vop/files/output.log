@@ -1,0 +1,304 @@
+SUMO launched: Collecting Traffic Lights
+<traci.connection.Connection object at 0x00000276C28A8FA0>
+Generation: 0  Individual:  0
+SUMO launched
+<traci.connection.Connection object at 0x00000276C28BEFD0>
+Generation: 0  Individual:  1
+SUMO launched
+<traci.connection.Connection object at 0x00000276C27E2070>
+Generation: 0  Individual:  2
+SUMO launched
+<traci.connection.Connection object at 0x00000276C28D8790>
+Generation: 0  Individual:  3
+SUMO launched
+<traci.connection.Connection object at 0x00000276C28D8820>
+Generation: 0  Individual:  4
+SUMO launched
+<traci.connection.Connection object at 0x00000276C28E61F0>
+Generation: 0  Individual:  5
+SUMO launched
+<traci.connection.Connection object at 0x00000276C28E62E0>
+Generation: 0  Individual:  6
+SUMO launched
+<traci.connection.Connection object at 0x00000276C28F0EB0>
+Generation: 0  Individual:  7
+SUMO launched
+<traci.connection.Connection object at 0x00000276C28EC2B0>
+Generation: 0  Individual:  8
+SUMO launched
+<traci.connection.Connection object at 0x00000276C27E22B0>
+Generation: 0  Individual:  9
+SUMO launched
+<traci.connection.Connection object at 0x00000276C2905C70>
+Generation: 0  Individual:  10
+SUMO launched
+<traci.connection.Connection object at 0x00000276C28F5CA0>
+Generation: 0  Individual:  11
+SUMO launched
+<traci.connection.Connection object at 0x00000276C2905F10>
+Generation: 0  Individual:  12
+SUMO launched
+<traci.connection.Connection object at 0x00000276C2913D60>
+Generation: 0  Individual:  13
+SUMO launched
+<traci.connection.Connection object at 0x00000276C28EC430>
+Generation: 0  Individual:  14
+SUMO launched
+<traci.connection.Connection object at 0x00000276C28EC2B0>
+Best Fitness value in Generation  0  is  340578158080
+Logging info to WandB
+Generation: 1  Individual:  0
+SUMO launched
+<traci.connection.Connection object at 0x00000276C28AF280>
+Generation: 1  Individual:  1
+SUMO launched
+<traci.connection.Connection object at 0x00000276C28AF2B0>
+Generation: 1  Individual:  2
+SUMO launched
+<traci.connection.Connection object at 0x00000276C2905BE0>
+Generation: 1  Individual:  3
+SUMO launched
+<traci.connection.Connection object at 0x00000276C28B6E20>
+Generation: 1  Individual:  4
+SUMO launched
+<traci.connection.Connection object at 0x00000276C28AF520>
+Generation: 1  Individual:  5
+SUMO launched
+<traci.connection.Connection object at 0x00000276C28AF3A0>
+Generation: 1  Individual:  6
+SUMO launched
+<traci.connection.Connection object at 0x00000276C2905310>
+Generation: 1  Individual:  7
+SUMO launched
+<traci.connection.Connection object at 0x00000276C2905610>
+Generation: 1  Individual:  8
+SUMO launched
+<traci.connection.Connection object at 0x00000276C28B68E0>
+Generation: 1  Individual:  9
+SUMO launched
+<traci.connection.Connection object at 0x00000276C28B6F40>
+Generation: 1  Individual:  10
+SUMO launched
+<traci.connection.Connection object at 0x00000276C28AF370>
+Generation: 1  Individual:  11
+SUMO launched
+<traci.connection.Connection object at 0x00000276C28BE130>
+Generation: 1  Individual:  12
+SUMO launched
+<traci.connection.Connection object at 0x00000276C28BE2B0>
+Generation: 1  Individual:  13
+SUMO launched
+<traci.connection.Connection object at 0x00000276C2905AF0>
+Generation: 1  Individual:  14
+SUMO launched
+<traci.connection.Connection object at 0x00000276C2905E50>
+Generation: 1  Individual:  15
+SUMO launched
+<traci.connection.Connection object at 0x00000276C28EC4F0>
+Generation: 1  Individual:  16
+SUMO launched
+<traci.connection.Connection object at 0x00000276C28AF370>
+Generation: 1  Individual:  17
+SUMO launched
+<traci.connection.Connection object at 0x00000276C27C4FD0>
+Generation: 1  Individual:  18
+SUMO launched
+<traci.connection.Connection object at 0x00000276C28BE280>
+Generation: 1  Individual:  19
+SUMO launched
+<traci.connection.Connection object at 0x00000276C2905310>
+Generation: 1  Individual:  20
+SUMO launched
+<traci.connection.Connection object at 0x00000276C28B6D00>
+Generation: 1  Individual:  21
+SUMO launched
+<traci.connection.Connection object at 0x00000276C28CEC70>
+Generation: 1  Individual:  22
+SUMO launched
+<traci.connection.Connection object at 0x00000276C287A250>
+Generation: 1  Individual:  23
+SUMO launched
+<traci.connection.Connection object at 0x00000276C2922040>
+Generation: 1  Individual:  24
+SUMO launched
+<traci.connection.Connection object at 0x00000276C28A8FD0>
+Generation: 1  Individual:  25
+SUMO launched
+<traci.connection.Connection object at 0x00000276C288FFA0>
+Generation: 1  Individual:  26
+SUMO launched
+<traci.connection.Connection object at 0x00000276C28CE400>
+Generation: 1  Individual:  27
+SUMO launched
+<traci.connection.Connection object at 0x00000276C288FF40>
+Generation: 1  Individual:  28
+SUMO launched
+<traci.connection.Connection object at 0x00000276C29A1310>
+Generation: 1  Individual:  29
+SUMO launched
+<traci.connection.Connection object at 0x00000276C29A1970>
+Generation: 1  Individual:  30
+SUMO launched
+<traci.connection.Connection object at 0x00000276C28B6760>
+Generation: 1  Individual:  31
+SUMO launched
+<traci.connection.Connection object at 0x00000276C28BE190>
+Generation: 1  Individual:  32
+SUMO launched
+<traci.connection.Connection object at 0x00000276C28DB310>
+Generation: 1  Individual:  33
+SUMO launched
+<traci.connection.Connection object at 0x00000276C28D8D30>
+Generation: 1  Individual:  34
+SUMO launched
+<traci.connection.Connection object at 0x00000276C28CE6D0>
+Generation: 1  Individual:  35
+SUMO launched
+<traci.connection.Connection object at 0x00000276C28CEE80>
+Generation: 1  Individual:  36
+SUMO launched
+<traci.connection.Connection object at 0x00000276C291EEB0>
+Generation: 1  Individual:  37
+SUMO launched
+<traci.connection.Connection object at 0x00000276C29A6FD0>
+Generation: 1  Individual:  38
+SUMO launched
+<traci.connection.Connection object at 0x00000276C28EC310>
+Generation: 1  Individual:  39
+SUMO launched
+<traci.connection.Connection object at 0x00000276C291EE50>
+Best Fitness value in Generation  1  is  340578158080
+Logging info to WandB
+Generation: 2  Individual:  0
+SUMO launched
+<traci.connection.Connection object at 0x00000276C27F62B0>
+Generation: 2  Individual:  1
+SUMO launched
+<traci.connection.Connection object at 0x00000276C27F62E0>
+Generation: 2  Individual:  2
+SUMO launched
+<traci.connection.Connection object at 0x00000276C27F6280>
+Generation: 2  Individual:  3
+SUMO launched
+<traci.connection.Connection object at 0x00000276C2956400>
+Generation: 2  Individual:  4
+SUMO launched
+<traci.connection.Connection object at 0x00000276C29A1190>
+Generation: 2  Individual:  5
+SUMO launched
+<traci.connection.Connection object at 0x00000276C297F130>
+Generation: 2  Individual:  6
+SUMO launched
+<traci.connection.Connection object at 0x00000276C297F970>
+Generation: 2  Individual:  7
+SUMO launched
+<traci.connection.Connection object at 0x00000276C297F280>
+Generation: 2  Individual:  8
+SUMO launched
+<traci.connection.Connection object at 0x00000276C2927370>
+Generation: 2  Individual:  9
+SUMO launched
+<traci.connection.Connection object at 0x00000276C2927EB0>
+Generation: 2  Individual:  10
+SUMO launched
+<traci.connection.Connection object at 0x00000276C27F61C0>
+Generation: 2  Individual:  11
+SUMO launched
+<traci.connection.Connection object at 0x00000276C27F6310>
+Generation: 2  Individual:  12
+SUMO launched
+<traci.connection.Connection object at 0x00000276C2946DC0>
+Generation: 2  Individual:  13
+SUMO launched
+<traci.connection.Connection object at 0x00000276C287A250>
+Generation: 2  Individual:  14
+SUMO launched
+<traci.connection.Connection object at 0x00000276C28C6EB0>
+Generation: 2  Individual:  15
+SUMO launched
+<traci.connection.Connection object at 0x00000276C28C67C0>
+Generation: 2  Individual:  16
+SUMO launched
+<traci.connection.Connection object at 0x00000276C2956040>
+Generation: 2  Individual:  17
+SUMO launched
+<traci.connection.Connection object at 0x00000276C2956880>
+Generation: 2  Individual:  18
+SUMO launched
+<traci.connection.Connection object at 0x00000276C27F0250>
+Generation: 2  Individual:  19
+SUMO launched
+<traci.connection.Connection object at 0x00000276C293E2B0>
+Generation: 2  Individual:  20
+SUMO launched
+<traci.connection.Connection object at 0x00000276C293E520>
+Generation: 2  Individual:  21
+SUMO launched
+<traci.connection.Connection object at 0x00000276C29567F0>
+Generation: 2  Individual:  22
+SUMO launched
+<traci.connection.Connection object at 0x00000276C28BE850>
+Generation: 2  Individual:  23
+SUMO launched
+<traci.connection.Connection object at 0x00000276C28BE7F0>
+Generation: 2  Individual:  24
+SUMO launched
+<traci.connection.Connection object at 0x00000276C28EC700>
+Generation: 2  Individual:  25
+SUMO launched
+<traci.connection.Connection object at 0x00000276C28BE670>
+Generation: 2  Individual:  26
+SUMO launched
+<traci.connection.Connection object at 0x00000276C29A10D0>
+Generation: 2  Individual:  27
+SUMO launched
+<traci.connection.Connection object at 0x00000276C2999F70>
+Generation: 2  Individual:  28
+SUMO launched
+<traci.connection.Connection object at 0x00000276C2905700>
+Generation: 2  Individual:  29
+SUMO launched
+<traci.connection.Connection object at 0x00000276C2905160>
+Generation: 2  Individual:  30
+SUMO launched
+<traci.connection.Connection object at 0x00000276C2956850>
+Generation: 2  Individual:  31
+SUMO launched
+<traci.connection.Connection object at 0x00000276C2905370>
+Generation: 2  Individual:  32
+SUMO launched
+<traci.connection.Connection object at 0x00000276C28BE670>
+Generation: 2  Individual:  33
+SUMO launched
+<traci.connection.Connection object at 0x00000276C3070A90>
+Generation: 2  Individual:  34
+SUMO launched
+<traci.connection.Connection object at 0x00000276C28C6C10>
+Generation: 2  Individual:  35
+SUMO launched
+<traci.connection.Connection object at 0x00000276C2922A90>
+Generation: 2  Individual:  36
+SUMO launched
+<traci.connection.Connection object at 0x00000276C293E3A0>
+Generation: 2  Individual:  37
+SUMO launched
+<traci.connection.Connection object at 0x00000276C291F730>
+Generation: 2  Individual:  38
+SUMO launched
+<traci.connection.Connection object at 0x00000276C291FA00>
+Generation: 2  Individual:  39
+SUMO launched
+<traci.connection.Connection object at 0x00000276C29A10D0>
+Best Fitness value in Generation  2  is  340578158080
+Logging info to WandB
+Generation: 3  Individual:  0
+SUMO launched
+<traci.connection.Connection object at 0x00000276C2956B80>
+Generation: 3  Individual:  1
+SUMO launched
+<traci.connection.Connection object at 0x00000276C2956C10>
+Generation: 3  Individual:  2
+SUMO launched
+<traci.connection.Connection object at 0x00000276C28B6D30>
+[{"varName": "GA_pop", "varType": "population", "varSize": "48", "varShape": "", "varContent": "<Genetic_Algorithm.population object at 0x00000276C27F0AC0>"}, {"varName": "GA_pop_next", "varType": "population", "varSize": "48", "varShape": "", "varContent": "<Genetic_Algorithm.population object at 0x00000276C27F0AC0>"}, {"varName": "Next_gene_pool", "varType": "list", "varSize": "376", "varShape": "", "varContent": "[[<Genetic_Algorithm.TLight object at 0x00000276C27E2D30>, <Genetic_Algorithm.TLight object at 0x00000276C27E2D00>, <Genetic_Algorithm.TLight object at 0x00000276C27F6700>, <Genetic_Algorithm.TLight o"}, {"varName": "avg_emissions", "varType": "float64", "varSize": "32", "varShape": "", "varContent": "747216551.55"}, {"varName": "avg_fitness", "varType": "float64", "varSize": "32", "varShape": "", "varContent": "417466837176.675"}, {"varName": "avg_waiting_time", "varType": "float64", "varSize": "32", "varShape": "", "varContent": "6887721.45"}, {"varName": "best_emissions", "varType": "int32", "varSize": "28", "varShape": "", "varContent": "550073625"}, {"varName": "best_fitness", "varType": "int64", "varSize": "32", "varShape": "", "varContent": "340578158080"}, {"varName": "best_waiting_time", "varType": "int32", "varSize": "28", "varShape": "", "varContent": "2214237"}, {"varName": "chromosome_base", "varType": "list", "varSize": "184", "varShape": "", "varContent": "[<Genetic_Algorithm.TLight object at 0x00000276C27E2A60>, <Genetic_Algorithm.TLight object at 0x00000276C27E2B50>, <Genetic_Algorithm.TLight object at 0x00000276C27E28B0>, <Genetic_Algorithm.TLight ob"}, {"varName": "chromosome_child", "varType": "list", "varSize": "184", "varShape": "", "varContent": "[<Genetic_Algorithm.TLight object at 0x00000276C29F05E0>, <Genetic_Algorithm.TLight object at 0x00000276C29F0610>, <Genetic_Algorithm.TLight object at 0x00000276C29F06A0>, <Genetic_Algorithm.TLight ob"}, {"varName": "chromosome_female", "varType": "list", "varSize": "184", "varShape": "", "varContent": "[<Genetic_Algorithm.TLight object at 0x00000276C27E2D30>, <Genetic_Algorithm.TLight object at 0x00000276C27E2D00>, <Genetic_Algorithm.TLight object at 0x00000276C27F6700>, <Genetic_Algorithm.TLight ob"}, {"varName": "chromosome_male", "varType": "list", "varSize": "184", "varShape": "", "varContent": "[<Genetic_Algorithm.TLight object at 0x00000276C29996A0>, <Genetic_Algorithm.TLight object at 0x00000276C29996D0>, <Genetic_Algorithm.TLight object at 0x00000276C2999760>, <Genetic_Algorithm.TLight ob"}, {"varName": "collision_penalty", "varType": "list", "varSize": "120", "varShape": "", "varContent": "[400, 4000, 10000, 400, 4000]"}, {"varName": "config_file", "varType": "str", "varSize": "69", "varShape": "", "varContent": "Manhattan5x3.sumocfg"}, {"varName": "crossover_rate", "varType": "float", "varSize": "24", "varShape": "", "varContent": "0.5"}, {"varName": "current_gen", "varType": "int", "varSize": "28", "varShape": "", "varContent": "3"}, {"varName": "duration_mutation_rate", "varType": "float", "varSize": "24", "varShape": "", "varContent": "0.2"}, {"varName": "duration_mutation_strength", "varType": "int", "varSize": "28", "varShape": "", "varContent": "15"}, {"varName": "emissions", "varType": "list", "varSize": "376", "varShape": "", "varContent": "[551076908, 550073625, 565798460, 601101704, 627412742, 608602064, 740717506, 804450409, 555401709, 930068288, 865732069, 854754555, 621672985, 918288664, 729853919, 882231561, 626234516, 636148629, 7"}, {"varName": "emissions_weight", "varType": "list", "varSize": "120", "varShape": "", "varContent": "[0.0005, 0.0025, 0.0075, 0.0]"}, {"varName": "fitness", "varType": "list", "varSize": "376", "varShape": "", "varContent": "[340578158080, 340840731142, 348069513939, 363452561299, 381751108396, 363298709467, 410771326569, 437354099349, 343533375770, 481002312999, 466190562931, 462709163053, 371859429490, 488149027521, 404"}, {"varName": "light_options", "varType": "list", "varSize": "120", "varShape": "", "varContent": "['G', 'y', 'r']"}, {"varName": "max_generations", "varType": "int", "varSize": "28", "varShape": "", "varContent": "20"}, {"varName": "n_survivors", "varType": "int", "varSize": "28", "varShape": "", "varContent": "5"}, {"varName": "pop_size", "varType": "int", "varSize": "28", "varShape": "", "varContent": "40"}, {"varName": "run", "varType": "int", "varSize": "24", "varShape": "", "varContent": "0"}, {"varName": "sorted_pop", "varType": "ndarray", "varSize": "40", "varShape": "(5,)", "varContent": "[ 0  1  8  2 23]"}, {"varName": "states_mutation_rate", "varType": "float", "varSize": "24", "varShape": "", "varContent": "0.2"}, {"varName": "sumo_binary", "varType": "str", "varSize": "93", "varShape": "", "varContent": "C:\\Program Files (x86)\\Eclipse\\Sumo\\bin\\sumo"}, {"varName": "sumo_binary_gui", "varType": "str", "varSize": "97", "varShape": "", "varContent": "C:\\Program Files (x86)\\Eclipse\\Sumo\\bin\\sumo-gui"}, {"varName": "total_runs", "varType": "int", "varSize": "28", "varShape": "", "varContent": "5"}, {"varName": "waiting", "varType": "list", "varSize": "376", "varShape": "", "varContent": "[2228268, 2214237, 2406479, 2831795, 3448047, 3490459, 6183102, 6713807, 2266378, 9191149, 8917585, 9643422, 3687671, 9896282, 6329242, 8598988, 3861507, 3540851, 6241741, 4028541, 9639655, 8668434, 6"}, {"varName": "waiting_time_weight", "varType": "list", "varSize": "120", "varShape": "", "varContent": "[0.0005, 0.0075, 0.0025, 0.01]"}]
+[{"varName": "GA_pop", "varType": "population", "varSize": "48", "varShape": "", "varContent": "<Genetic_Algorithm.population object at 0x00000276C27F0AC0>"}, {"varName": "GA_pop_next", "varType": "population", "varSize": "48", "varShape": "", "varContent": "<Genetic_Algorithm.population object at 0x00000276C27F0AC0>"}, {"varName": "Next_gene_pool", "varType": "list", "varSize": "376", "varShape": "", "varContent": "[[<Genetic_Algorithm.TLight object at 0x00000276C27E2D30>, <Genetic_Algorithm.TLight object at 0x00000276C27E2D00>, <Genetic_Algorithm.TLight object at 0x00000276C27F6700>, <Genetic_Algorithm.TLight o"}, {"varName": "avg_emissions", "varType": "float64", "varSize": "32", "varShape": "", "varContent": "747216551.55"}, {"varName": "avg_fitness", "varType": "float64", "varSize": "32", "varShape": "", "varContent": "417466837176.675"}, {"varName": "avg_waiting_time", "varType": "float64", "varSize": "32", "varShape": "", "varContent": "6887721.45"}, {"varName": "best_emissions", "varType": "int32", "varSize": "28", "varShape": "", "varContent": "550073625"}, {"varName": "best_fitness", "varType": "int64", "varSize": "32", "varShape": "", "varContent": "340578158080"}, {"varName": "best_waiting_time", "varType": "int32", "varSize": "28", "varShape": "", "varContent": "2214237"}, {"varName": "chromosome_base", "varType": "list", "varSize": "184", "varShape": "", "varContent": "[<Genetic_Algorithm.TLight object at 0x00000276C27E2A60>, <Genetic_Algorithm.TLight object at 0x00000276C27E2B50>, <Genetic_Algorithm.TLight object at 0x00000276C27E28B0>, <Genetic_Algorithm.TLight ob"}, {"varName": "chromosome_child", "varType": "list", "varSize": "184", "varShape": "", "varContent": "[<Genetic_Algorithm.TLight object at 0x00000276C29F05E0>, <Genetic_Algorithm.TLight object at 0x00000276C29F0610>, <Genetic_Algorithm.TLight object at 0x00000276C29F06A0>, <Genetic_Algorithm.TLight ob"}, {"varName": "chromosome_female", "varType": "list", "varSize": "184", "varShape": "", "varContent": "[<Genetic_Algorithm.TLight object at 0x00000276C27E2D30>, <Genetic_Algorithm.TLight object at 0x00000276C27E2D00>, <Genetic_Algorithm.TLight object at 0x00000276C27F6700>, <Genetic_Algorithm.TLight ob"}, {"varName": "chromosome_male", "varType": "list", "varSize": "184", "varShape": "", "varContent": "[<Genetic_Algorithm.TLight object at 0x00000276C29996A0>, <Genetic_Algorithm.TLight object at 0x00000276C29996D0>, <Genetic_Algorithm.TLight object at 0x00000276C2999760>, <Genetic_Algorithm.TLight ob"}, {"varName": "collision_penalty", "varType": "list", "varSize": "120", "varShape": "", "varContent": "[400, 4000, 10000, 400, 4000]"}, {"varName": "config_file", "varType": "str", "varSize": "69", "varShape": "", "varContent": "Manhattan5x3.sumocfg"}, {"varName": "crossover_rate", "varType": "float", "varSize": "24", "varShape": "", "varContent": "0.5"}, {"varName": "current_gen", "varType": "int", "varSize": "28", "varShape": "", "varContent": "3"}, {"varName": "duration_mutation_rate", "varType": "float", "varSize": "24", "varShape": "", "varContent": "0.2"}, {"varName": "duration_mutation_strength", "varType": "int", "varSize": "28", "varShape": "", "varContent": "15"}, {"varName": "emissions", "varType": "list", "varSize": "376", "varShape": "", "varContent": "[551076908, 550073625, 565798460, 601101704, 627412742, 608602064, 740717506, 804450409, 555401709, 930068288, 865732069, 854754555, 621672985, 918288664, 729853919, 882231561, 626234516, 636148629, 7"}, {"varName": "emissions_weight", "varType": "list", "varSize": "120", "varShape": "", "varContent": "[0.0005, 0.0025, 0.0075, 0.0]"}, {"varName": "fitness", "varType": "list", "varSize": "376", "varShape": "", "varContent": "[340578158080, 340840731142, 348069513939, 363452561299, 381751108396, 363298709467, 410771326569, 437354099349, 343533375770, 481002312999, 466190562931, 462709163053, 371859429490, 488149027521, 404"}, {"varName": "light_options", "varType": "list", "varSize": "120", "varShape": "", "varContent": "['G', 'y', 'r']"}, {"varName": "max_generations", "varType": "int", "varSize": "28", "varShape": "", "varContent": "20"}, {"varName": "n_survivors", "varType": "int", "varSize": "28", "varShape": "", "varContent": "5"}, {"varName": "pop_size", "varType": "int", "varSize": "28", "varShape": "", "varContent": "40"}, {"varName": "run", "varType": "int", "varSize": "24", "varShape": "", "varContent": "0"}, {"varName": "sorted_pop", "varType": "ndarray", "varSize": "40", "varShape": "(5,)", "varContent": "[ 0  1  8  2 23]"}, {"varName": "states_mutation_rate", "varType": "float", "varSize": "24", "varShape": "", "varContent": "0.2"}, {"varName": "sumo_binary", "varType": "str", "varSize": "93", "varShape": "", "varContent": "C:\\Program Files (x86)\\Eclipse\\Sumo\\bin\\sumo"}, {"varName": "sumo_binary_gui", "varType": "str", "varSize": "97", "varShape": "", "varContent": "C:\\Program Files (x86)\\Eclipse\\Sumo\\bin\\sumo-gui"}, {"varName": "total_runs", "varType": "int", "varSize": "28", "varShape": "", "varContent": "5"}, {"varName": "waiting", "varType": "list", "varSize": "376", "varShape": "", "varContent": "[2228268, 2214237, 2406479, 2831795, 3448047, 3490459, 6183102, 6713807, 2266378, 9191149, 8917585, 9643422, 3687671, 9896282, 6329242, 8598988, 3861507, 3540851, 6241741, 4028541, 9639655, 8668434, 6"}, {"varName": "waiting_time_weight", "varType": "list", "varSize": "120", "varShape": "", "varContent": "[0.0005, 0.0075, 0.0025, 0.01]"}]

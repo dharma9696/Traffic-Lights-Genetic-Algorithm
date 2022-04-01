@@ -1,0 +1,111 @@
+2022-03-27 01:54:46,621 INFO    MainThread:13436 [wandb_setup.py:_flush():75] Loading settings from C:\Users\rohit\.config\wandb\settings
+2022-03-27 01:54:46,622 INFO    MainThread:13436 [wandb_setup.py:_flush():75] Loading settings from C:\Users\rohit\Personal Projects\Traffic Lights Genetic Algorithm\wandb\settings
+2022-03-27 01:54:46,622 INFO    MainThread:13436 [wandb_setup.py:_flush():75] Loading settings from environment variables: {}
+2022-03-27 01:54:46,622 INFO    MainThread:13436 [wandb_setup.py:_flush():75] Inferring run settings from compute environment: {'program': '<python with no main file>'}
+2022-03-27 01:54:46,622 INFO    MainThread:13436 [wandb_init.py:_log_setup():405] Logging user logs to C:\Users\rohit\Personal Projects\Traffic Lights Genetic Algorithm\wandb\run-20220327_015446-421b4tpv\logs\debug.log
+2022-03-27 01:54:46,657 INFO    MainThread:13436 [wandb_init.py:_log_setup():406] Logging internal logs to C:\Users\rohit\Personal Projects\Traffic Lights Genetic Algorithm\wandb\run-20220327_015446-421b4tpv\logs\debug-internal.log
+2022-03-27 01:54:46,659 INFO    MainThread:13436 [wandb_init.py:_jupyter_setup():355] configuring jupyter hooks <wandb.sdk.wandb_init._WandbInit object at 0x000002D7E4EF31C0>
+2022-03-27 01:54:46,659 INFO    MainThread:13436 [wandb_init.py:init():439] calling init triggers
+2022-03-27 01:54:46,660 INFO    MainThread:13436 [wandb_init.py:init():442] wandb.init called with sweep_config: {}
+config: {}
+2022-03-27 01:54:46,660 INFO    MainThread:13436 [wandb_init.py:init():492] starting backend
+2022-03-27 01:54:46,660 INFO    MainThread:13436 [backend.py:_multiprocessing_setup():99] multiprocessing start_methods=spawn, using: spawn
+2022-03-27 01:54:46,681 INFO    MainThread:13436 [backend.py:ensure_launched():219] starting backend process...
+2022-03-27 01:54:46,775 INFO    MainThread:13436 [backend.py:ensure_launched():224] started backend process with pid: 15772
+2022-03-27 01:54:46,779 INFO    MainThread:13436 [wandb_init.py:init():501] backend started and connected
+2022-03-27 01:54:46,849 INFO    MainThread:13436 [wandb_run.py:_label_probe_notebook():947] probe notebook
+2022-03-27 01:54:46,855 INFO    MainThread:13436 [wandb_run.py:_label_probe_notebook():957] Unable to probe notebook: 'charmap' codec can't decode byte 0x90 in position 2155: character maps to <undefined>
+2022-03-27 01:54:46,855 INFO    MainThread:13436 [wandb_init.py:init():565] updated telemetry
+2022-03-27 01:54:46,856 INFO    MainThread:13436 [wandb_init.py:init():596] communicating run to backend with 30 second timeout
+2022-03-27 01:54:48,674 INFO    MainThread:13436 [wandb_run.py:_on_init():1759] communicating current version
+2022-03-27 01:54:48,815 INFO    MainThread:13436 [wandb_run.py:_on_init():1763] got version response 
+2022-03-27 01:54:48,816 INFO    MainThread:13436 [wandb_init.py:init():625] starting run threads in backend
+2022-03-27 01:54:48,929 INFO    MainThread:13436 [wandb_run.py:_console_start():1733] atexit reg
+2022-03-27 01:54:48,929 INFO    MainThread:13436 [wandb_run.py:_redirect():1606] redirect: SettingsConsole.WRAP
+2022-03-27 01:54:48,929 INFO    MainThread:13436 [wandb_run.py:_redirect():1643] Wrapping output streams.
+2022-03-27 01:54:48,931 INFO    MainThread:13436 [wandb_run.py:_redirect():1667] Redirects installed.
+2022-03-27 01:54:48,931 INFO    MainThread:13436 [wandb_init.py:init():664] run started, returning control to user process
+2022-03-27 01:54:49,305 INFO    MainThread:13436 [wandb_init.py:_pause_backend():318] pausing backend
+2022-03-27 01:54:49,306 INFO    MainThread:13436 [jupyter.py:save_ipynb():374] not saving jupyter notebook
+2022-03-27 01:55:41,656 INFO    MainThread:13436 [wandb_run.py:_atexit_cleanup():1702] got exitcode: 0
+2022-03-27 01:55:41,658 INFO    MainThread:13436 [wandb_run.py:_restore():1674] restore
+2022-03-27 01:55:42,272 INFO    MainThread:13436 [wandb_run.py:_on_finish():1831] got exit ret: file_counts {
+  wandb_count: 1
+}
+pusher_stats {
+  uploaded_bytes: 728
+  total_bytes: 728
+}
+
+2022-03-27 01:55:43,181 INFO    MainThread:13436 [wandb_run.py:_on_finish():1831] got exit ret: file_counts {
+  wandb_count: 3
+}
+pusher_stats {
+  uploaded_bytes: 728
+  total_bytes: 3875
+}
+
+2022-03-27 01:55:43,285 INFO    MainThread:13436 [wandb_run.py:_on_finish():1831] got exit ret: file_counts {
+  wandb_count: 4
+}
+pusher_stats {
+  uploaded_bytes: 728
+  total_bytes: 3901
+}
+
+2022-03-27 01:55:43,390 INFO    MainThread:13436 [wandb_run.py:_on_finish():1831] got exit ret: file_counts {
+  wandb_count: 4
+}
+pusher_stats {
+  uploaded_bytes: 728
+  total_bytes: 3901
+}
+
+2022-03-27 01:55:43,493 INFO    MainThread:13436 [wandb_run.py:_on_finish():1831] got exit ret: file_counts {
+  wandb_count: 4
+}
+pusher_stats {
+  uploaded_bytes: 3901
+  total_bytes: 3901
+}
+
+2022-03-27 01:55:43,601 INFO    MainThread:13436 [wandb_run.py:_on_finish():1831] got exit ret: file_counts {
+  wandb_count: 4
+}
+pusher_stats {
+  uploaded_bytes: 3901
+  total_bytes: 3901
+}
+
+2022-03-27 01:55:43,712 INFO    MainThread:13436 [wandb_run.py:_on_finish():1831] got exit ret: file_counts {
+  wandb_count: 4
+}
+pusher_stats {
+  uploaded_bytes: 3901
+  total_bytes: 3901
+}
+
+2022-03-27 01:55:43,825 INFO    MainThread:13436 [wandb_run.py:_on_finish():1831] got exit ret: file_counts {
+  wandb_count: 4
+}
+pusher_stats {
+  uploaded_bytes: 3901
+  total_bytes: 3901
+}
+
+2022-03-27 01:55:43,929 INFO    MainThread:13436 [wandb_run.py:_on_finish():1831] got exit ret: file_counts {
+  wandb_count: 4
+}
+pusher_stats {
+  uploaded_bytes: 3901
+  total_bytes: 3901
+}
+
+2022-03-27 01:55:44,039 INFO    MainThread:13436 [wandb_run.py:_on_finish():1831] got exit ret: file_counts {
+  wandb_count: 4
+}
+pusher_stats {
+  uploaded_bytes: 3901
+  total_bytes: 3901
+}
+

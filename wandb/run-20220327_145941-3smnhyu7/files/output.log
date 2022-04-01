@@ -1,0 +1,771 @@
+SUMO launched: Collecting Traffic Lights
+<traci.connection.Connection object at 0x000002031288C100>
+Generation: 0  Individual:  0
+SUMO launched
+<traci.connection.Connection object at 0x000002031219D7C0>
+Generation: 0  Individual:  1
+SUMO launched
+<traci.connection.Connection object at 0x0000020312185700>
+Generation: 0  Individual:  2
+SUMO launched
+<traci.connection.Connection object at 0x0000020312185430>
+Generation: 0  Individual:  3
+SUMO launched
+<traci.connection.Connection object at 0x0000020312171220>
+Generation: 0  Individual:  4
+SUMO launched
+<traci.connection.Connection object at 0x000002031288CFD0>
+Generation: 0  Individual:  5
+SUMO launched
+<traci.connection.Connection object at 0x00000203121716A0>
+Generation: 0  Individual:  6
+SUMO launched
+<traci.connection.Connection object at 0x000002031288CD30>
+Generation: 0  Individual:  7
+SUMO launched
+<traci.connection.Connection object at 0x000002031286DCA0>
+Generation: 0  Individual:  8
+SUMO launched
+<traci.connection.Connection object at 0x000002031289BF10>
+Generation: 0  Individual:  9
+SUMO launched
+<traci.connection.Connection object at 0x000002031289BDF0>
+Generation: 0  Individual:  10
+SUMO launched
+<traci.connection.Connection object at 0x00000203121539D0>
+Generation: 0  Individual:  11
+SUMO launched
+<traci.connection.Connection object at 0x00000203128ABAF0>
+Generation: 0  Individual:  12
+SUMO launched
+<traci.connection.Connection object at 0x00000203128ABB20>
+Generation: 0  Individual:  13
+SUMO launched
+<traci.connection.Connection object at 0x000002031289D940>
+Generation: 0  Individual:  14
+SUMO launched
+<traci.connection.Connection object at 0x00000203128AF730>
+Best Fitness value in Generation  0  is  323459678418
+Logging info to WandB
+Generation: 1  Individual:  0
+SUMO launched
+<traci.connection.Connection object at 0x000002031286D790>
+Generation: 1  Individual:  1
+SUMO launched
+<traci.connection.Connection object at 0x000002031286DC40>
+Generation: 1  Individual:  2
+SUMO launched
+<traci.connection.Connection object at 0x000002031210FC10>
+Generation: 1  Individual:  3
+SUMO launched
+<traci.connection.Connection object at 0x0000020312853F40>
+Generation: 1  Individual:  4
+SUMO launched
+<traci.connection.Connection object at 0x00000203120CFAF0>
+Generation: 1  Individual:  5
+SUMO launched
+<traci.connection.Connection object at 0x000002031219D640>
+Generation: 1  Individual:  6
+SUMO launched
+<traci.connection.Connection object at 0x00000203121BF100>
+Generation: 1  Individual:  7
+SUMO launched
+<traci.connection.Connection object at 0x00000203121BFD30>
+Generation: 1  Individual:  8
+SUMO launched
+<traci.connection.Connection object at 0x000002031286D790>
+Generation: 1  Individual:  9
+SUMO launched
+<traci.connection.Connection object at 0x0000020312891D00>
+Generation: 1  Individual:  10
+SUMO launched
+<traci.connection.Connection object at 0x00000203128ABC40>
+Generation: 1  Individual:  11
+SUMO launched
+<traci.connection.Connection object at 0x00000203128AB6D0>
+Best Fitness value in Generation  1  is  323459678418
+Logging info to WandB
+Generation: 2  Individual:  0
+SUMO launched
+<traci.connection.Connection object at 0x0000020312850850>
+Generation: 2  Individual:  1
+SUMO launched
+<traci.connection.Connection object at 0x00000203120BCFD0>
+Generation: 2  Individual:  2
+SUMO launched
+<traci.connection.Connection object at 0x00000203121BFFD0>
+Generation: 2  Individual:  3
+SUMO launched
+<traci.connection.Connection object at 0x00000203120BC730>
+Generation: 2  Individual:  4
+SUMO launched
+<traci.connection.Connection object at 0x00000203120970A0>
+Generation: 2  Individual:  5
+SUMO launched
+<traci.connection.Connection object at 0x0000020312097640>
+Generation: 2  Individual:  6
+SUMO launched
+<traci.connection.Connection object at 0x00000203128C2FD0>
+Generation: 2  Individual:  7
+SUMO launched
+<traci.connection.Connection object at 0x00000203128C3F40>
+Generation: 2  Individual:  8
+SUMO launched
+<traci.connection.Connection object at 0x0000020311FF9A00>
+Generation: 2  Individual:  9
+SUMO launched
+<traci.connection.Connection object at 0x00000203120CFDF0>
+Generation: 2  Individual:  10
+SUMO launched
+<traci.connection.Connection object at 0x0000020311FF9970>
+Generation: 2  Individual:  11
+SUMO launched
+<traci.connection.Connection object at 0x0000020312153D90>
+Best Fitness value in Generation  2  is  322507854255
+Logging info to WandB
+Generation: 3  Individual:  0
+SUMO launched
+<traci.connection.Connection object at 0x000002031286D310>
+Generation: 3  Individual:  1
+SUMO launched
+<traci.connection.Connection object at 0x00000203121539D0>
+Generation: 3  Individual:  2
+SUMO launched
+<traci.connection.Connection object at 0x0000020312850EE0>
+Generation: 3  Individual:  3
+SUMO launched
+<traci.connection.Connection object at 0x0000020312850BE0>
+Generation: 3  Individual:  4
+SUMO launched
+<traci.connection.Connection object at 0x00000203128C2A30>
+Generation: 3  Individual:  5
+SUMO launched
+<traci.connection.Connection object at 0x00000203120979A0>
+Generation: 3  Individual:  6
+SUMO launched
+<traci.connection.Connection object at 0x0000020311EF4970>
+Generation: 3  Individual:  7
+SUMO launched
+<traci.connection.Connection object at 0x0000020312850B20>
+Generation: 3  Individual:  8
+SUMO launched
+<traci.connection.Connection object at 0x00000203121713A0>
+Generation: 3  Individual:  9
+SUMO launched
+<traci.connection.Connection object at 0x0000020312036550>
+Generation: 3  Individual:  10
+SUMO launched
+<traci.connection.Connection object at 0x00000203120BCE80>
+Generation: 3  Individual:  11
+SUMO launched
+<traci.connection.Connection object at 0x00000203120365E0>
+Best Fitness value in Generation  3  is  322507854255
+Logging info to WandB
+Generation: 4  Individual:  0
+SUMO launched
+<traci.connection.Connection object at 0x00000203120BCE50>
+Generation: 4  Individual:  1
+SUMO launched
+<traci.connection.Connection object at 0x00000203120BCD60>
+Generation: 4  Individual:  2
+SUMO launched
+<traci.connection.Connection object at 0x00000203121BFEB0>
+Generation: 4  Individual:  3
+SUMO launched
+<traci.connection.Connection object at 0x0000020312036790>
+Generation: 4  Individual:  4
+SUMO launched
+<traci.connection.Connection object at 0x00000203121962B0>
+Generation: 4  Individual:  5
+SUMO launched
+<traci.connection.Connection object at 0x00000203120EF520>
+Generation: 4  Individual:  6
+SUMO launched
+<traci.connection.Connection object at 0x000002031286D3D0>
+Generation: 4  Individual:  7
+SUMO launched
+<traci.connection.Connection object at 0x0000020311F693A0>
+Generation: 4  Individual:  8
+SUMO launched
+<traci.connection.Connection object at 0x00000203128C2070>
+Generation: 4  Individual:  9
+SUMO launched
+<traci.connection.Connection object at 0x0000020312861640>
+Generation: 4  Individual:  10
+SUMO launched
+<traci.connection.Connection object at 0x00000203120BC700>
+Generation: 4  Individual:  11
+SUMO launched
+<traci.connection.Connection object at 0x00000203120BCE50>
+Best Fitness value in Generation  4  is  319593665400
+Logging info to WandB
+Generation: 5  Individual:  0
+SUMO launched
+<traci.connection.Connection object at 0x00000203121BF370>
+Generation: 5  Individual:  1
+SUMO launched
+<traci.connection.Connection object at 0x0000020311EDACA0>
+Generation: 5  Individual:  2
+SUMO launched
+<traci.connection.Connection object at 0x00000203120CF8B0>
+Generation: 5  Individual:  3
+SUMO launched
+<traci.connection.Connection object at 0x0000020312861160>
+Generation: 5  Individual:  4
+SUMO launched
+<traci.connection.Connection object at 0x00000203120E63A0>
+Generation: 5  Individual:  5
+SUMO launched
+<traci.connection.Connection object at 0x0000020312153EB0>
+Generation: 5  Individual:  6
+SUMO launched
+<traci.connection.Connection object at 0x0000020312171340>
+Generation: 5  Individual:  7
+SUMO launched
+<traci.connection.Connection object at 0x000002031210F0D0>
+Generation: 5  Individual:  8
+SUMO launched
+<traci.connection.Connection object at 0x000002031210F1F0>
+Generation: 5  Individual:  9
+SUMO launched
+<traci.connection.Connection object at 0x0000020312131FA0>
+Generation: 5  Individual:  10
+SUMO launched
+<traci.connection.Connection object at 0x0000020312131FD0>
+Generation: 5  Individual:  11
+SUMO launched
+<traci.connection.Connection object at 0x00000203120EF760>
+Best Fitness value in Generation  5  is  319593665400
+Logging info to WandB
+Generation: 6  Individual:  0
+SUMO launched
+<traci.connection.Connection object at 0x00000203128DA730>
+Generation: 6  Individual:  1
+SUMO launched
+<traci.connection.Connection object at 0x00000203128D8E80>
+Generation: 6  Individual:  2
+SUMO launched
+<traci.connection.Connection object at 0x00000203128E5400>
+Generation: 6  Individual:  3
+SUMO launched
+<traci.connection.Connection object at 0x00000203128E5370>
+Generation: 6  Individual:  4
+SUMO launched
+<traci.connection.Connection object at 0x00000203120E2AF0>
+Generation: 6  Individual:  5
+SUMO launched
+<traci.connection.Connection object at 0x00000203121BFBB0>
+Generation: 6  Individual:  6
+SUMO launched
+<traci.connection.Connection object at 0x0000020311F69430>
+Generation: 6  Individual:  7
+SUMO launched
+<traci.connection.Connection object at 0x00000203128DAA30>
+Generation: 6  Individual:  8
+SUMO launched
+<traci.connection.Connection object at 0x0000020312097640>
+Generation: 6  Individual:  9
+SUMO launched
+<traci.connection.Connection object at 0x00000203120EFE20>
+Generation: 6  Individual:  10
+SUMO launched
+<traci.connection.Connection object at 0x00000203128E5460>
+Generation: 6  Individual:  11
+SUMO launched
+<traci.connection.Connection object at 0x00000203128DB820>
+Best Fitness value in Generation  6  is  13433734590
+Logging info to WandB
+Generation: 7  Individual:  0
+SUMO launched
+<traci.connection.Connection object at 0x00000203120DEE80>
+Generation: 7  Individual:  1
+SUMO launched
+<traci.connection.Connection object at 0x00000203128E5760>
+Generation: 7  Individual:  2
+SUMO launched
+<traci.connection.Connection object at 0x00000203128E58E0>
+Generation: 7  Individual:  3
+SUMO launched
+<traci.connection.Connection object at 0x0000020312185550>
+Generation: 7  Individual:  4
+SUMO launched
+<traci.connection.Connection object at 0x0000020312898FD0>
+Generation: 7  Individual:  5
+SUMO launched
+<traci.connection.Connection object at 0x0000020312898D90>
+Generation: 7  Individual:  6
+SUMO launched
+<traci.connection.Connection object at 0x0000020311EF4610>
+Generation: 7  Individual:  7
+SUMO launched
+<traci.connection.Connection object at 0x0000020312196070>
+Generation: 7  Individual:  8
+SUMO launched
+<traci.connection.Connection object at 0x00000203128DB5E0>
+Generation: 7  Individual:  9
+SUMO launched
+<traci.connection.Connection object at 0x00000203128DB850>
+Generation: 7  Individual:  10
+SUMO launched
+<traci.connection.Connection object at 0x00000203128E5FA0>
+Generation: 7  Individual:  11
+SUMO launched
+<traci.connection.Connection object at 0x0000020312036A60>
+Best Fitness value in Generation  7  is  13433734590
+Logging info to WandB
+Generation: 8  Individual:  0
+SUMO launched
+<traci.connection.Connection object at 0x0000020312185550>
+Generation: 8  Individual:  1
+SUMO launched
+<traci.connection.Connection object at 0x00000203121857C0>
+Generation: 8  Individual:  2
+SUMO launched
+<traci.connection.Connection object at 0x0000020312898190>
+Generation: 8  Individual:  3
+SUMO launched
+<traci.connection.Connection object at 0x0000020312036E20>
+Generation: 8  Individual:  4
+SUMO launched
+<traci.connection.Connection object at 0x0000020311F69550>
+Generation: 8  Individual:  5
+SUMO launched
+<traci.connection.Connection object at 0x000002031288CD00>
+Generation: 8  Individual:  6
+SUMO launched
+<traci.connection.Connection object at 0x00000203128E5A30>
+Generation: 8  Individual:  7
+SUMO launched
+<traci.connection.Connection object at 0x00000203128E5850>
+Generation: 8  Individual:  8
+SUMO launched
+<traci.connection.Connection object at 0x00000203120BC730>
+Generation: 8  Individual:  9
+SUMO launched
+<traci.connection.Connection object at 0x00000203120BCE80>
+Generation: 8  Individual:  10
+SUMO launched
+<traci.connection.Connection object at 0x0000020312861400>
+Generation: 8  Individual:  11
+SUMO launched
+<traci.connection.Connection object at 0x0000020312861DC0>
+Best Fitness value in Generation  8  is  13433734590
+Logging info to WandB
+Generation: 9  Individual:  0
+SUMO launched
+<traci.connection.Connection object at 0x00000203121AEF40>
+Generation: 9  Individual:  1
+SUMO launched
+<traci.connection.Connection object at 0x00000203120DE070>
+Generation: 9  Individual:  2
+SUMO launched
+<traci.connection.Connection object at 0x0000020312196280>
+Generation: 9  Individual:  3
+SUMO launched
+<traci.connection.Connection object at 0x00000203120DE340>
+Generation: 9  Individual:  4
+SUMO launched
+<traci.connection.Connection object at 0x0000020311FF9A00>
+Generation: 9  Individual:  5
+SUMO launched
+<traci.connection.Connection object at 0x000002031161E640>
+Generation: 9  Individual:  6
+SUMO launched
+<traci.connection.Connection object at 0x00000203120DE130>
+Generation: 9  Individual:  7
+SUMO launched
+<traci.connection.Connection object at 0x00000203120DE040>
+Generation: 9  Individual:  8
+SUMO launched
+<traci.connection.Connection object at 0x00000203128C26D0>
+Generation: 9  Individual:  9
+SUMO launched
+<traci.connection.Connection object at 0x00000203128C2B50>
+Generation: 9  Individual:  10
+SUMO launched
+<traci.connection.Connection object at 0x0000020312861100>
+Generation: 9  Individual:  11
+SUMO launched
+<traci.connection.Connection object at 0x0000020312861D90>
+Best Fitness value in Generation  9  is  13433734590
+Logging info to WandB
+Generation: 10  Individual:  0
+SUMO launched
+<traci.connection.Connection object at 0x00000203120974F0>
+Generation: 10  Individual:  1
+SUMO launched
+<traci.connection.Connection object at 0x00000203120DED90>
+Generation: 10  Individual:  2
+SUMO launched
+<traci.connection.Connection object at 0x00000203121964F0>
+Generation: 10  Individual:  3
+SUMO launched
+<traci.connection.Connection object at 0x00000203128C2A90>
+Generation: 10  Individual:  4
+SUMO launched
+<traci.connection.Connection object at 0x00000203120CFCD0>
+Generation: 10  Individual:  5
+SUMO launched
+<traci.connection.Connection object at 0x00000203128C2760>
+Generation: 10  Individual:  6
+SUMO launched
+<traci.connection.Connection object at 0x0000020312853A90>
+Generation: 10  Individual:  7
+SUMO launched
+<traci.connection.Connection object at 0x00000203128500A0>
+Generation: 10  Individual:  8
+SUMO launched
+<traci.connection.Connection object at 0x0000020312878FD0>
+Generation: 10  Individual:  9
+SUMO launched
+<traci.connection.Connection object at 0x0000020311F697F0>
+Generation: 10  Individual:  10
+SUMO launched
+<traci.connection.Connection object at 0x0000020312853DC0>
+Generation: 10  Individual:  11
+SUMO launched
+<traci.connection.Connection object at 0x0000020312878A60>
+Best Fitness value in Generation  10  is  13433734590
+Logging info to WandB
+Generation: 11  Individual:  0
+SUMO launched
+<traci.connection.Connection object at 0x0000020312878040>
+Generation: 11  Individual:  1
+SUMO launched
+<traci.connection.Connection object at 0x00000203128839A0>
+Generation: 11  Individual:  2
+SUMO launched
+<traci.connection.Connection object at 0x00000203128839D0>
+Generation: 11  Individual:  3
+SUMO launched
+<traci.connection.Connection object at 0x00000203121AEB20>
+Generation: 11  Individual:  4
+SUMO launched
+<traci.connection.Connection object at 0x0000020312117280>
+Generation: 11  Individual:  5
+SUMO launched
+<traci.connection.Connection object at 0x00000203128E4BE0>
+Generation: 11  Individual:  6
+SUMO launched
+<traci.connection.Connection object at 0x0000020312117610>
+Generation: 11  Individual:  7
+SUMO launched
+<traci.connection.Connection object at 0x0000020312853D00>
+Generation: 11  Individual:  8
+SUMO launched
+<traci.connection.Connection object at 0x0000020312878B80>
+Generation: 11  Individual:  9
+SUMO launched
+<traci.connection.Connection object at 0x00000203128DA700>
+Generation: 11  Individual:  10
+SUMO launched
+<traci.connection.Connection object at 0x000002031288C9D0>
+Generation: 11  Individual:  11
+SUMO launched
+<traci.connection.Connection object at 0x00000203120979A0>
+Best Fitness value in Generation  11  is  13433734590
+Logging info to WandB
+Generation: 12  Individual:  0
+SUMO launched
+<traci.connection.Connection object at 0x00000203128C2790>
+Generation: 12  Individual:  1
+SUMO launched
+<traci.connection.Connection object at 0x0000020312850C40>
+Generation: 12  Individual:  2
+SUMO launched
+<traci.connection.Connection object at 0x000002031219D790>
+Generation: 12  Individual:  3
+SUMO launched
+<traci.connection.Connection object at 0x00000203120BC880>
+Generation: 12  Individual:  4
+SUMO launched
+<traci.connection.Connection object at 0x00000203120363A0>
+Generation: 12  Individual:  5
+SUMO launched
+<traci.connection.Connection object at 0x00000203121BFDC0>
+Generation: 12  Individual:  6
+SUMO launched
+<traci.connection.Connection object at 0x00000203121BF490>
+Generation: 12  Individual:  7
+SUMO launched
+<traci.connection.Connection object at 0x000002031286D580>
+Generation: 12  Individual:  8
+SUMO launched
+<traci.connection.Connection object at 0x0000020312180D90>
+Generation: 12  Individual:  9
+SUMO launched
+<traci.connection.Connection object at 0x0000020312180040>
+Generation: 12  Individual:  10
+SUMO launched
+<traci.connection.Connection object at 0x00000203121960A0>
+Generation: 12  Individual:  11
+SUMO launched
+<traci.connection.Connection object at 0x00000203120040A0>
+Best Fitness value in Generation  12  is  13433734590
+Logging info to WandB
+Generation: 13  Individual:  0
+SUMO launched
+<traci.connection.Connection object at 0x0000020312117610>
+Generation: 13  Individual:  1
+SUMO launched
+<traci.connection.Connection object at 0x00000203121178E0>
+Generation: 13  Individual:  2
+SUMO launched
+<traci.connection.Connection object at 0x0000020312878280>
+Generation: 13  Individual:  3
+SUMO launched
+<traci.connection.Connection object at 0x0000020312878EE0>
+Generation: 13  Individual:  4
+SUMO launched
+<traci.connection.Connection object at 0x00000203120BC7F0>
+Generation: 13  Individual:  5
+SUMO launched
+<traci.connection.Connection object at 0x00000203128788B0>
+Generation: 13  Individual:  6
+SUMO launched
+<traci.connection.Connection object at 0x0000020312171EB0>
+Generation: 13  Individual:  7
+SUMO launched
+<traci.connection.Connection object at 0x00000203120EFAF0>
+Generation: 13  Individual:  8
+SUMO launched
+<traci.connection.Connection object at 0x00000203128E4910>
+Generation: 13  Individual:  9
+SUMO launched
+<traci.connection.Connection object at 0x00000203121179D0>
+Generation: 13  Individual:  10
+SUMO launched
+<traci.connection.Connection object at 0x0000020312878F10>
+Generation: 13  Individual:  11
+SUMO launched
+<traci.connection.Connection object at 0x00000203128FFEE0>
+Best Fitness value in Generation  13  is  13433734590
+Logging info to WandB
+Generation: 14  Individual:  0
+SUMO launched
+<traci.connection.Connection object at 0x000002031219EAC0>
+Generation: 14  Individual:  1
+SUMO launched
+<traci.connection.Connection object at 0x00000203128DB460>
+Generation: 14  Individual:  2
+SUMO launched
+<traci.connection.Connection object at 0x00000203120BC730>
+Generation: 14  Individual:  3
+SUMO launched
+<traci.connection.Connection object at 0x00000203128E4B80>
+Generation: 14  Individual:  4
+SUMO launched
+<traci.connection.Connection object at 0x0000020312898EB0>
+Generation: 14  Individual:  5
+SUMO launched
+<traci.connection.Connection object at 0x0000020312898E50>
+Generation: 14  Individual:  6
+SUMO launched
+<traci.connection.Connection object at 0x0000020312898F40>
+Generation: 14  Individual:  7
+SUMO launched
+<traci.connection.Connection object at 0x00000203128DBDC0>
+Generation: 14  Individual:  8
+SUMO launched
+<traci.connection.Connection object at 0x000002031219EB20>
+Generation: 14  Individual:  9
+SUMO launched
+<traci.connection.Connection object at 0x00000203120F8C40>
+Generation: 14  Individual:  10
+SUMO launched
+<traci.connection.Connection object at 0x00000203120F8B20>
+Generation: 14  Individual:  11
+SUMO launched
+<traci.connection.Connection object at 0x00000203120F8D60>
+Best Fitness value in Generation  14  is  13433734590
+Logging info to WandB
+Generation: 15  Individual:  0
+SUMO launched
+<traci.connection.Connection object at 0x0000020312898550>
+Generation: 15  Individual:  1
+SUMO launched
+<traci.connection.Connection object at 0x0000020312171040>
+Generation: 15  Individual:  2
+SUMO launched
+<traci.connection.Connection object at 0x0000020312171F40>
+Generation: 15  Individual:  3
+SUMO launched
+<traci.connection.Connection object at 0x000002031219E730>
+Generation: 15  Individual:  4
+SUMO launched
+<traci.connection.Connection object at 0x00000203120049D0>
+Generation: 15  Individual:  5
+SUMO launched
+<traci.connection.Connection object at 0x00000203120F8910>
+Generation: 15  Individual:  6
+SUMO launched
+<traci.connection.Connection object at 0x00000203120F86D0>
+Generation: 15  Individual:  7
+SUMO launched
+<traci.connection.Connection object at 0x0000020312171D30>
+Generation: 15  Individual:  8
+SUMO launched
+<traci.connection.Connection object at 0x0000020312850A60>
+Generation: 15  Individual:  9
+SUMO launched
+<traci.connection.Connection object at 0x0000020312850B50>
+Generation: 15  Individual:  10
+SUMO launched
+<traci.connection.Connection object at 0x0000020312850880>
+Generation: 15  Individual:  11
+SUMO launched
+<traci.connection.Connection object at 0x0000020312850130>
+Best Fitness value in Generation  15  is  13433734590
+Logging info to WandB
+Generation: 16  Individual:  0
+SUMO launched
+<traci.connection.Connection object at 0x00000203128DB760>
+Generation: 16  Individual:  1
+SUMO launched
+<traci.connection.Connection object at 0x00000203128DB460>
+Generation: 16  Individual:  2
+SUMO launched
+<traci.connection.Connection object at 0x00000203128E5430>
+Generation: 16  Individual:  3
+SUMO launched
+<traci.connection.Connection object at 0x00000203120ED4F0>
+Generation: 16  Individual:  4
+SUMO launched
+<traci.connection.Connection object at 0x0000020312196490>
+Generation: 16  Individual:  5
+SUMO launched
+<traci.connection.Connection object at 0x00000203120F8AC0>
+Generation: 16  Individual:  6
+SUMO launched
+<traci.connection.Connection object at 0x00000203128FFFA0>
+Generation: 16  Individual:  7
+SUMO launched
+<traci.connection.Connection object at 0x0000020312196640>
+Generation: 16  Individual:  8
+SUMO launched
+<traci.connection.Connection object at 0x000002031210FD00>
+Generation: 16  Individual:  9
+SUMO launched
+<traci.connection.Connection object at 0x00000203128FFF40>
+Generation: 16  Individual:  10
+SUMO launched
+<traci.connection.Connection object at 0x00000203128DB460>
+Generation: 16  Individual:  11
+SUMO launched
+<traci.connection.Connection object at 0x000002031219D760>
+Best Fitness value in Generation  16  is  9060183164
+Logging info to WandB
+Generation: 17  Individual:  0
+SUMO launched
+<traci.connection.Connection object at 0x00000203128C2520>
+Generation: 17  Individual:  1
+SUMO launched
+<traci.connection.Connection object at 0x0000020312180CD0>
+Generation: 17  Individual:  2
+SUMO launched
+<traci.connection.Connection object at 0x0000020312180E80>
+Generation: 17  Individual:  3
+SUMO launched
+<traci.connection.Connection object at 0x00000203120EDD90>
+Generation: 17  Individual:  4
+SUMO launched
+<traci.connection.Connection object at 0x00000203120EDE20>
+Generation: 17  Individual:  5
+SUMO launched
+<traci.connection.Connection object at 0x00000203120DE220>
+Generation: 17  Individual:  6
+SUMO launched
+<traci.connection.Connection object at 0x00000203121BF250>
+Generation: 17  Individual:  7
+SUMO launched
+<traci.connection.Connection object at 0x000002031286D0A0>
+Generation: 17  Individual:  8
+SUMO launched
+<traci.connection.Connection object at 0x000002031286D9D0>
+Generation: 17  Individual:  9
+SUMO launched
+<traci.connection.Connection object at 0x00000203121534C0>
+Generation: 17  Individual:  10
+SUMO launched
+<traci.connection.Connection object at 0x00000203128C2B80>
+Generation: 17  Individual:  11
+SUMO launched
+<traci.connection.Connection object at 0x00000203121806A0>
+Best Fitness value in Generation  17  is  9060183164
+Logging info to WandB
+Generation: 18  Individual:  0
+SUMO launched
+<traci.connection.Connection object at 0x00000203120243A0>
+Generation: 18  Individual:  1
+SUMO launched
+<traci.connection.Connection object at 0x00000203128E5C70>
+Generation: 18  Individual:  2
+SUMO launched
+<traci.connection.Connection object at 0x0000020312850280>
+Generation: 18  Individual:  3
+SUMO launched
+<traci.connection.Connection object at 0x0000020311F693A0>
+Generation: 18  Individual:  4
+SUMO launched
+<traci.connection.Connection object at 0x0000020312180C70>
+Generation: 18  Individual:  5
+SUMO launched
+<traci.connection.Connection object at 0x0000020312180CD0>
+Generation: 18  Individual:  6
+SUMO launched
+<traci.connection.Connection object at 0x00000203120E2220>
+Generation: 18  Individual:  7
+SUMO launched
+<traci.connection.Connection object at 0x0000020312117EE0>
+Generation: 18  Individual:  8
+SUMO launched
+<traci.connection.Connection object at 0x000002031286DBB0>
+Generation: 18  Individual:  9
+SUMO launched
+<traci.connection.Connection object at 0x00000203129070D0>
+Generation: 18  Individual:  10
+SUMO launched
+<traci.connection.Connection object at 0x0000020312097640>
+Generation: 18  Individual:  11
+SUMO launched
+<traci.connection.Connection object at 0x0000020312907160>
+Best Fitness value in Generation  18  is  9060183164
+Logging info to WandB
+Generation: 19  Individual:  0
+SUMO launched
+<traci.connection.Connection object at 0x00000203128E4E20>
+Generation: 19  Individual:  1
+SUMO launched
+<traci.connection.Connection object at 0x00000203120DE340>
+Generation: 19  Individual:  2
+SUMO launched
+<traci.connection.Connection object at 0x00000203128E4DC0>
+Generation: 19  Individual:  3
+SUMO launched
+<traci.connection.Connection object at 0x0000020312024A60>
+Generation: 19  Individual:  4
+SUMO launched
+<traci.connection.Connection object at 0x000002031286DD60>
+Generation: 19  Individual:  5
+SUMO launched
+<traci.connection.Connection object at 0x00000203120DE130>
+Generation: 19  Individual:  6
+SUMO launched
+<traci.connection.Connection object at 0x000002031286D520>
+Generation: 19  Individual:  7
+SUMO launched
+<traci.connection.Connection object at 0x0000020312024970>
+Generation: 19  Individual:  8
+SUMO launched
+<traci.connection.Connection object at 0x0000020312024CA0>
+Generation: 19  Individual:  9
+SUMO launched
+<traci.connection.Connection object at 0x0000020312036550>
+Generation: 19  Individual:  10
+SUMO launched
+<traci.connection.Connection object at 0x000002031210F310>
+Generation: 19  Individual:  11
+SUMO launched
+<traci.connection.Connection object at 0x0000020312153A30>
+Best Fitness value in Generation  19  is  9060183164
+Logging info to WandB
