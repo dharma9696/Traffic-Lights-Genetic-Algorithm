@@ -4,7 +4,7 @@ Created on Fri Mar 25 03:39:29 2022
 
 @author: rohit
 """
-
+#importing libraries
 import os
 import sys
 from  warnings import filterwarnings
@@ -56,6 +56,10 @@ emissions_weight = 1/2000
 
 
 class TLight(object):
+''' 
+	Class contains data about the Junction ID, Durations and States.
+	Functions to get the definitions from SUMO and setting the definitions to the SUMO simulation
+'''
     def __init__(self,ID):
         '''
         Initialize a new data storing object to keep track of the
@@ -67,6 +71,11 @@ class TLight(object):
         self.states = []
 
     def get_state_duration(self,ID):
+		''' 
+		Collects data about a traffic light in the system and their current configuration
+		Input: TLight ID
+		Returns : States and state durations for the TLight
+		'''
         states=[]
         durations=[]
         definitions = traci.trafficlight.getCompleteRedYellowGreenDefinition(ID)
@@ -80,6 +89,11 @@ class TLight(object):
         return states,durations
     
     def set_state_duration(self,ID,states,durations):
+		''' 
+		Sets data about a traffic light in the system
+		Input	: TLight ID, states and durations configuration
+		Output	: Changed TLight configuration in the SUMO simulation 
+		'''
         self.ID = ID
         self.states = states
         self.durations = durations
@@ -101,6 +115,9 @@ class TLight(object):
 
 
 class population(object):
+'''
+population class stores relevant information about a population of chromosomes
+'''
     def __init__(self,generation):
         self.generation = generation
         self.gene_pool = []
@@ -115,7 +132,8 @@ class population(object):
 
 
     def print_pop(self):
-        for individual,chromosome in zip(range(len(self.gene_pool)),self.gene_pool):
+        '''Prints the values saved in the population'''
+		for individual,chromosome in zip(range(len(self.gene_pool)),self.gene_pool):
             print('--------------------------------------')
             print('--------------------------------------')
             print('--------------------------------------\n')
@@ -124,7 +142,10 @@ class population(object):
             print_chromosome(chromosome)
             
     def evaluate_pop(self):
-        fitness_pop= []
+		'''Evaluate the fitness values for all individuals in the population
+			Returns the fitness value, emmision, waiting_time for all individuals in the population
+        '''
+		fitness_pop= []
         emissions_pop= []
         waiting_pop= []
         individual=0
@@ -147,7 +168,7 @@ class population(object):
         return fitness_pop,emissions_pop,waiting_pop
 
 def get_chromosome():
-    
+    ''' Connects to the SUMO simulation and collects information about all traffic lights in a simulation'''
     traci.start([sumo_binary, "-c", config_file,'--start','--quit-on-end'],label = 'sim2')
     print("SUMO launched: Collecting Traffic Lights")
     conn = traci.getConnection("sim2")
@@ -155,7 +176,7 @@ def get_chromosome():
     TLightIDs = conn.trafficlight.getIDList()
     Chromosome=[]
     for Junction in TLightIDs:
-        states = []
+        states = []  
         durations=[]
         TL1 = TLight(Junction)
         states,durations = TL1.get_state_duration(Junction)
@@ -167,7 +188,7 @@ def get_chromosome():
 
 
 def set_chromosome(chromosome):
-
+	''' Sets the values for all TLights in the simulation as per the individual's chromosome'''
     new_chromosome = []
     for Junction in chromosome:
         # updated_TL1 = TLight(Junction)
@@ -182,6 +203,7 @@ def set_chromosome(chromosome):
 
 
 def print_chromosome(chromosome):
+	''' Prints all the values saved in a chromosome'''
     for Junction in chromosome:
         ID = Junction.ID
         states = Junction.states
@@ -195,11 +217,17 @@ def print_chromosome(chromosome):
            
 
 
+#Genetic Algorithm Functions
+		   
 
 def mutate_chromosome(chromosome,duration_mutation_rate=duration_mutation_rate,
                       duration_mutation_strength = duration_mutation_strength,
                       states_mutation_rate = states_mutation_rate ):
-
+	'''Mutate the input chromosome to add noise in the chromosome 
+	
+	   duration_mutation_rate		: Probability of mutating a gene (duration of a signal state for a given phase)
+	   duration_mutation_strength	: Strength of mutating a gene (duration value in seconds)
+	   states_mutation_rate			: Probability of mutating a states gene (Change the color of the signal R-Y-G)'''
     chromosome_new = []
     for Tlight in chromosome:
         ID = Tlight.ID
@@ -242,7 +270,12 @@ def mutate_chromosome(chromosome,duration_mutation_rate=duration_mutation_rate,
 
 def crossover_parent(chromosome_male,chromosome_female,
                      crossover_rate = crossover_rate):
-    chromosome_child = []
+	'''Mate male and female chromosome to generate a child chromosome 
+	   
+	   Input	: Male and Female Chromosome
+	   Output	: Child Chromosome'''
+
+	chromosome_child = []
     # for Tlight_male,Tlight_female in zip(chromosome_male,chromosome_female):
     for Tlight in range(len(chromosome_male)):
         
@@ -294,6 +327,14 @@ def crossover_parent(chromosome_male,chromosome_female,
 
 def evaluate_chromosome(chromosome,sumo_binary=sumo_binary,
                         config_file = config_file,n_steps = n_steps):
+						
+'''Evaluate the fitness value for an individual chromosome
+	
+	Input		: Chromosome
+	Sumo_binary	: 'sumo_binary_gui' for launching SUMO, 'sumo_binary' for launchinig SUMO in the bavkground(cmd)
+	config_file	: The Simulation config file (.sumocfg file)
+	n_steps		: Number of time steps for which the simulation should be executed for
+	'''
     # instantiate a new SUMO instance and set insert the current genome
     # l1 = Logic(programID='0', type=0, currentPhaseIndex=0, 
     #       phases=(Phase(duration=89.6, state='GGGGGG', minDur=89.6, maxDur=89.6, next=()), 
@@ -341,8 +382,17 @@ def evaluate_chromosome(chromosome,sumo_binary=sumo_binary,
 
 
 def generate_random_population(chromosome,pop_size = pop_size):
+	'''Generates a random initial poulation 
 
-    init_pop  =  population(0)
+   chromosome	: base chromosome whose structure should be used to generate the population. 
+   Base chromosome structure should match the configuration of the SUMO network
+	pop_size: Size of the population
+	
+	returns population
+	'''
+	
+
+   init_pop  =  population(0)
     gene_pool = []
     for individual in range(pop_size):
         chromosome_new = mutate_chromosome(chromosome,1,10,1)
@@ -356,6 +406,7 @@ def generate_random_population(chromosome,pop_size = pop_size):
 
 
 def visualize_SUMO(chromosome=None,n_steps=n_steps):
+	''' Visualize the simulation'''
     traci.start([sumo_binary_gui, "-c", config_file,'--start','--quit-on-end'],label = 'simView')
     if chromosome is not None:
         set_chromosome(chromosome)
@@ -369,6 +420,10 @@ def visualize_SUMO(chromosome=None,n_steps=n_steps):
 
 
 def run_GA(max_generations = max_generations,n_survivors = n_survivors):
+	''' Run all the steps for a Genetic Algorithm
+	max_generations	: Number of generations till which the code should execute
+	n_survivors		: the top n_survivors are allowed to mate
+	'''
     # traci.start([sumo_binary, "-c", config_file,'--start','--quit-on-end'],label = 'sim1')
     # conn = traci.getConnection("sim1")
 
