@@ -30,7 +30,7 @@ def generate_manhattan_grid(net_file = "net.net.xml",x=5,y=3,lanes=3,length=200)
 		: x			: Number of rows in the grid (default =5)
 		: y			: Number of columns in the grid(default = 3)
 		: lanes		: Number of lanes in road network(default=3)
-		: length	: Length between intersections
+		: length	: 	
 	'''
     os.system("netgenerate --grid --grid.x-number="+str(x)+" --grid.y-number="+str(y)+ " -L="+str(lanes)+" --grid.length="+str(length) +" --output-file="+str(net_file)+" -H -j traffic_light")
     
