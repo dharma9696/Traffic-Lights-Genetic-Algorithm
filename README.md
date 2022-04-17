@@ -2,11 +2,18 @@
 ## 
 
 
+
+
 ## Problem statement 
 
 To develop an algorithm that reduces CO2 emissions in a city by controlling the traffic signals.
 
 ## Solution
+
+We will be implementing the genetic algorithm to find the optimal configuration of traffic signals.
+Please view the file [Final Presentation]() for an overview of the project.
+Also, go through the [medium post](https://medium.com/@rohit.dharma96/reducing-the-carbon-footprint-by-controlling-traffic-lights-7761758fec1a) for a detailed description of the project.
+
 1. Simulate a road network and populate the network with cars.
 2. Connect the simulation to a Python script 
 3. Build functions to manipulate the traffic lights in the system.
